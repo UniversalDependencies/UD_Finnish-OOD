@@ -5,7 +5,7 @@ Finnish-OOD is an external out-of-domain test set for Finnish-TDT annotated nati
 
 # Introduction
 
-The treebank contains texts from anonymized nursing narratives (hospital patient records), discussion forums, tweets, general web crawls and poetry collected from the Internet. Text sources are marked as sentence identifier prefixes (# sent_id = identifier), cl = nursing narratives, thread = discussion forums, tweet = tweets, web = web crawl, and poem = poetry. The document structure can also been resolved from the sentence identifiers.
+The treebank contains texts from anonymized nursing narratives (hospital patient records), discussion forums, tweets, general web crawls and poetry collected from the Internet. Text sources are marked as sentence identifier prefixes (`# sent_id = identifier`), cl = nursing narratives, thread = discussion forums, tweet = tweets, web = web crawl, and poem = poetry. The document structure can also been resolved from the sentence identifiers.
 
 # License / Copyright
 
@@ -22,7 +22,7 @@ Annotation: Jenna Kanerva
 
 Text sources collected by TurkuNLP research group, especially Jenna Kanerva, Filip Ginter, Veronika Laippala and Juhani Luotolahti.
 
-The poetry section is extracted from the Finnish Corpus of Online Registers (FinCORE, https://github.com/TurkuNLP/FinCORE), and the web crawl section is extracted from the Finnish Internet Parsebank (https://turkunlp.org/finnish_nlp.html#parsebank).
+The poetry section is extracted from the Finnish Corpus of Online Registers (FinCORE, (link)[https://github.com/TurkuNLP/FinCORE]), and the web crawl section is extracted from the Finnish Internet Parsebank ((link)[https://turkunlp.org/finnish_nlp.html#parsebank]).
 
 ## References
 
