@@ -22,7 +22,7 @@ Annotation: Jenna Kanerva
 
 Text sources collected by TurkuNLP research group, especially Jenna Kanerva, Filip Ginter, Veronika Laippala and Juhani Luotolahti.
 
-The poetry section is extracted from the Finnish Corpus of Online Registers (FinCORE, (link)[https://github.com/TurkuNLP/FinCORE]), and the web crawl section is extracted from the Finnish Internet Parsebank ((link)[https://turkunlp.org/finnish_nlp.html#parsebank]).
+The poetry section is extracted from the Finnish Corpus of Online Registers (FinCORE, [link](https://github.com/TurkuNLP/FinCORE)), and the web crawl section is extracted from the Finnish Internet Parsebank ([link](https://turkunlp.org/finnish_nlp.html#parsebank)).
 
 ## References
 
