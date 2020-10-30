@@ -1,4 +1,5 @@
 # text = pitkävuoro
+# newdoc id = cl001
 # doc_id =  cl001.d.xml
 # sent_id = cl001.1
 1	pitkävuoro	pitkä#vuoro	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -4320,6 +4321,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # text = Pitkä yövuoro/
+# newdoc id = cl002
 # doc_id =  cl002.d.xml
 # sent_id = cl002.1
 1	Pitkä	pitkä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -9091,8 +9093,7 @@
 
 # JMikkonen
 # Tue Jan 02 20:34:54 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet1
 # sent_id = tweet1.1
 # text = @Raawen @El_Phantasmo69 @KatiPehkonen Alkoholi on yksi keskeisin vältettävissä olevan sairaustaakan aiheuttaja globaalisti, vaikka noin 62 prosenttia maailman aikuisväestöstä ei ole käyttänyt lainkaan alkoholia viimeisen vuoden aikana.
 1	@Raawen	@Raawen	PROPN	_	Case=Nom|Number=Sing	11	vocative	_	_
@@ -9134,8 +9135,7 @@
 
 # EveryFinnishNo
 # Sat Jan 20 21:16:45 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet2
 # sent_id = tweet2.1
 # text = 1475494 miljoonaneljäsataaseitsemänkymmentäviisituhattaneljäsataayhdeksänkymmentäneljä
 1	1475494	1475494	NUM	_	NumType=Card	0	root	_	_
@@ -9144,8 +9144,7 @@
 # RT olaviholmala
 # OutiTuuliaViini
 # Wed Oct 26 08:50:41 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet3
 # sent_id = tweet3.1
 # text = Syksyinen metsämaisema. #luontokuva #photography #luonto #nature #luontotwiitti #kuvakulma #metsä https://t.co/3ES2Q3fsfk
 1	Syksyinen	syksyinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
@@ -9162,8 +9161,7 @@
 
 # jmaasto
 # Mon Feb 27 03:21:32 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet4
 # sent_id = tweet4.1
 # text = Iloa, älyä, taitoa ja sinnikkyyttä, Onnea Jackie Chan! #oscarit
 1	Iloa	ilo	NOUN	_	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
@@ -9183,8 +9181,7 @@
 # RT tosinuija
 # birimuda
 # Wed Feb 22 23:06:51 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet5
 # sent_id = tweet5.1
 # text = Mitä vampyyri sanoo ruokailun jälkeen?
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	3	obj	_	_
@@ -9202,8 +9199,7 @@
 
 # VFXVBS
 # Wed Jan 17 15:07:15 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet6
 # sent_id = tweet6.1
 # text = Tykkäsin @YouTube-videosta https://t.co/rL8wRHoYdJ Avail Cams #1
 1	Tykkäsin	tykätä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -9215,8 +9211,7 @@
 
 # loimutyopaikat
 # Tue Apr 17 10:37:04 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet7
 # sent_id = tweet7.1
 # text = Tutkijatohtorin määräaikainen tehtävä, Turun yliopisto., 20014 - Turku https://t.co/IHyxPtTpSS https://t.co/vtmk1NuqcC
 1	Tutkijatohtorin	tutkija#tohtori	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
@@ -9235,8 +9230,7 @@
 
 # k_jukka
 # Tue Nov 07 20:31:15 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet8
 # sent_id = tweet8.1
 # text = @solomonturska @JunesLokka @SwanOfTuonela Eteläafrikkalaiset ovat tässäkin meitä parempia! :D
 1	@solomonturska	@solomonturska	PROPN	_	Case=Nom|Number=Sing	8	vocative	_	_
@@ -9252,8 +9246,7 @@
 
 # FunnyMitu
 # Wed Aug 16 01:41:31 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet9
 # sent_id = tweet9.1
 # text = ja tietäväisiä asioista vaikka he ovat yhtä pellejä kuten kaikki muut humalaiset.
 1	ja	ja	CCONJ	_	_	2	cc	_	_
@@ -9282,8 +9275,7 @@
 
 # SuomiUrheilu
 # Sun Sep 17 16:18:47 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet10
 # sent_id = tweet10.1
 # text = Lotta Lepistö saavutti MM-pronssia – ”Tällä kertaa olimme paljon lähempänä voittajaa” https://t.co/c0WWaQu8wb #pyöräily
 1	Lotta	Lotta	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -9305,8 +9297,7 @@
 # RT MikaelJungner
 # rapeka
 # Fri Aug 03 11:29:50 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet11
 # sent_id = tweet11.1
 # text = Kun on verrattu Suomea 40-luvun Saksaan niin ehkä nämä säännöt lähes 80 vuoden takaa kertoo että kuitenkin aika erilaista oli meno siellä... https://t.co/iGyCpUHdXq
 1	Kun	kun	SCONJ	_	_	3	mark	_	_
@@ -9337,8 +9328,7 @@
 # RT liandersson
 # HenrikJaakkola
 # Sat May 05 09:46:57 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet12
 # sent_id = tweet12.1
 # text = Työministeri Lindström myöntää, että hallitus yrittää ajaa läpi ikäsyrjintään perustuvaa lainsäädäntöä. https://t.co/ZQjJLRvOUY #uutisvahti
 1	Työministeri	työ#ministeri	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
@@ -9360,8 +9350,7 @@
 # RT tallinna24
 # aklyytinen
 # Sat Oct 21 04:55:26 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet13
 # sent_id = tweet13.1
 # text = Viranomaiset harjoittelivat yhteistoimintaa Suomenlahdella https://t.co/CqEvQFU9sW https://t.co/yYBoDMaUYI
 1	Viranomaiset	viran#omainen	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
@@ -9374,8 +9363,7 @@
 # RT jarvansalo
 # MiikkaKeranen
 # Tue Sep 27 05:01:52 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet14
 # sent_id = tweet14.1
 # text = Tutkimus varoittaa eturistiriidasta: "Kuntatyöntekijä valtuustossa kasvattaa oman alansa menoja" https://t.co/PYCB4b2ndN #uutisvahti
 1	Tutkimus	tutkimus	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -9395,8 +9383,7 @@
 
 # ScaniaSuomi
 # Tue Jan 09 09:01:23 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet15
 # sent_id = tweet15.1
 # text = Uusille urille?
 1	Uusille	uusi	ADJ	_	Case=All|Degree=Pos|Number=Plur	2	amod	_	_
@@ -9450,8 +9437,7 @@
 
 # iltalehti_fi
 # Mon Oct 23 04:00:46 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet16
 # sent_id = tweet16.1
 # text = Espanja haluaa viedä Katalonialta autonomian - näin asiat etenevät tällä viikolla https://t.co/bLKUx2ZH82
 1	Espanja	Espanja	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -9469,8 +9455,7 @@
 
 # Sebuss92
 # Sun Sep 03 18:37:11 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet17
 # sent_id = tweet17.1
 # text = Ja nekin raudoista ulos. #susijengi
 1	Ja	ja	CCONJ	_	_	2	cc	_	_
@@ -9482,8 +9467,7 @@
 
 # Pallonlyojat
 # Thu Jul 13 16:07:55 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet18
 # sent_id = tweet18.1
 # text = JoMa nappaa jaksovoiton, kun Iiro Kuosa lyö Tuomas Jussilan kotiin.
 1	JoMa	JoMa	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -9513,8 +9497,7 @@
 
 # kiuruja
 # Tue Apr 04 15:34:01 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet19
 # sent_id = tweet19.1
 # text = Tällä tultiin kotiin. https://t.co/hk2Bc4N7Ll
 1	Tällä	tämä	PRON	_	Case=Ade|Number=Sing|PronType=Dem	2	obl	_	_
@@ -9525,8 +9508,7 @@
 
 # ranzku
 # Thu Mar 09 11:04:16 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet20
 # sent_id = tweet20.1
 # text = @ZeraZirp vau! En tiennyt, että enää pystyisit! Hienoa!
 1	@ZeraZirp	@ZeraZirp	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -9544,8 +9526,7 @@
 
 # AstinusLorekeep
 # Mon Feb 06 11:09:50 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet21
 # sent_id = tweet21.1
 # text = Tutkimus: Ylinopeudet vähenivät – yhtenä syynä korotetut rikesakot https://t.co/Ru72NEo6Oj
 1	Tutkimus	tutkimus	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -9573,8 +9554,7 @@
 
 # kangaske
 # Thu Sep 28 11:13:52 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet22
 # sent_id = tweet22.1
 # text = Syöpään sairastunut Duudsoneiden Jarno Laasala: "Kävin isoja asioita läpi" (MTV.fi) https://t.co/1j8TMILYWo
 1	Syöpään	syöpä	NOUN	_	Case=Ill|Number=Sing	2	obl	_	_
@@ -9596,8 +9576,7 @@
 
 # vvvili
 # Sat Apr 01 08:28:17 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet23
 # sent_id = tweet23.1
 # text = Valavuori purkanut tuntojaan #HCTPS:n putoamisesta.
 1	Valavuori	Valavuori	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -9629,8 +9608,7 @@
 
 # StarckTii
 # Wed Feb 14 14:50:46 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet24
 # sent_id = tweet24.1
 # text = @JunesLokka @LSPgalore @idiotn00b @oula_silver Voisi myös summata, että kunnianloukkauksista ja kiihottamisesta kansanryhmää vastaan.
 1	@JunesLokka	@JunesLokka	PROPN	_	Case=Nom|Number=Sing	7	vocative	_	_
@@ -9673,8 +9651,7 @@
 
 # LpsRaita
 # Mon Feb 12 16:51:52 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet25
 # sent_id = tweet25.1
 # text = Käykää pyytää kaveriksi ja sitten juttelee 😉.
 1	Käykää	käydä	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -9700,8 +9677,7 @@
 # RT niinisto
 # jori_kulmala
 # Tue Mar 14 14:44:48 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet26
 # sent_id = tweet26.1
 # text = Tulkaa mukaan! @sannigrahn, @ennirukajarvi, @armanalizad, @PetraOlli, @Lukiolaiset, @sakkiry @Duudsonit
 1	Tulkaa	tulla	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -9722,8 +9698,7 @@
 
 # sportsnake81
 # Sat Sep 16 07:06:48 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet27
 # sent_id = tweet27.1
 # text = @kaisa_hiltunen @puhakka_tanke @aapupoika @Santta74 @Kristiinainen @Sini_74 @kahvineuvos @TWEETPetri @theteemu1 Astianpesukone pyörii, kauppareissu tehty ja kohta siivous edessä 😊
 1	@kaisa_hiltunen	@kaisa_hiltunen	PROPN	_	Case=Nom|Number=Sing	11	vocative	_	_
@@ -9748,8 +9723,7 @@
 
 # HotFinland
 # Mon May 28 01:02:02 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet28
 # sent_id = tweet28.1
 # text = Patrick Reed lähtee johdossa Mastersin päätöskierrokselle – Tiger Woods jäänyt kauas kärjestä https://t.co/NnNq9kPKUp https://t.co/EUJ2CXWguK
 1	Patrick	Patrick	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -9769,8 +9743,7 @@
 
 # nosfe
 # Tue Jan 23 08:53:12 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet29
 # sent_id = tweet29.1
 # text = @rauli_virtanen @ambrowoll @Haavisto @aishizidan millä tavalla journalistinen avoimuus olisisi rasistisen apartheid-valtion etu?
 1	@rauli_virtanen	@rauli_virtanen	PROPN	_	Case=Nom|Number=Sing	12	vocative	_	_
@@ -9790,8 +9763,7 @@
 # RT petrira
 # psintone
 # Sun Sep 03 09:02:43 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet30
 # sent_id = tweet30.1
 # text = Antti pitkospuilla #suomenlapinkoira #finnishlapphund #koira #dog #pitkospuut #luontopolku #metsä #forest #nature #suomi100 #finland100 https://t.co/D8Utzcs66V
 1	Antti	Antti	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -9811,8 +9783,7 @@
 
 # Rakettitiede
 # Tue Mar 21 12:13:09 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet31
 # sent_id = tweet31.1
 # text = Raketin uusin startup: Chili!
 1	Raketin	Raketti	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
@@ -9862,8 +9833,7 @@
 # RT NinnuKoskenalho
 # saara_toukis
 # Sat Sep 24 08:13:09 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet32
 # sent_id = tweet32.1
 # text = Saamelaisasiaa luvassa myös @antroblogi'ssa jatkossa lisää. https://t.co/42zsFyWNJK
 1	Saamelaisasiaa	saamelais#asia	NOUN	_	Case=Par|Number=Sing	2	nsubj:cop	_	_
@@ -9877,8 +9847,7 @@
 
 # soalmila
 # Thu Oct 12 21:19:04 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet33
 # sent_id = tweet33.1
 # text = Ihan hyvä @NVUutiset @jukkalindstrom – hiukan odotin uskallusta #intiaanipäähinegate:n suuntaan, mutta olihan tuo @Finnkino_FI jes kohde.
 1	Ihan	ihan	ADV	_	_	2	advmod	_	_
@@ -9902,8 +9871,7 @@
 
 # sataaxhuomeinfo
 # Fri Sep 23 11:00:18 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet34
 # sent_id = tweet34.1
 # text = Taitaa #Pielavesi kastuu huome.
 1	Taitaa	taitaa	AUX	_	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
@@ -9914,8 +9882,7 @@
 
 # pohnake
 # Mon Apr 02 10:00:45 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet35
 # sent_id = tweet35.1
 # text = ”ajattelin, että hänessä oli erinomaisia aineksia, vaikka ne tätä nykyä olivatkin sotkeutuneet ja pilalla” djkdhsjdjd jane eyre pls tää on kyl next level
 1	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -9948,8 +9915,7 @@
 
 # valtteritervala
 # Thu Feb 16 08:34:17 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet36
 # sent_id = tweet36.1
 # text = Luulitko, että VPK on vain miesten juttu? https://t.co/AAGx9ASRer #vpk #palokunta
 1	Luulitko	luulla	VERB	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -9967,8 +9933,7 @@
 
 # PKytohonka
 # Fri Feb 02 14:52:30 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet37
 # sent_id = tweet37.1
 # text = @ToniLotjonen @harrikumpulaine Se on totta, että ehkä tällaisia Latvia-Venäjä -tyyppisiä pelejä kaipaisi lisää tällaiseen arvotapahtumaan. #salibandy
 1	@ToniLotjonen	@ToniLotjonen	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -9995,8 +9960,7 @@
 # RT marmai
 # saulilepola
 # Thu Mar 30 09:55:33 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet38
 # sent_id = tweet38.1
 # text = Selvitys – näin blogit vaikuttavat kuluttajien ostopäätöksiin #blogit #kuluttaminen #media #ostokset #tutkimus https://t.co/FsSf6Az8Ta
 1	Selvitys	selvitys	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -10015,8 +9979,7 @@
 
 # paralleeli
 # Mon Dec 25 15:49:58 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet39
 # sent_id = tweet39.1
 # text = @SaaraHuttunen @Loca_Chica95 @lunaticsalt Mun luon stadis periaatteessa mut tää on aika pieni paikka + mulla on koira :''D
 1	@SaaraHuttunen	@SaaraHuttunen	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -10041,8 +10004,7 @@
 # RT suldaansaid
 # MiskaDellinger
 # Sat May 12 13:54:22 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet40
 # sent_id = tweet40.1
 # text = Tämä on toinen kerta vain tänään kun mediassa tulee vastaan tällainen romaneihin kohdistuva syrjintä, tämän on loputtava.
 1	Tämä	tämä	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj:cop	_	_
@@ -10088,8 +10050,7 @@
 
 # Jonettebutterfl
 # Sun Sep 25 14:58:12 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet41
 # sent_id = tweet41.1
 # text = Lisäsin videon @YouTube-soittolistaan https://t.co/8P51RTTEBH Cheek Aurafest 2016
 1	Lisäsin	lisätä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -10102,8 +10063,7 @@
 
 # AvaruusAG
 # Mon May 14 21:38:31 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet42
 # sent_id = tweet42.1
 # text = @ARautiainen @pepita_kekkila @TheErpoy @JunesLokka @TiiaMaija Keneltä ostat desot?
 1	@ARautiainen	@ARautiainen	PROPN	_	Case=Nom|Number=Sing	7	vocative	_	_
@@ -10134,8 +10094,7 @@
 
 # rusthackreport
 # Sat Dec 30 10:42:24 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet43
 # sent_id = tweet43.1
 # text = "niimpäniin" was banned - https://t.co/wVS8KW805n
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -10149,8 +10108,7 @@
 # RT kailipp
 # satves
 # Sun Apr 22 05:51:30 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet44
 # sent_id = tweet44.1
 # text = Halutuimpia henkilöstöetuja ovat usein työn joustavuus, hyvä johtaminen, innostava ilmapiiri ja haastavat työtehtävät.
 1	Halutuimpia	haluttu	ADJ	_	Case=Par|Degree=Sup|Number=Plur	2	amod	_	_
@@ -10201,8 +10159,7 @@
 
 # dioriina
 # Wed Nov 09 11:12:28 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet45
 # sent_id = tweet45.1
 # text = Heleä iho - jokaisen naisen unelma https://t.co/zxCJPunKol on @bloglovin
 1	Heleä	heleä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -10217,8 +10174,7 @@
 
 # kallewiik
 # Wed Oct 11 07:12:36 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet46
 # sent_id = tweet46.1
 # text = @Sukkola älä välitä vittuiluista sanna.
 1	@Sukkola	@Sukkola	PROPN	_	Case=Nom|Number=Sing	3	vocative	_	_
@@ -10250,8 +10206,7 @@
 
 # MarikaPaaso
 # Tue Oct 04 11:30:38 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet47
 # sent_id = tweet47.1
 # text = @samponev Ei kaiketi pelkästään, mutta siitä erityisesti oli kyse.
 1	@samponev	@samponev	PROPN	_	Case=Nom|Number=Sing	2	vocative	_	_
@@ -10269,8 +10224,7 @@
 # RT mattivatilo
 # kimmoronka
 # Mon Mar 27 16:25:56 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet48
 # sent_id = tweet48.1
 # text = Kiinnostava tieto.
 1	Kiinnostava	kiinnostava	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -10294,8 +10248,7 @@
 
 # Uutisvuoksi
 # Thu Feb 16 19:37:05 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet49
 # sent_id = tweet49.1
 # text = Perinteinen talvitapahtuma Mellonmäellä lauantaina https://t.co/huSBSBy4Ow
 1	Perinteinen	perinteinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
@@ -10306,8 +10259,7 @@
 
 # MiroHirvonen
 # Sun Apr 08 16:18:27 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet50
 # sent_id = tweet50.1
 # text = @marytheluckyone Vihreät paloi
 1	@marytheluckyone	@marytheluckyone	PROPN	_	Case=Nom|Number=Sing	3	vocative	_	_
@@ -10316,8 +10268,7 @@
 
 # 0masch
 # Sat Jun 16 15:36:45 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet51
 # sent_id = tweet51.1
 # text = @Joht_Kotiniemi @MJSaarelainen Yövuorolaisena kotona lepäämässä.
 1	@Joht_Kotiniemi	@Joht_Kotiniemi	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -10329,8 +10280,7 @@
 
 # JohannaKukka
 # Wed Jun 06 03:54:49 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet52
 # sent_id = tweet52.1
 # text = @Pasisillanp Niinhän se menee.
 1	@Pasisillanp	@Pasisillanp	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -10382,8 +10332,7 @@
 
 # Jaakko_poika
 # Fri Dec 01 11:49:08 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet53
 # sent_id = tweet53.1
 # text = Mua vaan kummastuttaa tää kaksoisstandardi, ku @Veikkausliiga aina voivotellaan, ettei jengi halua tulla syksyllä kattoo pelejä.
 1	Mua	minä	PRON	_	Case=Par|Number=Sing|PronType=Prs|Style=Coll	3	obj	_	_
@@ -10425,8 +10374,7 @@
 
 # neewsbot
 # Fri Mar 23 12:45:13 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet54
 # sent_id = tweet54.1
 # text = Lukas Hradecky ei ole vielä lopettamassa maajoukkueuraansa (https://t.co/FvYPT0PMME) https://t.co/b5A2P9iZ2j
 1	Lukas	Lukas	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -10443,8 +10391,7 @@
 
 # KajKunnas
 # Tue Feb 07 11:00:36 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet55
 # sent_id = tweet55.1
 # text = @lainearto41 No katos perskeles...
 1	@lainearto41	@lainearto41	PROPN	_	Case=Nom|Number=Sing	2	vocative	_	_
@@ -10465,8 +10412,7 @@
 
 # tuomaszacheus
 # Thu Oct 05 04:00:21 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet56
 # sent_id = tweet56.1
 # text = @jarvisenmikko Otan osaa.
 1	@jarvisenmikko	@jarvisenmikko	PROPN	_	Case=Nom|Number=Sing	2	vocative	_	_
@@ -10493,8 +10439,7 @@
 
 # timovaisanen51
 # Sun Sep 24 11:03:44 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet57
 # sent_id = tweet57.1
 # text = @EevaLehtimaki mikä on soten tämänhetkinen tilanne?
 1	@EevaLehtimaki	@EevaLehtimaki	PROPN	_	Case=Nom|Number=Sing	2	vocative	_	_
@@ -10508,8 +10453,7 @@
 # RT JuliusJaask
 # hjlammi
 # Thu Oct 12 13:57:59 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet58
 # sent_id = tweet58.1
 # text = Mitä saatanan helvettiä tää on, työtön joutuu karenssiin jos ei satu kuulemaan kun puhelin soi https://t.co/Zhb3Ghd2RU https://t.co/1sJUpnofCm
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	0	root	_	_
@@ -10533,8 +10477,7 @@
 
 # mediaruukki
 # Fri Mar 02 02:55:56 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet59
 # sent_id = tweet59.1
 # text = Savon Sanomat Hallituksen esitys: alle 13-vuotias tarvitsee vanhempien suostumuksen henkilötietojen antamiseen... https://t.co/ZimG0YbqRr
 1	Savon	Savo	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -10554,8 +10497,7 @@
 
 # Pas1_KALL0
 # Sat Oct 22 12:59:43 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet60
 # sent_id = tweet60.1
 # text = Se hetki, kun lapsi miettii vanhempiaan kuvaavia eläimiä: Isä on leijona ja äiti on...*parin minuutin hiljaisuus*... ööö... poro. #nevöföget
 1	Se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -10589,8 +10531,7 @@
 
 # Kulttuurisi
 # Sun Jul 30 05:29:26 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet61
 # sent_id = tweet61.1
 # text = IS: Lauri Mäntyvaaran tuuheet ripset kertoo rakkauden kapinallisista: sympaattista esikoisohjausta tähdittää myö... https://t.co/K0CLplCEpn https://t.co/nQkaXHHTko
 1	IS	IS	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -10614,8 +10555,7 @@
 # RT 5ilvius
 # MikkoSaarinen_
 # Wed Jun 21 08:42:00 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet62
 # sent_id = tweet62.1
 # text = #jännä että se sukupolvi jolla on ongelmia alkoholinkäytössä on huolissaan sukupolvesta jolla näitä ongelmia ei juuri ole. #alkoholilaki
 1	#jännä	#jännä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	Note=embedded
@@ -10640,8 +10580,7 @@
 
 # Kauneuskirurgi
 # Tue Mar 14 09:28:56 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet63
 # sent_id = tweet63.1
 # text = Kiinnostaako rintojen suurentaminen?
 1	Kiinnostaako	kiinnostaa	VERB	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -10661,8 +10600,7 @@
 
 # SivisNYT
 # Wed Aug 23 14:24:29 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet64
 # sent_id = tweet64.1
 # text = Suora linkki kolumniin: https://t.co/tRbwGBpdcl
 1	Suora	suora	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -10673,8 +10611,7 @@
 
 # GhoconSuomi
 # Fri Mar 17 08:00:31 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet65
 # sent_id = tweet65.1
 # text = Tutkimus: Neljännes viestintäpäättäjistä jättää mitattavat viestintätavoitteet asettamatta https://t.co/wxA03foYtJ
 1	Tutkimus	tutkimus	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -10690,8 +10627,7 @@
 # RT AnnamariSipila
 # kaimyrberg1
 # Tue Sep 27 08:36:31 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet66
 # sent_id = tweet66.1
 # text = Puola polkemassa EU:n arvoja ja ihmisoikeuksia: aborttilain tiukennus veisi mm. raiskatuilta oikeuden aborttiin. https://t.co/TYlANE43EN
 1	Puola	Puola	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -10713,8 +10649,7 @@
 
 # EdesmenneetPrh
 # Sat Aug 12 12:45:02 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet67
 # sent_id = tweet67.1
 # text = SUOMEN MIES- JA NAISKAMPAAMOTYÖNTEKIJÄIN LIITTO R.Y.
 1	SUOMEN	Suomi	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -10726,8 +10661,7 @@
 
 # Rayhapetteri
 # Sat Mar 31 13:09:42 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet68
 # sent_id = tweet68.1
 # text = Vaimo tiskaa, minä makaan sohvalla.
 1	Vaimo	vaimo	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -10750,8 +10684,7 @@
 
 # Lehtoranta1
 # Tue Mar 27 08:44:16 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet69
 # sent_id = tweet69.1
 # text = @Kill_The_Drive @Mattipattinen Itse antennitaloudessa ja Elisa viihteen asiakas. 😞
 1	@Kill_The_Drive	@Kill_The_Drive	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -10767,8 +10700,7 @@
 
 # dorchemist
 # Sat Sep 24 11:13:06 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet70
 # sent_id = tweet70.1
 # text = ........mitä tääl tapahtuu oikeesti
 1	........	........	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -10779,8 +10711,7 @@
 
 # SonjaTanhua
 # Thu Mar 29 06:59:32 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet71
 # sent_id = tweet71.1
 # text = @TiinaMattanen Ei mullakaan ole mitään numero tietoa heittää tähän enkä voi varmuudella sanoa mikä kielitilanne alueella oli esim. 1900-luvun vaihteessa.
 1	@TiinaMattanen	@TiinaMattanen	PROPN	_	Case=Nom|Number=Sing	3	vocative	_	_
@@ -10836,8 +10767,7 @@
 # RT ylioppilaskunta
 # SYL_FIN
 # Mon Feb 13 10:24:24 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet72
 # sent_id = tweet72.1
 # text = Nyt alkaa korkeakouluopiskelijoiden terveystutkimus 2016 julkistamisseminaari. #kott2016
 1	Nyt	nyt	ADV	_	_	2	advmod	_	_
@@ -10851,8 +10781,7 @@
 
 # MinnaOllikainen
 # Fri May 04 20:03:39 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet73
 # sent_id = tweet73.1
 # text = Totta ja ajatuksia herättävää. #työilmapiiri #itsensäjohtaminen https://t.co/OQRALjWHVe
 1	Totta	tosi	ADJ	_	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
@@ -10867,8 +10796,7 @@
 # RT maailmanet
 # MarjoTapaninen
 # Thu Jul 26 13:09:58 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet74
 # sent_id = tweet74.1
 # text = Raportti: Käytettyjen autojen dumppaus kehitysmaihin on estettävä https://t.co/IS80xVe1WT
 1	Raportti	raportti	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -10884,8 +10812,7 @@
 # RT kirsi_ripatti
 # ErkkiRipatti
 # Tue Oct 17 05:31:15 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet75
 # sent_id = tweet75.1
 # text = Käteisen käytöstäkin löytyy tietoa @SuomenPankki ’n #maksuliiketilastot – Euro ja talous https://t.co/5eNrWcrxHY #eurojatalous
 1	Käteisen	käteinen	NOUN	_	Case=Gen|Number=Sing	2	nmod:gobj	_	_
@@ -10905,8 +10832,7 @@
 # RT amketoimisto
 # ReinaRiikka
 # Tue Nov 15 05:35:11 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet76
 # sent_id = tweet76.1
 # text = Reformilla nostetaan ammatillisen koulutuksen merkitystä ja vetovoimaa. @sannigrahn @okmfi #ammatillinenkoulutus https://t.co/Cr2dMrv2lL https://t.co/jC1Ru9GBQX
 1	Reformilla	reformi	NOUN	_	Case=Ade|Number=Sing	2	obl	_	_
@@ -10925,8 +10851,7 @@
 
 # haavikassu
 # Sat Jan 27 02:21:13 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet77
 # sent_id = tweet77.1
 # text = Missähän Pine on?
 1	Missähän	mikä	PRON	_	Case=Ine|Clitic=Han|Number=Sing|PronType=Int	0	root	_	_
@@ -10959,8 +10884,7 @@
 
 # unofficialnikke
 # Tue Jul 03 16:25:15 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet78
 # sent_id = tweet78.1
 # text = CS:n kattominen facebookista pähkinänkuoressa #ESLOneCologne https://t.co/5N9Q35j3g3
 1	CS:n	CS	PROPN	_	Abbr=Yes|Case=Gen|Number=Sing	2	nmod:gobj	_	_
@@ -10973,8 +10897,7 @@
 # RT RHeikinheimo
 # Elinkeinoelama
 # Mon Nov 07 09:58:44 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet79
 # sent_id = tweet79.1
 # text = .#digi parantaa motivaatiota Koulujen digiopetus etenee vauhdilla, mutta laadukasta sisältöä kaivataan https://t.co/oHqtW1PNsF
 1	.#digi	.#digi	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	Note=check
@@ -10993,8 +10916,7 @@
 
 # KesatyoPori
 # Thu Mar 22 21:36:06 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet80
 # sent_id = tweet80.1
 # text = Ravintolatyöntekijä, LounasPatria Oy, 28900 - Pori https://t.co/tSHChyn2NJ
 1	Ravintolatyöntekijä	ravintola#työn#tekijä	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	0	root	_	SpaceAfter=No
@@ -11010,8 +10932,7 @@
 # RT finanssiala
 # SallaLindstrom
 # Mon Feb 20 17:52:52 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet81
 # sent_id = tweet81.1
 # text = Erkki Moisander, @Lahi_Tapiola'n pääjohtaja, uskoo kesämökkien muuttuvan vielä lisäeläkkeiksi - oma vastuu kasvaa! #finanssiala #vakuutus https://t.co/dNLwTLkiI1
 1	Erkki	Erkki	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
@@ -11036,8 +10957,7 @@
 
 # SeveriMallula
 # Tue Jul 11 20:59:50 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet82
 # sent_id = tweet82.1
 # text = @ValtteriBottas Siitä testattavaks 😂😂 https://t.co/Sp7F7t4jI3
 1	@ValtteriBottas	@ValtteriBottas	PROPN	_	Case=Nom|Number=Sing	3	vocative	_	_
@@ -11048,8 +10968,7 @@
 
 # KainoKivi
 # Sun Nov 05 16:40:37 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet83
 # sent_id = tweet83.1
 # text = @HolopainenMinna Kiitos! Huolellisen tuntuisesti tehty juttu.
 1	@HolopainenMinna	@HolopainenMinna	PROPN	_	Case=Nom|Number=Sing	7	vocative	_	_
@@ -11082,8 +11001,7 @@
 # RT paulavesala
 # JoonasTuompo
 # Tue Apr 24 05:11:16 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet84
 # sent_id = tweet84.1
 # text = Ihmisiä jotka tekevät Suomessa töitä, joilla on tukiverkosto, ovat kotoutuneet...
 1	Ihmisiä	ihminen	NOUN	_	Case=Par|Number=Plur	0	root	_	_
@@ -11148,8 +11066,7 @@
 # RT KatriKanervo
 # koiramies
 # Mon Oct 10 20:13:07 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet85
 # sent_id = tweet85.1
 # text = Fakta homma: Aleksis Kiven kuolinmökissä https://t.co/A5qKh5vZwz
 1	Fakta	fakta	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
@@ -11163,8 +11080,7 @@
 # RT minnahuoti
 # MsMaehoenen
 # Tue Mar 13 18:45:49 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet86
 # sent_id = tweet86.1
 # text = Prof. Katri Räikkönen-Talvitie nostaa koko täysinäisen Porthania I:n porukan liikkeelle.
 1	Prof.	Prof.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	_
@@ -11199,8 +11115,7 @@
 
 # Maaninkavaara
 # Wed Jul 18 05:20:00 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet87
 # sent_id = tweet87.1
 # text = Peliriippuvuudesta tuli viimein #oikea #sairaus – WHO lisäsi virallisiin tautiluokituksiin #peliaddiktio #peliriippuvuus #WHO #tautiluokitus https://t.co/P8wSQZzW45
 1	Peliriippuvuudesta	peli#riippuvuus	NOUN	_	Case=Ela|Derivation=Vs|Number=Sing	2	obl	_	_
@@ -11222,8 +11137,7 @@
 # RT SuomenEkonomit
 # annehojanen
 # Thu Oct 27 16:14:48 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet88
 # sent_id = tweet88.1
 # text = Nyt on aika tarttua huipputeoksiin!
 1	Nyt	nyt	ADV	_	_	3	advmod	_	_
@@ -11250,8 +11164,7 @@
 # RT JussiLahde
 # k272479
 # Mon Dec 18 06:42:36 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet89
 # sent_id = tweet89.1
 # text = Poliisin suorittama kotietsintä @hsfi:n #viestikoelaitos -artikkelin kirjoittaneen toimittajan kotiin kertoo että jotain todella merkittävää on valtiolla kateissa.
 1	Poliisin	poliisi	NOUN	_	Case=Gen|Number=Sing	2	nsubj	_	_
@@ -11297,8 +11210,7 @@
 
 # PPbigbrother
 # Sun Aug 27 06:25:15 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet90
 # sent_id = tweet90.1
 # text = @Juho_p @L_S_poliisi Mitä siellä on nyt ollut?
 1	@Juho_p	@Juho_p	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -11312,8 +11224,7 @@
 
 # SamiGabbouj
 # Thu Nov 09 07:35:56 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet91
 # sent_id = tweet91.1
 # text = @EmmiVenalainen @keskipanula @SiiriNousiainen @OYYtwiittaa Ei käsittääkseni silloin kun ovat tilan varanneet tai on tapahtumaan kutsuttu ständäilemään.
 1	@EmmiVenalainen	@EmmiVenalainen	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -11336,8 +11247,7 @@
 
 # JeevesToo
 # Fri Mar 30 17:43:46 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet92
 # sent_id = tweet92.1
 # text = Voisko tehdä sääntömuutoksen, ettei mitään kappaletta saisi esittää kuin kerran 3ssa vuodessa?? 🎤 #tvof
 1	Voisko	voida	AUX	_	Clitic=Ko|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -11362,8 +11272,7 @@
 # RT ilmastotiedotus
 # ilmastotiedotus
 # Sun Jul 01 06:36:33 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet93
 # sent_id = tweet93.1
 # text = @Hikipediainfo @Halla_aho @realDonaldTrump Hikipedia katso tuota twiittaamasi kuvaa ja hae apua mt-ongelmiisi. ;)
 1	@Hikipediainfo	@Hikipediainfo	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -11383,8 +11292,7 @@
 
 # Hessu1983
 # Sun Apr 15 05:55:42 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet94
 # sent_id = tweet94.1
 # text = Juuri nyt: F1 2018 3. osakilpailu Kiinan Shanghaista @CMoreSportFi selostus Niki Juusela, Mika Salo &amp; @Ossi_Oikarinen #cmoref1
 1	Juuri	juuri	ADV	_	_	2	advmod	_	_
@@ -11410,8 +11318,7 @@
 # RT KuPS1923
 # PenttinenJoonas
 # Thu Mar 30 16:55:23 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet95
 # sent_id = tweet95.1
 # text = KuPS:n Salamin tilanne puhututtaa myös Kuopion ulkopuolella.
 1	KuPS:n	KuPS	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -11439,8 +11346,7 @@
 
 # tomppande
 # Sun Nov 19 16:50:10 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet96
 # sent_id = tweet96.1
 # text = 8 vuotias poika kysy just koska ostan sille kameran ja kuulokkeet että se voi alkaa Tubettaa.
 1	8	8	NUM	_	NumType=Card	2	nummod	_	_
@@ -11479,8 +11385,7 @@
 # RT Kohtaamo_ESR
 # Kohtaamo_ESR
 # Mon Jul 10 18:28:37 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet97
 # sent_id = tweet97.1
 # text = "Uskaltakaa #nuoret unelmoida." @HPDudeson viesti nuorille on todella tärkeä! #unelmaduuni #suomiareena https://t.co/9WVw0DJ1j5
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -11502,8 +11407,7 @@
 
 # ppp_suomi
 # Thu Nov 17 09:49:48 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet98
 # sent_id = tweet98.1
 # text = Persona 5 on myöhästynyt jälleen - https://t.co/TLgveBEKcQ kuukaudella Atlus on joutunut siirtämään tulevan rooli... https://t.co/VDhnh906xj
 1	Persona	Persona	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -11526,8 +11430,7 @@
 # RT Verkkouutiset
 # pekkis63
 # Sat Aug 19 07:26:33 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet99
 # sent_id = tweet99.1
 # text = Venäläisiä palaa invalideina Ukrainan sodasta, missä he eivät koskaan olleet https://t.co/Hv0AbRrYXx
 1	Venäläisiä	venäläinen	NOUN	_	Case=Par|Derivation=Lainen|Number=Plur	2	nsubj	_	_
@@ -11545,8 +11448,7 @@
 
 # Nilppy
 # Tue Mar 13 08:57:24 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet100
 # sent_id = tweet100.1
 # text = @Doubyadee Jossain sairaalassa jne on tietty ihan sama kun se ei oo päivittäistä elämää, mut esim. työpaikalla olettaisin et kutsuttais valitsemalla nimellä.
 1	@Doubyadee	@Doubyadee	PROPN	_	Case=Nom|Number=Sing	8	vocative	_	_
@@ -11600,8 +11502,7 @@
 # RT iiris_suomela
 # evallbacka
 # Tue Mar 07 14:25:54 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet101
 # sent_id = tweet101.1
 # text = OAJ:n Heljä Misukka: Ennen ammatillisissa oppilaitoksissa opetusta 36 tuntia viikossa.
 1	OAJ:n	OAJ	PROPN	_	Abbr=Yes|Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -11633,8 +11534,7 @@
 
 # _plee999_
 # Wed Feb 14 17:09:42 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet102
 # sent_id = tweet102.1
 # text = @KongaLeevi Niih, rightejä ei ikinä kauheesti oo tarjolla..
 1	@KongaLeevi	@KongaLeevi	PROPN	_	Case=Nom|Number=Sing	9	vocative	_	_
@@ -11664,8 +11564,7 @@
 
 # SHKL_PKarjala
 # Wed Jun 28 18:53:07 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet103
 # sent_id = tweet103.1
 # text = No iha parasta peeärrää raviurheilulle!
 1	No	no	INTJ	_	_	4	discourse	_	_
@@ -11692,8 +11591,7 @@
 
 # wennervirta
 # Fri Nov 17 10:24:09 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet104
 # sent_id = tweet104.1
 # text = @AlkioJani No voi räkä! 😔
 1	@AlkioJani	@AlkioJani	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -11705,8 +11603,7 @@
 
 # jessesaarine
 # Mon Jun 26 14:43:42 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet105
 # sent_id = tweet105.1
 # text = @mhilska luonteet ja temperamentit otettaisiin paremmin huomioon, eikä putki huipulle olisi ihan pelkästään sellainen, että vain kovimmat selviävät.
 1	@mhilska	@mhilska	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -11733,8 +11630,7 @@
 
 # PegZor
 # Sat Apr 21 18:19:58 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet106
 # sent_id = tweet106.1
 # text = Milloin itse teit kärrynpyöriä, jonglöörausta, tarzan liaania, temppu-trampoliinia yms.
 1	Milloin	milloin	ADV	_	_	3	advmod	_	_
@@ -11753,8 +11649,7 @@
 
 # jaskaalanne36
 # Tue May 22 19:56:55 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet107
 # sent_id = tweet107.1
 # text = OP laski hieman talousennustettaan - uskoo silti työllisyysasteen nousevan yli 72 %:n https://t.co/F9RPttpJl1
 1	OP	OP	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj	_	Note=check
@@ -11773,8 +11668,7 @@
 
 # HeikkilLaura
 # Mon Jul 02 11:19:48 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet108
 # sent_id = tweet108.1
 # text = Siitä sekkari käyntiin ja testaamaan, miten pärjäisit varusmiesten kuntotestissä! #varusmiestenkuntotesti #testiin #ruokatauolla
 1	Siitä	se	PRON	_	Case=Ela|Number=Sing|PronType=Dem	2	orphan	_	_
@@ -11809,8 +11703,7 @@
 # RT juhasipila
 # valtioneuvosto
 # Sat Nov 11 17:09:03 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet109
 # sent_id = tweet109.1
 # text = Viljelijöitä palkitaan MTK:n Pohjois-Suomen 100-vuotisjuhlassa.
 1	Viljelijöitä	viljelijä	NOUN	_	Case=Par|Derivation=Ja|Number=Plur	2	obj	_	_
@@ -11840,8 +11733,7 @@
 
 # SalkunRakentaja
 # Wed Apr 05 06:24:56 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet110
 # sent_id = tweet110.1
 # text = Suomalaista osaamista. https://t.co/8XqUVAUbYx
 1	Suomalaista	suomalainen	ADJ	_	Case=Par|Degree=Pos|Derivation=Lainen|Number=Sing	2	amod	_	_
@@ -11852,8 +11744,7 @@
 # RT Jrvinen_J
 # important_matt
 # Tue Oct 17 12:15:33 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet111
 # sent_id = tweet111.1
 # text = Asunnottomista iso osa on valkoisia miehiä.
 1	Asunnottomista	asunnoton	ADJ	_	Case=Ela|Degree=Pos|Derivation=Ton|Number=Plur	3	nmod	_	_
@@ -11880,8 +11771,7 @@
 
 # Gulnara_M_T
 # Sat Oct 21 14:02:26 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet112
 # sent_id = tweet112.1
 # text = "Posti alkoi leikata nurmia.
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -11918,8 +11808,7 @@
 # RT rohkeasydan
 # kotiharju
 # Mon Apr 30 12:23:16 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet113
 # sent_id = tweet113.1
 # text = Lakitetut kurjet https://t.co/l4w6clYexv
 1	Lakitetut	lakittaa	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
@@ -11928,8 +11817,7 @@
 
 # Habachu
 # Sun Apr 09 20:00:57 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet114
 # sent_id = tweet114.1
 # text = @AndeVirtanen Hirmu mytkeet joka sunnuntai.
 1	@AndeVirtanen	@AndeVirtanen	PROPN	_	Case=Nom|Number=Sing	5	vocative	_	_
@@ -11941,8 +11829,7 @@
 
 # KouvolanKooKoo
 # Fri Oct 27 17:59:53 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet115
 # sent_id = tweet115.1
 # text = Sport ja Markus Nenonen - ei maalia! #KooKoo #Liiga
 1	Sport	Sport	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -11958,8 +11845,7 @@
 
 # poutunranta
 # Fri Apr 07 11:23:07 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet116
 # sent_id = tweet116.1
 # text = @PoliisiTiedote Hohhoijaa. Suomi on ollut jo pitkään hybridisodassa sisäisiä ja ulkoisia hyökkääjiä vastaan.
 1	@PoliisiTiedote	@PoliisiTiedote	PROPN	_	Case=Nom|Number=Sing	9	vocative	_	_
@@ -11990,8 +11876,7 @@
 
 # minna_jaa
 # Fri Dec 01 07:43:17 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet117
 # sent_id = tweet117.1
 # text = Tänä aamuna olen kiitollinen kotikuntani päiväkodista, jonne myös koululaiset saavat tulla ennen kouluunlähtöä: pääsevätpä aamupuurollekin.
 1	Tänä	tämä	PRON	_	Case=Ess|Number=Sing|PronType=Dem	2	det	_	_
@@ -12037,8 +11922,7 @@
 
 # Kokkoti
 # Tue Jun 13 10:31:47 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet118
 # sent_id = tweet118.1
 # text = #uusivaihtoehto eli #uv.
 1	#uusivaihtoehto	#uusivaihtoehto	X	_	_	0	root	_	Note=embedded
@@ -12064,8 +11948,7 @@
 # RT SosiaalinenT
 # Mirumir2017
 # Thu Jun 21 21:23:07 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet119
 # sent_id = tweet119.1
 # text = Sote-uudistus päivän uutisissa (tänäänkin).
 1	Sote-uudistus	sote#uudistus	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
@@ -12113,8 +11996,7 @@
 
 # VonVeksi
 # Sat Nov 04 16:41:18 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet120
 # sent_id = tweet120.1
 # text = @PorinAssat ”Periksi ei anneta milloinkaan”.
 1	@PorinAssat	@PorinAssat	PROPN	_	Case=Nom|Number=Plur	5	vocative	_	_
@@ -12157,8 +12039,7 @@
 # RT RiittaHyppanen
 # kh_pohjoinen
 # Mon Nov 07 08:11:41 +0000 2016
-# newdoc
-# newpar
+# newdoc id = tweet121
 # sent_id = tweet121.1
 # text = Jos et vielä kävele portaita hissin sijaan, niin tällä viikolla voisi kokeilla #porraspäivät #hyvinvointi https://t.co/CoX1QnaAAB
 1	Jos	jos	SCONJ	_	_	4	mark	_	_
@@ -12180,8 +12061,7 @@
 
 # MikkoVieri
 # Fri Oct 06 06:33:55 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet122
 # sent_id = tweet122.1
 # text = @PasanenT @EssiNummi @markosuomi @KatjaMikkola @liljajan @kaisalapartanen Mulla on oikeita töitä, eikä aikaa lojua täällä somessa 😜 #sorisiitä
 1	@PasanenT	@PasanenT	PROPN	_	Case=Nom|Number=Sing	7	vocative	_	_
@@ -12205,8 +12085,7 @@
 
 # Myttymiina
 # Wed Aug 09 10:01:16 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet123
 # sent_id = tweet123.1
 # text = Eksä alko seurusteleen naisen kanssa kenen kaa petti mua.
 1	Eksä	eksä	NOUN	_	Case=Nom|Number=Sing|Style=Coll	2	nsubj	_	_
@@ -12239,8 +12118,7 @@
 # RT SRVYhtiot
 # sssampo
 # Fri Jan 12 20:15:17 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet124
 # sent_id = tweet124.1
 # text = Tampereen Kansi ja Areena -hankkeesta tuli totta!
 1	Tampereen	Tampere	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
@@ -12282,8 +12160,7 @@
 
 # wau_fi
 # Wed Feb 22 17:15:46 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet125
 # sent_id = tweet125.1
 # text = Johda kehumalla! https://t.co/u59CnX9ZP3 #johtaminen #esimiestyö #palaute #yrityskulttuuri https://t.co/ncNJ8O4BRN
 1	Johda	johtaa	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -12298,8 +12175,7 @@
 
 # helsinkikuvaa
 # Sat Jul 28 13:40:02 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet126
 # sent_id = tweet126.1
 # text = Laitila Unto, 05.1969: Ruuhkaliikennettä Itäväylällä Kulosaaren ylikulkusillalta nähtynä (Kaupunginmuseo, #helsinki) https://t.co/xPKFlp6SJJ
 1	Laitila	Laitila	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -12321,8 +12197,7 @@
 
 # FM_Janosz
 # Fri Oct 13 07:41:21 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet127
 # sent_id = tweet127.1
 # text = @SofiaMesterton En yleensä postaa Feissarimokat-linkkejä, mut kun postaan niin: https://t.co/r6RVVQJioN
 1	@SofiaMesterton	@SofiaMesterton	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -12340,8 +12215,7 @@
 
 # EeroH84
 # Fri Jan 19 16:16:49 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet128
 # sent_id = tweet128.1
 # text = Sergei Sirotkin on ilmeisesti valinnut kilpailunumerokseen 35. #CmoreF1
 1	Sergei	Sergei	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -12356,8 +12230,7 @@
 
 # hsfi
 # Wed May 02 05:22:44 +0000 2018
-# newdoc
-# newpar
+# newdoc id = tweet129
 # sent_id = tweet129.1
 # text = Etelä-Korean presidentti Moon: Trumpin pitäisi saada Nobelin rauhanpalkinto https://t.co/xVoeO1tfZP
 1	Etelä-Korean	Etelä-Korea	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -12374,8 +12247,7 @@
 # RT SuomalainenTyo
 # ETL_fi
 # Fri Dec 01 08:13:56 +0000 2017
-# newdoc
-# newpar
+# newdoc id = tweet130
 # sent_id = tweet130.1
 # text = Tiesitkö, että melkein kaikkea saa myös suomalaisena?
 1	Tiesitkö	tietää	VERB	_	Clitic=Ko|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -12435,8 +12307,7 @@
 
 # thread_id = 11359903
 # comment_id = 60825642
-# newdoc
-# newpar
+# newdoc id = thread1
 # sent_id = thread1.1
 # text = Vain sinun kuvitelmissasi estetään ketään väkisin.
 1	Vain	vain	ADV	_	_	3	advmod	_	_
@@ -12478,8 +12349,7 @@
 
 # thread_id = 9149520
 # comment_id = 44631882
-# newdoc
-# newpar
+# newdoc id = thread2
 # sent_id = thread2.1
 # text = minulle ollut tarkoitettu, ei kai?
 1	minulle	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
@@ -12496,8 +12366,7 @@
 
 # thread_id = 2765588
 # comment_id = 14151295
-# newdoc
-# newpar
+# newdoc id = thread3
 # sent_id = thread3.1
 # text = Meilläkin varsinaisen rektaalitarkastuksen teki kyllä miespuolinen kokelaslääkäri, mutta paikalla oli myös kaksi varuskunnan naispuolista sairaanhoitajaa.
 1	Meilläkin	meillä	PRON	_	Clitic=Kin	4	obl	_	_
@@ -12537,8 +12406,7 @@
 
 # thread_id = 13441708
 # comment_id = 78041496
-# newdoc
-# newpar
+# newdoc id = thread4
 # sent_id = thread4.1
 # text = Inflaatio ostovoiman syö, deflaatio parantaa sitä niillä jotka palkkaa saavat ja sen määrä on vakio.
 1	Inflaatio	inflaatio	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -12639,8 +12507,7 @@
 
 # thread_id = 11562268
 # comment_id = 62245646
-# newdoc
-# newpar
+# newdoc id = thread5
 # sent_id = thread5.1
 # text = "Lisäksi liikkeelle lähti huhu joka kertoi selkeästi puheenjohtajan suosikit noille pienemmille vakansseille."
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -12671,8 +12538,7 @@
 
 # thread_id = 13302666
 # comment_id = 76861995
-# newdoc
-# newpar
+# newdoc id = thread6
 # sent_id = thread6.1
 # text = Läntisen terveydenhoidon laatukriteereissä toisen tappaminen jostain kunniasyystä on psyykkinen sairaus.
 1	Läntisen	läntinen	ADJ	_	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
@@ -12760,8 +12626,7 @@
 19	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
 # thread_id = 2260971
-# newdoc
-# newpar
+# newdoc id = thread7
 # sent_id = thread7.1
 # text = Viime yönä näin unta silmälaseista, piilolinsseistä, optikoista....
 1	Viime	viime	ADJ	_	_	2	amod	_	_
@@ -12855,8 +12720,7 @@
 
 # thread_id = 6840048
 # comment_id = 35898998
-# newdoc
-# newpar
+# newdoc id = thread8
 # sent_id = thread8.1
 # text = Mite se paskalakki ny tollee kupsahti.
 1	Mite	miten	ADV	_	Style=Coll	6	advmod	_	_
@@ -12890,8 +12754,7 @@
 
 # thread_id = 5840196
 # comment_id = 30672951
-# newdoc
-# newpar
+# newdoc id = thread9
 # sent_id = thread9.1
 # text = niin kyllä se sit leikkii
 1	niin	niin	ADV	_	_	5	advmod	_	_
@@ -12901,8 +12764,7 @@
 5	leikkii	leikkiä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # thread_id = 6236596
-# newdoc
-# newpar
+# newdoc id = thread10
 # sent_id = thread10.1
 # text = painostuksen alla, taas USA selätti yhden vasemmistolaisen ja raakalaisen.
 1	painostuksen	painostus	NOUN	_	Case=Gen|Number=Sing	6	obl	_	_
@@ -12945,8 +12807,7 @@
 
 # thread_id = 2938002
 # comment_id = 15136636
-# newdoc
-# newpar
+# newdoc id = thread11
 # sent_id = thread11.1
 # text = Sekoat jo noihin vääntelyihisi.
 1	Sekoat	seota	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -12980,8 +12841,7 @@
 
 # thread_id = 7104047
 # comment_id = 37543913
-# newdoc
-# newpar
+# newdoc id = thread12
 # sent_id = thread12.1
 # text = on niin innoissaan fantastisesta huomiostaan.
 1	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
@@ -12993,8 +12853,7 @@
 
 # thread_id = 3162163
 # comment_id = 16392934
-# newdoc
-# newpar
+# newdoc id = thread13
 # sent_id = thread13.1
 # text = ... teen siivoustyötä, jossa ollaan koko päivä jalkojen päällä.
 1	...	...	PUNCT	_	_	2	punct	_	_
@@ -13125,8 +12984,7 @@
 
 # thread_id = 9149520
 # comment_id = 44611618
-# newdoc
-# newpar
+# newdoc id = thread14
 # sent_id = thread14.1
 # text = En katso kuninkaallisia, en formuloita, en jalkapalloa, en mainoksia enkä montaa muutakaan juttua.
 1	En	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -13172,8 +13030,7 @@
 
 # thread_id = 164820
 # comment_id = 799946
-# newdoc
-# newpar
+# newdoc id = thread15
 # sent_id = thread15.1
 # text = Miten edistät keskustelua tuolla?
 1	Miten	miten	ADV	_	_	2	advmod	_	_
@@ -13240,8 +13097,7 @@
 
 # thread_id = 11782123
 # comment_id = 64010646
-# newdoc
-# newpar
+# newdoc id = thread16
 # sent_id = thread16.1
 # text = Aika perustellun oloista tekstiä "paras on paras" laittanut.
 1	Aika	aika	ADV	_	_	2	advmod	_	_
@@ -13584,8 +13440,7 @@
 
 # thread_id = 10986737
 # comment_id = 58046255
-# newdoc
-# newpar
+# newdoc id = thread17
 # sent_id = thread17.1
 # text = Lapsen itsetekemä kortti, kuva lapsesta.
 1	Lapsen	lapsi	NOUN	_	Case=Gen|Number=Sing	2	nsubj	_	_
@@ -13630,8 +13485,7 @@
 
 # thread_id = 9658901
 # comment_id = 48099230
-# newdoc
-# newpar
+# newdoc id = thread18
 # sent_id = thread18.1
 # text = PERUS-SUOMALAISTEN ÄÄNESTÄMINEN ON KUITENKIN TURVALLISINTA, PERUSTELU!
 1	PERUS-SUOMALAISTEN	perus#suomalainen	NOUN	_	Case=Gen|Derivation=Lainen|Number=Plur	2	nmod:gobj	_	_
@@ -13673,8 +13527,7 @@
 
 # thread_id = 12720026
 # comment_id = 71839121
-# newdoc
-# newpar
+# newdoc id = thread19
 # sent_id = thread19.1
 # text = Ootko nuori vai aikuinen?
 1	Ootko	olla	AUX	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=2|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
@@ -13693,8 +13546,7 @@
 
 # thread_id = 9658901
 # comment_id = 48075430
-# newdoc
-# newpar
+# newdoc id = thread20
 # sent_id = thread20.1
 # text = hoh hoh hooo
 1	hoh	hoh	INTJ	_	_	0	root	_	_
@@ -13703,8 +13555,7 @@
 
 # thread_id = 10277911
 # comment_id = 52349479
-# newdoc
-# newpar
+# newdoc id = thread21
 # sent_id = thread21.1
 # text = Eiköhän Pelastakaa lapset tee yhä edelleen avustustyötä rajan takana Karjalassa.
 1	Eiköhän	eiköhän	ADV	_	_	4	advmod	_	_
@@ -13721,8 +13572,7 @@
 
 # thread_id = 4195286
 # comment_id = 22107482
-# newdoc
-# newpar
+# newdoc id = thread22
 # sent_id = thread22.1
 # text = Jätetään nämä kommunismin retkut tänne ja mennä sijoittamaan sinne missä työvoima on halpaa ja voitot suuria!!
 1	Jätetään	jättää	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -13744,8 +13594,7 @@
 17	!!	!!	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
 # thread_id = 3263561
-# newdoc
-# newpar
+# newdoc id = thread23
 # sent_id = thread23.1
 # text = Tymppis oli jälleen lukittuna maanalaiseen katakombiinsa, jossa hän riuhtoi kahleitaan hirmuisen vimman vallassa.
 1	Tymppis	Tymppis	PROPN	_	Case=Nom|Number=Sing	4	nsubj:cop	_	_
@@ -14369,8 +14218,7 @@
 
 # thread_id = 10749339
 # comment_id = 55922227
-# newdoc
-# newpar
+# newdoc id = thread24
 # sent_id = thread24.1
 # text = Totta tosiaan, kiitos ajatuksistasi.
 1	Totta	totta	ADV	_	_	4	advmod	_	_
@@ -14529,8 +14377,7 @@
 
 # thread_id = 3718473
 # comment_id = 19486046
-# newdoc
-# newpar
+# newdoc id = thread25
 # sent_id = thread25.1
 # text = niin, että isot pojat tukistavat Mauria tupeesta ja ehkä syöttävätkin tupeen Maurille, jonka jälkeen Mauri pysyy taas hiljaa seuraavat puoli vuotta.
 1	niin	niin	ADV	_	_	0	root	_	SpaceAfter=No
@@ -14573,8 +14420,7 @@
 
 # thread_id = 10749339
 # comment_id = 55936332
-# newdoc
-# newpar
+# newdoc id = thread26
 # sent_id = thread26.1
 # text = Oletko hakenut yleistä asumistukea?
 1	Oletko	olla	AUX	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -14745,8 +14591,7 @@
 
 # thread_id = 10458331
 # comment_id = 53709435
-# newdoc
-# newpar
+# newdoc id = thread27
 # sent_id = thread27.1
 # text = Mikä auttaisi rasvamakkaran himoon?
 1	Mikä	mikä	PRON	_	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	_
@@ -14784,8 +14629,7 @@
 7	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # thread_id = 11318876
-# newdoc
-# newpar
+# newdoc id = thread28
 # sent_id = thread28.1
 # text = Hei!
 1	Hei	hei	INTJ	_	_	0	root	_	SpaceAfter=No
@@ -14943,8 +14787,7 @@
 
 # thread_id = 9419050
 # comment_id = 46447574
-# newdoc
-# newpar
+# newdoc id = thread29
 # sent_id = thread29.1
 # text = Kuin sä ny noin!
 1	Kuin	kuin	SCONJ	_	_	2	mark	_	_
@@ -15011,8 +14854,7 @@
 
 # thread_id = 12295193
 # comment_id = 68236246
-# newdoc
-# newpar
+# newdoc id = thread30
 # sent_id = thread30.1
 # text = En nyt muuten ota kantaa, mut liika sugar-free energiajuomien juominen on vaarallista, paitsi kofeiinin myös aspartaamin (makeutusaine, maksalla iso työ metaboloida se myrkky), tauriinin jne. johdosta.
 1	En	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
@@ -15220,8 +15062,7 @@
 
 # thread_id = 8353076
 # comment_id = 39160185
-# newdoc
-# newpar
+# newdoc id = thread31
 # sent_id = thread31.1
 # text = siltä että ei enää ole.
 1	siltä	se	PRON	_	Case=Abl|Number=Sing|PronType=Dem	0	root	_	_
@@ -15240,8 +15081,7 @@
 
 # thread_id = 11359903
 # comment_id = 60775915
-# newdoc
-# newpar
+# newdoc id = thread32
 # sent_id = thread32.1
 # text = Smith havitteli haaremiinsa sellaisiakin, joilla eivät edes karvat kasvaneet.
 1	Smith	Smith	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -15370,8 +15210,7 @@
 
 # thread_id = 2527819
 # comment_id = 12882133
-# newdoc
-# newpar
+# newdoc id = thread33
 # sent_id = thread33.1
 # text = Nyrkki silmään..
 1	Nyrkki	nyrkki	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -15388,8 +15227,7 @@
 
 # thread_id = 10353009
 # comment_id = 52946471
-# newdoc
-# newpar
+# newdoc id = thread34
 # sent_id = thread34.1
 # text = Niin ja mikäli satut käyttämään F-Securen virusturvaa, kannattaa päivitellä se 2012 versioon kun 2011 tuppaa toisinaan menemään päivitysten yhteydessä jumiin joka kanssa saattaa hidastaa koneen.
 1	Niin	niin	ADV	_	_	9	advmod	_	_
@@ -15422,8 +15260,7 @@
 
 # thread_id = 5814426
 # comment_id = 30746187
-# newdoc
-# newpar
+# newdoc id = thread35
 # sent_id = thread35.1
 # text = nettiyhteydet toimii täällä kaikkialla ihan kuten kotosuomessakin, tietysti asumatonta vuoristoa lukuunottamatta.
 1	nettiyhteydet	netti#yhteys	NOUN	_	Case=Nom|Derivation=Vs|Number=Plur	2	nsubj	_	_
@@ -15462,8 +15299,7 @@
 
 # thread_id = 5240917
 # comment_id = 28038042
-# newdoc
-# newpar
+# newdoc id = thread36
 # sent_id = thread36.1
 # text = Side on kyllä aika rauhallinen kohde.
 1	Side	Side	PROPN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
@@ -15690,16 +15526,14 @@
 
 # thread_id = 9419050
 # comment_id = 48157988
-# newdoc
-# newpar
+# newdoc id = thread37
 # sent_id = thread37.1
 # text = On
 1	On	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # thread_id = 8906841
 # comment_id = 42977200
-# newdoc
-# newpar
+# newdoc id = thread38
 # sent_id = thread38.1
 # text = Eikö ensin ollut punainen terrorismi, 1918-1941 Venäjällä sitten oli taas punainen terrorismi länsi euroopassa 1970 luvulla Bader mainhoff yms. ja nyt terrorismi on islamistien ase, yhtä kamalaa kuitenkin.
 1	Eikö	ei	AUX	_	Clitic=Ko|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
@@ -15764,8 +15598,7 @@
 
 # thread_id = 6270431
 # comment_id = 32911578
-# newdoc
-# newpar
+# newdoc id = thread39
 # sent_id = thread39.1
 # text = Ja siksipä viesti ei varmasti kauaa vanhene.
 1	Ja	ja	CCONJ	_	_	7	cc	_	_
@@ -15803,8 +15636,7 @@
 
 # thread_id = 10155225
 # comment_id = 51488913
-# newdoc
-# newpar
+# newdoc id = thread40
 # sent_id = thread40.1
 # text = Minun poikani käyttäytyy hyvin,olen opettanu häntä kohtelemaan muita kohtaan hyvin.
 1	Minun	minä	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
@@ -16070,8 +15902,7 @@
 
 # thread_id = 608111
 # comment_id = 2827366
-# newdoc
-# newpar
+# newdoc id = thread41
 # sent_id = thread41.1
 # text = "Rotutohtori" on lukiolainen finninaama, jolla on vaikeuksia arkipäivän elämässään joten hän mieluummin pakenee virtuaalimaailmaan missä voi leikkiä Hitleriä.
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -16237,8 +16068,7 @@
 
 # thread_id = 10162916
 # comment_id = 51533388
-# newdoc
-# newpar
+# newdoc id = thread42
 # sent_id = thread42.1
 # text = Jopas jotakin.
 1	Jopas	jopas	INTJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
@@ -16276,8 +16106,7 @@
 
 # thread_id = 5840196
 # comment_id = 30671335
-# newdoc
-# newpar
+# newdoc id = thread43
 # sent_id = thread43.1
 # text = Olen paljon kiltimpi kuin tuo Vilma
 1	Olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
@@ -16305,8 +16134,7 @@
 
 # thread_id = 12294925
 # comment_id = 68216232
-# newdoc
-# newpar
+# newdoc id = thread44
 # sent_id = thread44.1
 # text = korjaan jämpti on niin eikä näin
 1	korjaan	korjata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -16318,8 +16146,7 @@
 
 # thread_id = 4854089
 # comment_id = 25748411
-# newdoc
-# newpar
+# newdoc id = thread45
 # sent_id = thread45.1
 # text = mut jos kymmenen muuta + vaimo päälle samaa mieltä ukosta?
 1	mut	mutta	CCONJ	_	Style=Coll	4	cc	_	_
@@ -16336,8 +16163,7 @@
 
 # thread_id = 5097935
 # comment_id = 27036164
-# newdoc
-# newpar
+# newdoc id = thread46
 # sent_id = thread46.1
 # text = ...ei suuret sanat suuta halkaise.
 1	...	...	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -16372,8 +16198,7 @@
 
 # thread_id = 12907095
 # comment_id = 73474605
-# newdoc
-# newpar
+# newdoc id = thread47
 # sent_id = thread47.1
 # text = Änkytt... siis osarillahan saa kuka hyvänsä autoja liikkeestä ulos talutettua.
 1	Änkytt...	Änkytt...	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	_
@@ -16434,8 +16259,7 @@
 7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # thread_id = 9037802
-# newdoc
-# newpar
+# newdoc id = thread48
 # sent_id = thread48.1
 # text = tuu jo apuun !!
 1	tuu	tulla	VERB	_	Mood=Imp|Number=Sing|Person=2|Style=Coll|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -16453,8 +16277,7 @@
 
 # thread_id = 6558935
 # comment_id = 34393571
-# newdoc
-# newpar
+# newdoc id = thread49
 # sent_id = thread49.1
 # text = kiitos kovasti:)
 1	kiitos	kiitos	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -16464,7 +16287,7 @@
 # thread_id = 11782123
 # comment_id = 66096219
 # newdoc
-# newpar
+# newpar id = thread50
 # sent_id = thread50.1
 # text = Ihan asiaa kirjoitit.
 1	Ihan	ihan	ADV	_	_	2	advmod	_	_
@@ -16486,8 +16309,7 @@
 
 # thread_id = 255289
 # comment_id = 1230490
-# newdoc
-# newpar
+# newdoc id = thread51
 # sent_id = thread51.1
 # text = Easy CD Creator 5 Platinium http://www.roxio.de/english/products/ecdc5/index.html
 1	Easy	Easy	X	_	Foreign=Yes	0	root	_	_
@@ -16499,8 +16321,7 @@
 
 # doc_id = poem1
 # url = http://www.rakkausrunot.fi/runoilija.php?runid=56345&arvost=2&start=60
-# newdoc
-# newpar
+# newdoc id = poem1
 # sent_id = poem1.1
 # text = Kaaduin ja näin Läpi samean kalvon Kuinka joukko kasvoi ja kerääntyi Näin nuo kaksi silmää vierekkäin Nyt öitä pitkiä valvon Kun yksinäisyys hetkeksi perääntyi Silmät sytyttivät Pitivät järjen mukana Säilyttivät hengissä Ja hätkähdyttivät Kuin maassa vieraassa makaava Mies liian suurissa kengissä
 1	Kaaduin	kaatua	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -16545,7 +16366,6 @@
 40	suurissa	suuri	ADJ	_	Case=Ine|Degree=Pos|Number=Plur	41	amod	_	_
 41	kengissä	kenkä	NOUN	_	Case=Ine|Number=Plur	38	nmod	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.2
 # text = Rinnassani on nyt raikas ilma Jonka jalostin järvin, metsin Silmänsä olivat kuin maailma Ja hänet vielä käsiini etsin
 1	Rinnassani	rinta	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	0	root	_	_
@@ -16568,7 +16388,6 @@
 18	käsiini	käsi	NOUN	_	Number[psor]=Sing|Person[psor]=1	19	obl	_	_
 19	etsin	etsiä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.3
 # text = Hän auttoi minut jaloilleni Ja katselimme toisiamme Kun vanha mies lauloi Käsitys sykäyksittäin rintaan meni Korjasi kaikki vikamme Mies laulussaan olutta joi Noissa silmissä heijastui unelmien pakoilu Ja elämän ihana turhuus Kiireetön lauantainen makoilu Ja maanantaiaamun kurjuus
 1	Hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -16609,7 +16428,6 @@
 36	maanantaiaamun	maanantai#aamu	NOUN	_	Case=Gen|Number=Sing	37	nmod:poss	_	_
 37	kurjuus	kurjuus	NOUN	_	Case=Nom|Derivation=Vs|Number=Sing	34	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.4
 # text = Näin silmissään nälkäisen äänen Joka kulkee yllä kukkuloiden, laaksojen Toivon sieltä löytäväni katseensa hänen Päihittäjän maailmani yksinäisen ajanjaksojen
 1	Näin	nähdä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -16632,9 +16450,6 @@
 18	yksinäisen	yksinäinen	ADJ	_	Case=Gen|Degree=Pos|Derivation=Inen|Number=Sing	19	amod	_	_
 19	ajanjaksojen	ajan#jakso	NOUN	_	Case=Gen|Number=Plur	14	appos	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem1.5
 # text = Reunalta kallion näin totuuden Se hukkui, pärskyi meren kuohuissa Ennen kuin kyseenalaistat luotettavuuden Vieraile uudelleen koskissa, tuskissa tutuissa Ja seuraavan kerran kun kyyneleet vierivät Niin jälkensä minunkin poskilleni jättävät Ja kun hyppäämme, maailman jätämme Soidessa tuhannen unohduksen urun Ojennetuin käsin Muilta suljetuin mielin Niin onko pala ilon vai surun Jonka nyt helposti nielin
 1	Reunalta	reuna	NOUN	_	Case=Abl|Number=Sing	3	obl	_	_
@@ -16694,7 +16509,6 @@
 55	helposti	helposti	ADV	_	Derivation=Sti	56	advmod	_	_
 56	nielin	niellä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	52	acl:relcl	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.6
 # text = Pilvet kun peittävät kuun Kissat kun mouruavat kaipausta Kun unohdan kaiken muun Kun pelkään viimeistä laukausta Sodan tämän viimeisen rakkauden Niin nostan käteni ilmaan Antauden vuoksi yhteisen vaurauden Ja niitylle lupauksen kirmaan
 1	Pilvet	pilvi	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
@@ -16730,7 +16544,6 @@
 31	lupauksen	lupaus	NOUN	_	Case=Gen|Number=Sing	30	nmod:poss	_	_
 32	kirmaan	kirmata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.7
 # text = Jos osaisen takoa miekan Halkaisisin sillä taivaan ja maan välin Vuoksi paakkuuntuneen hiekan Kuljin melko epävakain jäljin Kun talloin muistoni muistoosi Syntymäni kuolemaasi Ja joku yhteyden kokosi Siunaamaan luvatun Monin sanoin kuvailtun maasi
 1	Jos	jos	SCONJ	_	_	2	mark	_	_
@@ -16767,9 +16580,6 @@
 32	kuvailtun	kuvailla	VERB	_	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
 33	maasi	maasi	NOUN	_	Case=Nom|Number=Sing	28	obj	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem1.8
 # text = Mitä jäi jäljelle Kun eksyin joukosta Ei sijaa järjelle Sanoja tyhjiä kohtalosta Ne elättävät minua Ja minä niitä En kiintymystuoksua vainua Jos ei kylvä, ei niitä On kai uskominen Kun herää pelko todellinen
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	2	nsubj	_	_
@@ -16807,7 +16617,6 @@
 33	pelko	pelko	NOUN	_	Case=Nom|Number=Sing	32	nsubj	_	_
 34	todellinen	todellinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	33	amod	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.9
 # text = Nyt istun ja katselen Kun jänis viimeinen pihaa kiertää Se kai pian loikkien Mieltäni vapaudellaan hiertää
 1	Nyt	nyt	ADV	_	_	2	advmod	_	_
@@ -16827,7 +16636,6 @@
 15	vapaudellaan	vapaus	NOUN	_	Case=Ade|Derivation=Vs|Number=Sing|Person[psor]=3	16	obl	_	_
 16	hiertää	hiertää	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	parataxis	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.10
 # text = Viime yönä näin unen Jossa tapasin Viisauden Juttelimme pitkään ja tiemme erosivat Kyseenalaistin hänen väitteensä Talloin filosofian elämänsä Ja urut unen vuoropuhelumme toistivat
 1	Viime	viime	ADJ	_	_	2	amod	_	_
@@ -16854,7 +16662,6 @@
 22	vuoropuhelumme	vuoro#puhelu	NOUN	_	Case=Gen|Derivation=U|Number=Sing|Number[psor]=Plur|Person[psor]=1	23	obj	_	_
 23	toistivat	toistaa	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.11
 # text = Ja nyt menen Luo jakajan veden Ja ihastelen näkyä sievää Kun koko elämäni Jälkeen jättämäni On kuin viisauteni, virtojen viemää
 1	Ja	ja	CCONJ	_	_	3	cc	_	_
@@ -16879,7 +16686,6 @@
 20	virtojen	virta	NOUN	_	Case=Gen|Number=Plur	21	nsubj	_	_
 21	viemää	viedä	VERB	_	Case=Par|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	18	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.12
 # text = Olen kironnut ja vannonut Syyttänyt ja uhonnut Ja elämä on malttiani venyttänyt On enää jäljellä pino Nopeasti katsottuna vino Tunteista, virroista jotka olen tyynnyttänyt
 1	Olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -16908,7 +16714,6 @@
 24	olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux	_	_
 25	tyynnyttänyt	tyynnyttää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	20	acl:relcl	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.13
 # text = Viisauden sanat jalot Ovat kuin kiviset talot Lämmön ja läheisyyden hyvin eristäviä Ja tiedon jättämät kyyneleet Pohjistaan lahot veneet Ei löydy ilman viinavirtoja niitä kestäviä
 1	Viisauden	viisaus	NOUN	_	Case=Gen|Derivation=Vs|Number=Sing	2	nmod:poss	_	_
@@ -16937,7 +16742,6 @@
 24	niitä	se	PRON	_	Case=Par|Number=Plur|PronType=Dem	25	obj	_	_
 25	kestäviä	kestää	VERB	_	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	21	nsubj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.14
 # text = Ja nyt menen Luo jakajan veden Ja ihastelen näkyä sievää Kun koko elämäni Jälkeen jättämäni On kuin viisauteni, virtojen viemää
 1	Ja	ja	CCONJ	_	_	3	cc	_	_
@@ -16962,9 +16766,6 @@
 20	virtojen	virta	NOUN	_	Case=Gen|Number=Plur	21	nsubj	_	_
 21	viemää	viedä	VERB	_	Case=Par|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	18	conj	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem1.15
 # text = Saitko kiinni ideasta elämän Löysitkö suojaisan sataman Voititko vihan kohtalosi synnyttämän Rakensitko rauhan majan matalan Vai jäikö sinulle mitään Tuliko sinusta kaltaiseni Raakile, jota säälitään Jos ei muuten niin kautta itseni
 1	Saitko	saada	VERB	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -17000,7 +16801,6 @@
 31	kautta	kautta	ADP	_	_	32	case	_	_
 32	itseni	itse	PRON	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1|Reflex=Yes	28	obl	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.16
 # text = Ne kaikki huumaavat yöt Kun nukuit kuin unelma Uneksiessasi vieressäni Ketä nyrkillä ihanuuden lyöt Nykyään, vai elääkö sommitelma Tämä ruma vain päässäni
 1	Ne	se	PRON	_	Case=Nom|Number=Plur|PronType=Dem	4	det	_	_
@@ -17027,7 +16827,6 @@
 22	vain	vain	ADV	_	_	23	advmod	_	_
 23	päässäni	pää	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	18	obl	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem1.17
 # text = Meidät erotti voima valtava Kiintymystä yhteistä suurempi Se eli mielessäni, oli kavala Ja niin sammui nuori lempi Meidät jätti tuo ihanuus Jätti lähtiessään mieleeni varjon Sen suojakerroin on salaisuus Kuten myös määrä tämän kaihon
 1	Meidät	minä	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
@@ -17066,9 +16865,6 @@
 34	tämän	tämä	PRON	_	Case=Gen|Number=Sing|PronType=Dem	35	det	_	_
 35	kaihon	kaiho	NOUN	_	Case=Gen|Number=Sing	33	nmod:poss	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem1.18
 # text = Olit ainoa elävä, joka kuunteli Kun mies tämä tuskastaan huuteli Nyt ovat vain aaveet seuranain Menneisyydestä kuiskivat vain Kun taakan pienemmän kantaa sain Nyt taakka on valtava Ja sen ainoa kantaja On kehoni omistaja
 1	Olit	olla	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
@@ -17107,9 +16903,6 @@
 34	kehoni	keho	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	35	nmod:poss	_	_
 35	omistaja	omistaja	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	28	conj	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem1.19
 # text = Olomuotoni vaihtelee Kiinteän ja nesteen välillä Poikkeaa kaasuunkin Ottaa utuisen hahmon Saavuttamatta koskaan Sitä perinpohjaista täydellisyyttä Kyynelvetistä ainetta Joka on pehmeän, juoksevan jäinen Ja savuaa ilman tulta
 1	Olomuotoni	olo#muoto	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
@@ -17141,9 +16934,6 @@
 27	ilman	ilman	ADP	_	AdpType=Prep	28	case	_	_
 28	tulta	tuli	NOUN	_	Case=Par|Number=Sing	26	obl	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem1.20
 # text = Yöllinen yksinpuhelu Liittää sieluni siihen kaikkeen Sanattomaan lokaan Joka on koko ihmiskunnan turhuudessaan peittävä Totaalisesti ihmisyyden hävittävä tekijä Herää aamulla väsyneenä Nukuta itsesi väsyneenä kemiallisesti Jotta jaksaisit taas polkea ja kulkea Ja tunkea rahaa kasvottoman mahdin taskuun Joka naamioidaan omaksi taskuksesi Mainoslauseiden ja veikkauskuponkien voimalla
 1	Yöllinen	yöllinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	2	amod	_	_
@@ -17194,15 +16984,13 @@
 
 # doc_id = poem2
 # url = http://www.palladiumkirjat.fi/yonhantaluu/thomasmerton.htm
-# newdoc
-# newpar
+# newdoc id = poem2
 # sent_id = poem2.1
 # text = Sewende Thomas Merton
 1	Sewende	Sewende	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 2	Thomas	Thomas	PROPN	_	Case=Nom|Number=Sing	1	parataxis	_	_
 3	Merton	Merton	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.2
 # text = 1. Seitsemäs Päivä on tuntematon maa josta aspiriinit ovat kotoisin ja housut ja kirveet ja suolapurkit se on kaukana vihreän meren, valkoisen meren, sinisen meren takana, ohi Tokion Pohjois-Amerikan ja Saksan mutta samalla suunnalla paljon paljon muita maita kauempana kukaan ei ole nähnyt tätä siunattua maata
 1	1.	1.	ADJ	_	NumType=Ord	6	obl	_	_
@@ -17255,7 +17043,6 @@
 48	siunattua	siunata	VERB	_	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	49	acl	_	_
 49	maata	maa	NOUN	_	Case=Par|Number=Sing	46	obj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.3
 # text = Keskellä lumen yöpäivää on piiloisampi paikka jopa Sewendeä tuntemattomampi suuren Belongin etuovi hänen joka nousi ylös hyvin vanhana ensin kuin irti Itsestään jätti valtaisan sänkynsä aamutuimaan ja perusti Lasti Oy:n josta me tarjoamme osinkoja tosiuskoville.
 1	Keskellä	keskellä	ADP	_	AdpType=Prep	3	case	_	_
@@ -17295,7 +17082,6 @@
 35	tosiuskoville	tosi#uskova	NOUN	_	Case=All|Number=Plur	33	obl	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.4
 # text = 2. Sitten unennäkijä sanoi että meidän on rakennettava tavaratalo viidakkoon.
 1	2.	2.	ADJ	_	NumType=Ord	4	obl	_	_
@@ -17349,7 +17135,6 @@
 35	kaikkea	kaikki	PRON	_	Case=Par|Number=Sing|PronType=Ind	19	conj	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.6
 # text = Sitten me rakensimme yhdessä tavaratalon.
 1	Sitten	sitten	ADV	_	_	3	advmod	_	_
@@ -17422,7 +17207,6 @@
 8	odottaen	odottaa	VERB	_	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	3	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.12
 # text = Merkin saatuaan naiset riisuuntuivat ja mekin riisuunnuimme ja me kaikki aloitimme.
 1	Merkin	merkki	NOUN	_	Case=Gen|Number=Sing	2	obj	_	_
@@ -17453,7 +17237,6 @@
 11	kutsumiseksi	kutsuminen	NOUN	_	Case=Tra|Derivation=Minen|Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.14
 # text = Viranomaisten kuultua tästä oli meidän purettava tavaratalo ja kannettava kaikki laudat kahdeksantoista mailin päähän ja heitettävä ne mereen.
 1	Viranomaisten	viran#omainen	NOUN	_	Case=Gen|Number=Plur	2	nsubj	_	_
@@ -17476,16 +17259,12 @@
 18	mereen	meri	NOUN	_	Case=Ill|Number=Sing	16	obl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem2.15
 # text = Lastikatekismus Thomas Merton
 1	Lastikatekismus	lasti#katekismus	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	Thomas	Thomas	PROPN	_	Case=Nom|Number=Sing	1	parataxis	_	_
 3	Merton	Merton	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.16
 # text = 1. Näin se kaikki alkoi.
 1	1.	1.	ADJ	_	NumType=Ord	5	obl	_	_
@@ -17613,7 +17392,6 @@
 14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 15	"	"	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.25
 # text = 2. Nooa oli hyvä tyyppi joten vanha Anut näytti hänelle miten rakennetaan höyrylaiva.
 1	2.	2.	ADJ	_	NumType=Ord	5	obl	_	_
@@ -17728,7 +17506,6 @@
 2	trabel	trabel	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.34
 # text = 3. Baimbai sade loppuu ja höyrylaiva rantautuu Australiaan.
 1	3.	3.	ADJ	_	NumType=Ord	4	obl	_	_
@@ -17846,7 +17623,6 @@
 11	Sydneyhin	Sydney	PROPN	_	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.43
 # text = 4. Ham asuu pitkän aikaa puutarhoissa Uudella Guinealla ilman Lastia säilykelihaa partakoneenteriä ja muuta mutta ystävällisten pirujen ympäröimänä, sellaisten jotka tuottavat hyvän sadon.
 1	4.	4.	ADJ	_	NumType=Ord	3	obl	_	_
@@ -17960,7 +17736,6 @@
 4	SATAN	satan	X	_	Case=Nom|Number=Sing	1	flat:foreign	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.49
 # text = 5. Valkoinen mies tulee Sydneystä auttamaan rausim saatanaa, vähemmän tanssia enemmän töitä myös raamattuja.
 1	5.	5.	ADJ	_	NumType=Ord	4	obl	_	_
@@ -18007,7 +17782,6 @@
 6	vika	vika	NOUN	_	Case=Nom|Number=Sing	3	parataxis	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.53
 # text = 6. Oikeaa tietoa.
 1	6.	6.	ADJ	_	NumType=Ord	3	obl	_	_
@@ -18118,7 +17892,6 @@
 13	lentokoneisiin	lento#kone	NOUN	_	Case=Ill|Number=Plur	11	conj	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.60
 # text = 7. Jeesus Kristus on tällä hetkellä Sydneyssä odottamassa Lastin luovuttamista suoraan alkuasukkaille ilman valkoisia välikäsiä.
 1	7.	7.	ADJ	_	NumType=Ord	8	obl	_	_
@@ -18175,7 +17948,6 @@
 10	puvun	puku	NOUN	_	Case=Gen|Number=Sing	7	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.64
 # text = 8. Sana kulkee nopeasti pitkin rannikkoa.
 1	8.	8.	ADJ	_	NumType=Ord	3	obl	_	_
@@ -18213,7 +17985,6 @@
 15	kunniaksi	kunnia	NOUN	_	Case=Tra|Number=Sing	9	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.67
 # text = 9. Vuonna 1940, keskellä huhuja kaukaisesta sodasta, paikallinen johtaja Madangissa, rukoiltuaan kaksi tuntia ääneti, nousi seisomaan ja ilmoitti että Kuningas tulisi ottamaan vallan käsiinsä.
 1	9.	9.	ADJ	_	NumType=Ord	19	obl	_	_
@@ -18264,7 +18035,6 @@
 14	australialaisilla	australialainen	NOUN	_	Case=Ade|Derivation=Lainen|Number=Plur	11	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.69
 # text = Se joka ilmoitti Kuninkaan saapumisesta pidätettiin välittömästi mutta vapautettiin kun selvisi ettei hän viitannut saksalaisiin.
 1	Se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	6	obj	_	_
@@ -18286,7 +18056,6 @@
 16	saksalaisiin	saksalainen	NOUN	_	Case=Ill|Derivation=Lainen|Number=Plur	15	obl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem2.70
 # text = Mutta ihmiset kyllä ymmärsivät miksi hänet pidätettiin!
 1	Mutta	mutta	CCONJ	_	_	4	cc	_	_
@@ -18354,8 +18123,7 @@
 
 # doc_id = poem3
 # url = http://www.rakkausrunot.fi/runoilija.php?runid=28246
-# newdoc
-# newpar
+# newdoc id = poem3
 # sent_id = poem3.1
 # text = Opettelen puhumaan sanoja vaikeita opettelen kävelemään teitä pitkiä opettelen olemaan oma itseni muiden katseissa
 1	Opettelen	opetella	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -18373,21 +18141,16 @@
 13	muiden	muu	PRON	_	Case=Gen|Number=Plur|PronType=Ind	14	nmod:poss	_	_
 14	katseissa	katse	NOUN	_	Case=Ine|Number=Plur	11	nmod	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.2
 # text = Opettelen elämään uudestaan
 1	Opettelen	opetella	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	elämään	elää	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	xcomp	_	_
 3	uudestaan	uudestaan	ADV	_	_	1	advmod	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.3
 # text = 26.02.2009
 1	26.02.2009	26.02.2009	NUM	_	_	0	root	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem3.4
 # text = Vaikea uskoa olevansa olemassa tekemässä tehtyjään sanomassa sanojaan nukkuessa nuoruuttaan
 1	Vaikea	vaikea	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
@@ -18401,7 +18164,6 @@
 9	nukkuessa	nukkua	VERB	_	Case=Ine|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	4	conj	_	_
 10	nuoruuttaan	nuoruus	NOUN	_	Case=Par|Derivation=Vs|Number=Sing|Person[psor]=3	9	obj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.5
 # text = Silti pieni pelko kipeä kiinnostus elävään elämään
 1	Silti	silti	ADV	_	_	3	orphan	_	_
@@ -18412,7 +18174,6 @@
 6	elävään	elävä	ADJ	_	Case=Ill|Degree=Pos|Number=Sing	7	amod	_	_
 7	elämään	elämä	NOUN	_	Case=Ill|Number=Sing	3	orphan	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.6
 # text = mahtaako mahdollisuuksia olla ja vielä onnistaa?
 1	mahtaako	mahtaa	AUX	_	Clitic=Ko|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	aux	_	_
@@ -18423,14 +18184,10 @@
 6	onnistaa	onnistaa	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	conj	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.7
 # text = 20.01.2009
 1	20.01.2009	20.01.2009	NUM	_	_	0	root	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem3.8
 # text = Hän neuvoo kaikessa määräilee, päättää ja pakottaa
 1	Hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -18442,7 +18199,6 @@
 7	ja	ja	CCONJ	_	_	8	cc	_	_
 8	pakottaa	pakottaa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.9
 # text = mitään ei tehdä saa omalla tavalla kaikki väärin sitä ihmettelee
 1	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	4	obj	_	_
@@ -18456,7 +18212,6 @@
 9	sitä	se	PRON	_	Case=Par|Number=Sing|PronType=Dem	10	obj	_	_
 10	ihmettelee	ihmetellä	VERB	_	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.10
 # text = miksi kaksi puolta joista toinen inhoaa ja hälveksii
 1	miksi	miksi	ADV	_	_	3	advmod	_	_
@@ -18468,7 +18223,6 @@
 7	ja	ja	CCONJ	_	_	8	cc	_	_
 8	hälveksii	hälveksiä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.11
 # text = Ei lepoa tässä kehossa
 1	Ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -18476,14 +18230,10 @@
 3	tässä	tämä	PRON	_	Case=Ine|Number=Sing|PronType=Dem	4	det	_	_
 4	kehossa	keho	NOUN	_	Case=Ine|Number=Sing	2	nmod	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.12
 # text = 20.01.2009
 1	20.01.2009	20.01.2009	NUM	_	_	0	root	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem3.13
 # text = Huomaan taas se on täällä karkuun yritän paikallani silti jumitan nukkua vain haluan ja tyhjässä leijailla ilman tunteita olla ja hukkua
 1	Huomaan	huomata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -18508,7 +18258,6 @@
 20	ja	ja	CCONJ	_	_	21	cc	_	_
 21	hukkua	hukkua	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	11	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.14
 # text = Kasvanko ikinä pois tästä olosta silmistä kyyneleitä saan taas kerätä ennen muualle lähtöä
 1	Kasvanko	kasvaa	VERB	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -18525,7 +18274,6 @@
 12	muualle	muualle	ADV	_	_	13	advmod	_	_
 13	lähtöä	lähtö	NOUN	_	Case=Par|Number=Sing	10	obl	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.15
 # text = olen vain riesaksi en ole ollut oma itseni tiedä enää mitä on olla minä kai lähinnä koomaa ja muuta hakkaatte päätäni suulla ja mielellänne mieltäni mietitte kaivelette ja naureskelette
 1	olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
@@ -18558,15 +18306,13 @@
 28	ja	ja	CCONJ	_	_	29	cc	_	_
 29	naureskelette	naureskella	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem3.16
 # text = 14.08.2007
 1	14.08.2007	14.08.2007	NUM	_	_	0	root	_	SpacesAfter=\n
 
 # doc_id = poem4
 # url = http://www.rakkausrunot.com/runoilija.php?runid=55649&arvost=&start=40
-# newdoc
-# newpar
+# newdoc id = poem4
 # sent_id = poem4.1
 # text = Koko päivänä en ole kenenkään suonut nähdä hymyäni.
 1	Koko	koko	ADJ	_	_	2	amod	_	_
@@ -18621,9 +18367,6 @@
 7	sinua	sinä	PRON	_	Case=Par|Number=Sing|Person=2|PronType=Prs	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# NewPar=Yes
-# newdoc
-# newpar
 # sent_id = poem4.6
 # text = Niin kauan minun on täytynyt odottaa.
 1	Niin	niin	ADV	_	_	2	advmod	_	_
@@ -18667,7 +18410,6 @@
 5	mustelmat	mustelma	NOUN	_	Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem4.10
 # text = Menetin rakkaan, mutta jatkan eteenpäin voimalla pyrkien parempaan elämään.
 1	Menetin	menettää	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -18728,8 +18470,7 @@
 
 # doc_id = poem5
 # url = http://wiki.digit.fi/wiki/index.php?title=UrhoMatti:Joulumaa&action=edit&oldid=851
-# newdoc
-# newpar
+# newdoc id = poem5
 # sent_id = poem5.1
 # text = San. Juha Vainion, säv. Katri-Helena Kalaojan
 1	San.	san.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj:cop	_	_
@@ -18740,7 +18481,6 @@
 6	Katri-Helena	Katri-Helena	PROPN	_	Case=Nom|Number=Sing	2	conj	_	_
 7	Kalaojan	Kalaoja	PROPN	_	Case=Gen|Number=Sing	6	flat:name	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem5.2
 # text = Joulumaahan matkamies jo moni tietä kysyy, sinne saattaa löytää,vaikka paikallansa pysyy.
 1	Joulumaahan	joulu#maa	NOUN	_	Case=Ill|Number=Sing	6	obl	_	_
@@ -18774,7 +18514,6 @@
 11	joulurauhaa	joulu#rauha	NOUN	_	Case=Par|Number=Sing	8	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem5.4
 # text = Joulumaa on muutakin kuin tunturi ja lunta, Joulumaa on ihmismielen rauhan valtakunta.
 1	Joulumaa	joulu#maa	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
@@ -18809,7 +18548,6 @@
 13	sydämestä	sydän	NOUN	_	Case=Ela|Number=Sing	12	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem5.6
 # text = Joulumaasta kuvitellaan paljon kaikenlaista, kuinka toiveet toteutuu ja on niin satumaista.
 1	Joulumaasta	joulu#maa	NOUN	_	Case=Ela|Number=Sing	2	obl	_	_
@@ -18845,7 +18583,6 @@
 15	rauhan	rauha	NOUN	_	Case=Gen|Number=Sing	11	obj	_	SpaceAfter=No
 16	!	!	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem5.8
 # text = Joulumaa on muutakin kuin pelkkää toiveunta, Joulumaa on ihmismielen rauhan valtakunta.
 1	Joulumaa	joulu#maa	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
@@ -18879,7 +18616,6 @@
 13	sydämestä	sydän	NOUN	_	Case=Ela|Number=Sing	12	obl	_	SpaceAfter=No
 14	!	!	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem5.10
 # text = Joulumaasta uskoo moni onnen löytävänsä, mutta sepä kätkeytyy tai narraa etsijänsä.
 1	Joulumaasta	joulu#maa	NOUN	_	Case=Ela|Number=Sing	5	obl	_	_
@@ -18914,7 +18650,6 @@
 14	rauha	rauha	NOUN	_	Case=Nom|Number=Sing	11	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem5.12
 # text = Joulumaa on muutakin kuin pelkkää toiveunta, Joulumaa on ihmismielen rauhan valtakunta,
 1	Joulumaa	joulu#maa	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
@@ -18931,7 +18666,6 @@
 12	valtakunta	valta#kunta	NOUN	_	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	3	punct	_	_
 
-# newpar
 # sent_id = poem5.13
 # text = Eikä sinne matka silloin kovin kauan kestä, Joulumaa jos jokaiselta löytyy sydämestä!
 1	Eikä	ei	AUX	_	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	7	aux	_	_
@@ -18951,20 +18685,17 @@
 
 # doc_id = poem6
 # url = http://www.saunalahti.fi/~juhatik/marras9_10.htm
-# newdoc
-# newpar
+# newdoc id = poem6
 # sent_id = poem6.1
 # text = Marraskuu Itämeren perukoilla
 1	Marraskuu	marraskuu	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	Itämeren	Itämeri	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
 3	perukoilla	perukka	NOUN	_	Case=Ade|Number=Plur	1	nmod	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem6.2
 # text = 9.
 1	9.	9.	ADJ	_	NumType=Ord	0	root	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem6.3
 # text = Loviisan teräsaidan silmukoissa murajaa pohjoistuuli, portit ovat kiinni, sillä kansa on päättänyt pitää atomisaasteen aitojen sisällä, leirillä, turvassa
 1	Loviisan	Loviisa	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
@@ -19024,7 +18755,6 @@
 12	kenellekään	kukaan	PRON	_	Case=All|Number=Sing|PronType=Ind	11	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
-# newpar
 # sent_id = poem6.6
 # text = Minä käärin kaulaliinaa kipeän omantunnon suojaksi, sadetuulelta, joka kirnuaa polulla vikisevän mopopojan käryt korvista sisään.
 1	Minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
@@ -19047,28 +18777,17 @@
 18	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # <doc id="7-353213" length="0-1k" crawl_date="2016-04-17" url="http://vindstuga.blogspot.fi/2012/08/malmille-matka-kay.html" langdiff="0.34">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web1
 # sent_id = web1.1
 # text = 28.8.2012
 1	28.8.2012	28.8.2012	NUM	_	_	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web1.2
 # text = Malmille matka käy
 1	Malmille	Malmi	PROPN	_	Case=All|Number=Sing	3	obl	_	_
 2	matka	matka	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	käy	käydä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web1.3
 # text = Otsikko kertonee jotain, ehkä?
 1	Otsikko	otsikko	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -19182,10 +18901,6 @@
 18	pois	pois	ADV	_	_	15	advmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web1.8
 # text = Mutta, koska mulla on takana melkein kymmen tuntinen päivä tuolla malmilla (tänään oli kylppärin seinien ja lattian saumaus, aulatilan vesieristys ja yläkerran vessan vesieristystä) ja otin tossa lasillisen valkoviiniä, niin taidan jättää laattalöpinät tuonemmaksi ja tarjota teille vaikka joitakin otoksia.
 1	Mutta	mutta	CCONJ	_	_	37	cc	_	SpaceAfter=No
@@ -19235,13 +18950,8 @@
 45	otoksia	otos	NOUN	_	Case=Par|Number=Plur	41	obj	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	37	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="0-547294" length="0-1k" crawl_date="2015-10-21" url="http://uusimaa.sdp.fi/ajankohtaista/10047-pakolaisseminaari-piirikokouksen-yhteydessa" langdiff="0.41">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web2
 # sent_id = web2.1
 # text = klo 12.30 Pakolaiskysymys Uudenmaan alueen kehittämisen näkökulmasta.
 1	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	orphan	_	_
@@ -19278,10 +18988,6 @@
 7	tarkoittaa	tarkoittaa	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web2.4
 # text = - Ulla-Mari Karhu , kehittämispäällikkö Uudenmaan liitto
 1	-	-	PUNCT	_	_	2	punct	_	_
@@ -19292,20 +18998,12 @@
 6	Uudenmaan	Uusimaa	PROPN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_
 7	liitto	liitto	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web2.5
 # text = klo 13.00 keskustelu
 1	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	orphan	_	_
 2	13.00	13.00	NUM	_	NumType=Card	1	nummod	_	_
 3	keskustelu	keskustelu	NOUN	_	Case=Nom|Derivation=U|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web2.6
 # text = klo 13.15 SDP:n maahanmuuttopoliittiset linjaukset
 1	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	5	orphan	_	_
@@ -19314,10 +19012,6 @@
 4	maahanmuuttopoliittiset	maahan#muutto#poliittinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Plur	5	amod	_	_
 5	linjaukset	linjaus	NOUN	_	Case=Nom|Number=Plur	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web2.7
 # text = - Joona Räsänen , SDP:n maahanmuuttopoliittisista asioista vastaava kansanedustaja
 1	-	-	PUNCT	_	_	2	punct	_	_
@@ -19330,21 +19024,12 @@
 8	vastaava	vastata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
 9	kansanedustaja	kansan#edustaja	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	2	appos	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="4-159226" length="10k-100k" crawl_date="2016-05-10" url="http://munleffablogi.blogspot.fi/2015_06_01_archive.html" langdiff="0.16">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web3
 # sent_id = web3.1
 # text = Sivut
 1	Sivut	sivu	NOUN	_	Case=Nom|Number=Plur	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web3.2
 # text = sunnuntai 28. kesäkuuta 2015
 1	sunnuntai	sunnuntai	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -19352,10 +19037,6 @@
 3	kesäkuuta	kesäkuu	NOUN	_	Case=Par|Number=Sing	1	flat	_	_
 4	2015	2015	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.3
 # text = Kapteeni Amerikan toinen oma elokuva julkaistiin ainakin Pohjoismaissa ja Saksassa eri nimellä kuin Amerikassa.
 1	Kapteeni	Kapteeni	PROPN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
@@ -19377,7 +19058,7 @@
 # sent_id = web3.4
 # text = Alkuperäisnimestä Captain America: The Winter Soldier tulee liikaa talvisotaviboja.
 1	Alkuperäisnimestä	alku#peräis#nimi	NOUN	_	Case=Ela|Number=Sing	8	obl	_	_
-2	Captain	Captain	PROPN	_	Case=Nom|Number=Sing	1	appos	_	note=todo
+2	Captain	Captain	PROPN	_	Case=Nom|Number=Sing	1	appos	_	_
 3	America	America	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	2	punct	_	_
 5	The	The	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	_
@@ -19412,10 +19093,6 @@
 15	jne.	jne.	ADV	_	Abbr=Yes	8	advmod	_	SpaceAfter=No
 16	?	?	PUNCT	_	_	8	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.7
 # text = Kapun ensimmäisestä leffasta en innostunut.
 1	Kapun	Kapu	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
@@ -19446,10 +19123,6 @@
 17	mikä	mikä	PRON	_	Case=Nom|Number=Sing|PronType=Int	15	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.9
 # text = Jatko-osa on hitusen viihdyttävämpi.
 1	Jatko-osa	jatko#osa	NOUN	_	Case=Nom|Number=Sing	4	nsubj:cop	_	_
@@ -19537,10 +19210,6 @@
 14	ensivilkaisulla	ensi#vilkaisu	NOUN	_	Case=Ade|Derivation=U|Number=Sing	12	obl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.15
 # text = Scarlett Johansson on tosi kova mimmi ja Samuel L. Jackson erittäin cool.
 1	Scarlett	Scarlett	PROPN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
@@ -19578,10 +19247,6 @@
 9	näyttelijä	näyttelijä	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.18
 # text = Elokuvalla on mieleenpainuvat hetkensä.
 1	Elokuvalla	elo#kuva	NOUN	_	Case=Ade|Number=Sing	0	root	_	_
@@ -19636,10 +19301,6 @@
 9	sata	sata	NUM	_	Case=Nom|Number=Sing|NumType=Card	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.22
 # text = Chris ja Scarlett ne yhteen soppii...
 1	Chris	Chris	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -19661,11 +19322,6 @@
 6	Diaries	Diaries	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
 7	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web3.24
 # text = *** Captain America: The Return of the First Avenger (Captain America: The Winter Soldier, 2014) Ohjaus: Anthony Russo, Joe Russo.
 1	***	***	PUNCT	_	_	2	punct	_	_
@@ -19698,8 +19354,8 @@
 28	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = web3.25
-# text = Pääosissa: Chris Evans, Scarlett Johansson, Samuel L. Jackson, Anthony Mackie, Robert Redford, Sebastian Stan, Cobie Smulders, Frank Grillo, Emily VanCamp, Hayley Atwell, Toby Jones.
 # document truncated
+# text = Pääosissa: Chris Evans, Scarlett Johansson, Samuel L. Jackson, Anthony Mackie, Robert Redford, Sebastian Stan, Cobie Smulders, Frank Grillo, Emily VanCamp, Hayley Atwell, Toby Jones.
 1	Pääosissa	pää#osa	NOUN	_	Case=Ine|Number=Plur	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	3	punct	_	_
 3	Chris	Chris	PROPN	_	Case=Nom|Number=Sing	1	appos	_	_
@@ -19737,13 +19393,8 @@
 35	Jones	Jones	PROPN	_	Case=Nom|Number=Sing	34	flat:name	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="5-87160" length="1k-10k" crawl_date="2015-02-19" url="http://keskustelu.jatkoaika.com/threads/arvostamasi-nimimerkit.48284/page-5" langdiff="0.19">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web4
 # sent_id = web4.1
 # text = Nostaisin omalta osaltani tähän ketjuun ja kategoriaan nimimerkin Musta Nuoli : kyseessä on kerta toisensa jälkeen älykkäitä ja harkittuja puheenvuoroja sekä hyviä, aiheellisia ja ennen kaikkea asiallisesti perusteltuja mielipiteitä esittävä kirjoittaja.
 1	Nostaisin	nostaa	VERB	_	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -19785,20 +19436,11 @@
 1	Arvostan	arvostaa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.3
 # text = Laajenna klikkaamalla
 1	Laajenna	laajentaa	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 2	klikkaamalla	klikata	VERB	_	Case=Ade|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	advcl	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.4
 # text = Kun näin tämän ketjun ylhäällä, niin arvasin, että luultavasti juuri tuota nimimerkkiä nostellaan kultatuoliin.
 1	Kun	kun	SCONJ	_	_	2	mark	_	_
@@ -19864,10 +19506,6 @@
 12	eksyneille	eksyä	VERB	_	Case=All|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	8	orphan	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.8
 # text = Koko ajan tosin muistan, että aikansa jaksaa ja sitten turhautuu.
 1	Koko	koko	ADJ	_	_	2	amod	_	_
@@ -19911,10 +19549,6 @@
 4	käysi	käydä	VERB	_	Connegative=Yes|Mood=Cnd|Typo=Yes|VerbForm=Fin	1	advcl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.12
 # text = Scholl on iskussa.
 1	Scholl	Scholl	PROPN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
@@ -19945,10 +19579,6 @@
 12	vastaavaa	vastaava	ADJ	_	Case=Ill|Degree=Pos|Number=Sing|Style=Coll	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.15
 # text = Voi olla että muistan väärin.
 1	Voi	voida	AUX	_	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -20024,10 +19654,6 @@
 14	siitä	se	PRON	_	Case=Ela|Number=Sing|PronType=Dem	13	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.19
 # text = Juuri näinhän käy, mitä enemmän Aurassa vesi virtaa.
 1	Juuri	juuri	ADV	_	_	3	advmod	_	_
@@ -20125,10 +19751,6 @@
 18	aiheita	aihe	NOUN	_	Case=Par|Number=Plur	16	obj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web4.24
 # text = Mitä eri aihealueissa ja ketjuissa tapahtuviin nettiväittelyihin ja muihin tulee, niin aikani niitä saatan jaksaa, mutta mikäli ei mitään uutta tai erityistä tule, niin en niitä iankaikkisesti jaksa hinkata.
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	10	nsubj	_	_
@@ -20166,8 +19788,8 @@
 33	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = web4.25
-# text = Nuorempana olisin ehkä jaksanutkin, mutta sen verran on elämä opettanut, että nettikeskustelut taantuvat helposti asemasodaksi, jossa eri osapuolet huutelevat ikuisesti poteroistaan samoja juttuja ja samoja argumentteja sekä paremman puutteessa tarttuvat yksittäisiin lauseisiin tai sanamuotoihin, joiden avulla sitten ns. todistetaan jotain.
 # document truncated
+# text = Nuorempana olisin ehkä jaksanutkin, mutta sen verran on elämä opettanut, että nettikeskustelut taantuvat helposti asemasodaksi, jossa eri osapuolet huutelevat ikuisesti poteroistaan samoja juttuja ja samoja argumentteja sekä paremman puutteessa tarttuvat yksittäisiin lauseisiin tai sanamuotoihin, joiden avulla sitten ns. todistetaan jotain.
 1	Nuorempana	nuori	ADJ	_	Case=Ess|Degree=Cmp|Number=Sing	4	obl	_	_
 2	olisin	olla	AUX	_	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	4	aux	_	_
 3	ehkä	ehkä	ADV	_	_	4	advmod	_	_
@@ -20214,13 +19836,8 @@
 44	jotain	jokin	PRON	_	Case=Par|Number=Sing|PronType=Ind	43	obj	_	SpaceAfter=No
 45	.	.	PUNCT	_	_	4	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="4-1974360" length="1k-10k" crawl_date="2014-07-26" url="http://kalamies.com/kalastus-keskustelut/topic?p=949805" langdiff="0.29">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web5
 # sent_id = web5.1
 # text = Esitänpä tuoreimman tiedon omaaville kalastuksenvalvojille kysymyksen.
 1	Esitänpä	esittää	VERB	_	Clitic=Pa|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -20340,19 +19957,11 @@
 13	esitettäväksi	esittää	VERB	_	Case=Tra|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	12	advcl	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web5.8
 # text = -munapata
 1	-	-	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	munapata	munapata	PROPN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web5.9
 # text = Ainakin siinä tapauksessa että on epäilys sinun kalastavan tarkoituksella alamittaisia, eli välineet ovat sellaisia joita voi pitää alamittaisen kalan tavoitteluun sopivina (valvojan harkinnalla), vaikka tietynlainen verkko, rysä, mato-onki pumppuauton putken päässä tms.
 1	Ainakin	ainakin	ADV	_	_	3	advmod	_	_
@@ -20444,10 +20053,6 @@
 14	valtakirja	valta#kirja	NOUN	_	Case=Nom|Number=Sing	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web5.12
 # text = Kannattaa nuo lukea, mutta tärkeämpää on melkeimpä kuunnella siinä koulutuksessa esille tulevat asiat.
 1	Kannattaa	kannattaa	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
@@ -20508,10 +20113,6 @@
 12	läpäisee	läpäistä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web5.15
 # text = Kaloja ei myöskään saa merkata ilman lupaa, joten valvojan pitäisi puuttua peliin jos huomaa jonkun merkkaavan kaloja.
 1	Kaloja	kala	NOUN	_	Case=Par|Number=Plur	5	obj	_	_
@@ -20634,10 +20235,6 @@
 7	projektillenne	projekti	NOUN	_	Case=All|Number=Sing|Number[psor]=Plur|Person[psor]=2	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web5.21
 # text = Mitenkä muuten valvojan tulee toimia jos takavarikoidussa verkossa on kaloja?
 1	Mitenkä	miten	ADV	_	Clitic=Ko	4	advmod	_	_
@@ -20688,15 +20285,9 @@
 7	niille	se	PRON	_	Case=All|Number=Plur|PronType=Dem	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# duplicate removed
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web5.25
-# text = Poliisi antaa ohjeet mahdollisen saaliin suhteen.
 # document truncated
+# text = Poliisi antaa ohjeet mahdollisen saaliin suhteen.
 1	Poliisi	poliisi	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	antaa	antaa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ohjeet	ohje	NOUN	_	Case=Nom|Number=Plur	2	obj	_	_
@@ -20705,14 +20296,8 @@
 6	suhteen	suhteen	ADP	_	AdpType=Post	5	case	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="5-180638" length="1k-10k" crawl_date="2015-11-16" url="http://www.potku.net/forum/viewtopic.php?f=16&t=3713&start=10" langdiff="0.15">
-# <duplicate_text>
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web6
 # sent_id = web6.1
 # text = Niin, olenpa varma että sjambok tulee yleistymään myös siellä baarikäytössä.
 1	Niin	niin	ADV	_	_	4	advmod	_	SpaceAfter=No
@@ -20771,11 +20356,6 @@
 12	menee	mennä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.5
 # text = Kaulaliinat ja pikkutakit ovat kai kaikille oviduunia tehneille tuttuja?
 1	Kaulaliinat	kaula#liina	NOUN	_	Case=Nom|Number=Plur	9	nsubj:cop	_	_
@@ -20834,10 +20414,6 @@
 14	elviskauluksia	elvis#kaulus	NOUN	_	Case=Par|Number=Plur	4	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.8
 # text = Pipon silmille kiskaisu ja sitä välittömästi seuraava lyönti tai leffoista tuttu kahden käden kuristus tuntui olevan muodissa Turussa toissa talvena.
 1	Pipon	pipo	NOUN	_	Case=Gen|Number=Sing	3	nmod:gobj	_	_
@@ -20886,10 +20462,6 @@
 9	myöskin	myöskin	ADV	_	_	8	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.11
 # text = Nahkatakeilla lyöminen on kai myös aika yleistä, joko täysillä taskuilla tai ilman.
 1	Nahkatakeilla	nahka#takki	NOUN	_	Case=Ade|Number=Plur	2	nmod	_	_
@@ -20942,10 +20514,6 @@
 12	jälkikäteen	jälki#käteen	ADV	_	_	10	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.14
 # text = Jollain vahtikeikalla pro bono -hengessä eräältä juhlijalta löytyi jääpiikit.
 1	Jollain	jokin	PRON	_	Case=Ade|Number=Sing|PronType=Ind	2	det	_	_
@@ -20998,10 +20566,6 @@
 3	kuitenkin	kuitenkin	ADV	_	_	1	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.19
 # text = Nuo joustavat aseet- improvisoidut tai ei - tahtovat tulla ilkeästi torjunnan ympäri, yleensä vielä kovalla momentilla kun pyörimissäde muuttuu.
 1	Nuo	tuo	PRON	_	Case=Nom|Number=Plur|PronType=Dem	3	det	_	_
@@ -21027,19 +20591,11 @@
 21	muuttuu	muuttua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.20
 # text = Riku Ylönen
 1	Riku	Riku	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 2	Ylönen	Ylönen	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.21
 # text = maalis 14, 2006, 19.52
 1	maalis	maalis	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	_
@@ -21049,11 +20605,6 @@
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	19.52	19.52	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.22
 # text = Yksi merkittävä ongelma on myös aseen kertakäyttöisyys, jolla myös selittyvät nuo luvut - epäonnistuneen laukaisun jälkeen virveliä ei voi kelata kasaan, vaan se käsi on sillä kertaa pelattu.
 1	Yksi	yksi	NUM	_	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
@@ -21088,11 +20639,6 @@
 30	pelattu	pelata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	21	conj	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.23
 # text = Uuden "patruunan" vaihtaa tazeriin sekunnissa.
 1	Uuden	uusi	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	3	amod	_	_
@@ -21114,13 +20660,9 @@
 6	aikaa	aika	NOUN	_	Case=Par|Number=Sing	4	nsubj	_	SpaceAfter=No
 7	...	...	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web6.25
-# text = maalis 14, 2006, 21.30
 # document truncated
+# text = maalis 14, 2006, 21.30
 1	maalis	maalis	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	_
 2	14	14	NUM	_	NumType=Card	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
@@ -21128,15 +20670,8 @@
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	21.30	21.30	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="7-907870" length="1k-10k" crawl_date="2014-12-22" url="http://www.kirjastot.fi/fi/forum/kansainv%C3%A4list%C3%A4-tietoa-kotimaassa-elokuussa-8d18bc" langdiff="0.44">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web7
 # sent_id = web7.1
 # text = Kansainvälistä tietoa kotimaassa elokuussa
 1	Kansainvälistä	kansain#välinen	ADJ	_	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	_
@@ -21144,10 +20679,6 @@
 3	kotimaassa	koti#maa	NOUN	_	Case=Ine|Number=Sing	2	orphan	_	_
 4	elokuussa	elokuu	NOUN	_	Case=Ine|Number=Sing	2	orphan	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web7.2
 # text = Suomessa voi loppukesästä kuulla tosi mielenkiintoisia esityksiä:
 1	Suomessa	Suomi	PROPN	_	Case=Ine|Number=Sing	4	obl	_	_
@@ -21177,11 +20708,6 @@
 14	hyvin	hyvin	ADV	_	_	13	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web7.4
 # text = Satelliitti "Bibliotheca Universalis - How to Organize Chaos" tähtää popularisoimaan luetteloinnin uusia virtauksia.
 1	Satelliitti	satelliitti	NOUN	_	Case=Nom|Number=Sing	3	compound:nn	_	_
@@ -21253,10 +20779,6 @@
 20	toisiinsa	toinen	PRON	_	Case=Ill|Number=Plur|Person[psor]=3|PronType=Rcp	19	obl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web7.8
 # text = Osallistujat voivat liikkua kokousten välillä vapaasti.
 1	Osallistujat	osallistuja	NOUN	_	Case=Nom|Derivation=Ja|Number=Plur	3	nsubj	_	_
@@ -21286,19 +20808,11 @@
 15	€	€	SYM	_	_	5	conj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web7.10
 # text = Tässä osiossa
 1	Tässä	tämä	PRON	_	Case=Ine|Number=Sing|PronType=Dem	2	det	_	_
 2	osiossa	osio	NOUN	_	Case=Ine|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web7.11
 # text = Keskustele, seuraa ja vaikuta!
 1	Keskustele	keskustella	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -21308,11 +20822,6 @@
 5	vaikuta	vaikuttaa	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web7.12
 # text = Kirjastoalan avoimia keskusteluita on käyty Kirjastot.fi:ssä jo vuodesta 1995 lähtien.
 1	Kirjastoalan	kirjasto#ala	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
@@ -21345,10 +20854,6 @@
 14	sähköpostiinsa	sähkö#posti	NOUN	_	Case=Ill|Number=Sing|Person[psor]=3	12	obl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web7.14
 # text = Kirjoitaminen foorumeille edellyttää sisäänkirjautumista, nimen tai vakionimimerkin käyttöä.
 1	Kirjoitaminen	kirjoitaminen	NOUN	_	Case=Nom|Derivation=Minen|Number=Sing	3	nsubj	_	_
@@ -21398,10 +20903,6 @@
 5	sisällöstä	sisältö	NOUN	_	Case=Ela|Number=Sing	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web7.18
 # text = Tilaa keskusteluviestejä sähköpostiin tai seuraa RSS-syötteiden avulla.
 1	Tilaa	tilata	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -21413,15 +20914,8 @@
 7	avulla	apu	NOUN	_	Case=Ade|Derivation=U|Number=Sing	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="4-383882" length="1k-10k" crawl_date="2014-12-20" url="http://www.liikkujanviikko.fi/ajankohtaista/tiedotteet/paata_itse_projektirahaa/" langdiff="0.48">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web8
 # sent_id = web8.1
 # text = Päätä itse! -projektirahaa nuorten liikenneturvallisuusprojekteihin
 1	Päätä	pää	NOUN	_	Case=Par|Number=Sing	4	compound:nn	_	_
@@ -21431,20 +20925,12 @@
 5	nuorten	nuori	NOUN	_	Case=Gen|Number=Plur	6	nmod:poss	_	_
 6	liikenneturvallisuusprojekteihin	liikenne#turvallisuus#projekti	NOUN	_	Case=Ill|Number=Plur	4	orphan	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web8.2
 # text = Julkaistu 09.04.2014.
 1	Julkaistu	julkaista	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	09.04.2014	09.04.2014	NUM	_	_	1	obl	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web8.3
 # text = Liikenneturvan ja Nuorten Akatemian yhteishankkeessa myönnetään 100–1000 euroa liikenneturvallisuutta edistäviin projekteihin.
 1	Liikenneturvan	Liikenneturva	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
@@ -21473,11 +20959,6 @@
 9	hanke	hanke	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web8.5
 # text = Ehtona on ainoastaan, että projektin on oltava nuorten ideoima ja toteuttama – ja sen pitää edistää liikenneturvallisuutta.
 1	Ehtona	ehto	NOUN	_	Case=Ess|Number=Sing	0	root	_	_
@@ -21517,10 +20998,6 @@
 13	projekteihin	projekti	NOUN	_	Case=Ill|Number=Plur	6	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web8.7
 # text = Yli 400 euron projektien on tavoitettava laajasti ihmisiä ja/tai parannettava liikenneturvallisuutta pidemmällä aikavälillä ja/tai tuotettava ryhmälle syvällisempää perehtyneisyyttä liikenneturvallisuuteen.
 1	Yli	yli	ADV	_	_	2	advmod	_	_
@@ -21544,10 +21021,6 @@
 19	liikenneturvallisuuteen	liikenne#turvallisuus	NOUN	_	Case=Ill|Derivation=Llinen,Vs|Number=Sing	18	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web8.8
 # text = Projektirahaa voi hakea 15. kesäkuuta saakka täyttämällä netissä hakulomakkeen.
 1	Projektirahaa	projekti#raha	NOUN	_	Case=Par|Number=Sing	3	obj	_	_
@@ -21581,11 +21054,6 @@
 16	yhteyshenkilö	yhteys#henkilö	NOUN	_	Case=Nom|Number=Sing	9	nsubj:cop	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web8.10
 # text = Päätökset projektirahan myöntämisestä tulevat nopeasti sähköpostiin.
 1	Päätökset	päätös	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
@@ -21607,14 +21075,8 @@
 7	saakka	saakka	ADP	_	AdpType=Post	6	case	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="0-378922" length="1k-10k" crawl_date="2016-03-06" url="http://www.thedeliciousliving.blogspot.fi/2016/01/paksusti-voidaan.html" langdiff="0.26">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web9
 # sent_id = web9.1
 # text = sunnuntai 31. tammikuuta 2016
 1	sunnuntai	sunnuntai	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -21622,19 +21084,11 @@
 3	tammikuuta	tammikuu	NOUN	_	Case=Par|Number=Sing	1	flat	_	_
 4	2016	2016	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web9.2
 # text = Paksusti voidaan
 1	Paksusti	paksusti	ADV	_	Derivation=Sti	2	advmod	_	_
 2	voidaan	voida	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web9.3
 # text = Mietin hetken, että kehtaanko edes enää kirjoittaa tänne blogin puolelle.
 1	Mietin	miettiä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -21738,10 +21192,6 @@
 27	:D	:D	SYM	_	_	3	discourse	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web9.9
 # text = Joulu meni hujauksella ohi.
 1	Joulu	joulu	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -21928,10 +21378,6 @@
 6	vuorattu	vuorata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web9.22
 # text = No se joulusta..
 1	No	no	INTJ	_	_	2	discourse	_	_
@@ -21971,8 +21417,8 @@
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = web9.25
-# text = Meillä oli äidin kanssa semmoinen 10pv:n reissu Dubaissa.
 # document truncated
+# text = Meillä oli äidin kanssa semmoinen 10pv:n reissu Dubaissa.
 1	Meillä	minä	PRON	_	Case=Ade|Number=Plur|Person=1|PronType=Prs	0	root	_	_
 2	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop:own	_	_
 3	äidin	äiti	NOUN	_	Case=Gen|Number=Sing	1	obl	_	_
@@ -21984,22 +21430,13 @@
 9	Dubaissa	Dubai	PROPN	_	Case=Ine|Number=Sing	1	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="0-432057" length="1k-10k" crawl_date="2015-08-11" url="http://kiekko.ts.fi/uutiset/admiralilla-alkuvaikeuksia" langdiff="0.33">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web10
 # sent_id = web10.1
 # text = Admiralilla alkuvaikeuksia
 1	Admiralilla	Admiral	PROPN	_	Case=Ade|Number=Sing	0	root	_	_
 2	alkuvaikeuksia	alku#vaikeus	NOUN	_	Case=Par|Derivation=Vs|Number=Plur	1	nsubj:cop	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.2
 # text = Hannu Jortikan valmentama Admiral Vladivostok pelasi sunnuntaina Sibiriä vastaan Novosibirskissä ja matkusti sen jälkeen seuraavalla pelipaikalle Novokuznetskiin.
 1	Hannu	Hannu	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -22032,10 +21469,6 @@
 7	aamuyöllä	aamu#yö	NOUN	_	Case=Ade|Number=Sing	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.4
 # text = – Meidän piti alun perin olla perillä puolenyön aikaan, mutta lentokone oli liian pieni, eivätkä varusteet mahtuneet ruumaan.
 1	–	–	PUNCT	_	_	7	punct	_	SpacesAfter=
@@ -22085,10 +21518,6 @@
 21	kertoi	kertoa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	parataxis	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	18	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.6
 # text = – Lopulta osa tavaroista otettiin koneen sisälle käytäville ja pääsimme matkaan.
 1	–	–	PUNCT	_	_	5	punct	_	SpacesAfter=
@@ -22123,10 +21552,6 @@
 15	2–3	2–3	NUM	_	NumType=Card	11	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.8
 # text = – Olimme selvästi huonompia kuin Sibir.
 1	–	–	PUNCT	_	_	4	punct	_	SpacesAfter=
@@ -22168,10 +21593,6 @@
 6	hyvä	hyvä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.11
 # text = – Meidän ruotsalaispelaajiamme sen sijaan ei edes huomaa kentällä.
 1	–	–	PUNCT	_	_	8	punct	_	SpacesAfter=
@@ -22213,10 +21634,6 @@
 8	sanoi	sanoa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.14
 # text = Admiral sai alkuviikolla pari pelaajaa Lokomotivilta.
 1	Admiral	Admiral	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -22249,10 +21666,6 @@
 18	kunnossa	kunnossa	ADV	_	_	4	conj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.16
 # text = – Paljon on meillä vielä tekemistä.
 1	–	–	PUNCT	_	_	4	punct	_	SpacesAfter=
@@ -22271,10 +21684,6 @@
 4	organisaatiosta	organisaatio	NOUN	_	Case=Ela|Number=Sing	2	nmod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web10.18
 # text = – Pelaajat saivat varusteet päivää ennen ensimmäistä peliä.
 1	–	–	PUNCT	_	_	3	punct	_	SpacesAfter=
@@ -22317,30 +21726,16 @@
 9	huokaisi	huokaista	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="0-2132992" length="10k-100k" crawl_date="2014-07-30" url="http://pienetilot.wordpress.com/category/valkoviini/page/9/" langdiff="0.13">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web11
 # sent_id = web11.1
 # text = Valikko
 1	Valikko	valikko	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web11.2
 # text = Valkoviini
 1	Valkoviini	valko#viini	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.3
 # text = Guigal ja Drouhin kuuluvat eittämättä Ranskan tunnetuimpiin tuottajiin.
 1	Guigal	Guigal	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
@@ -22395,10 +21790,6 @@
 13	asti	asti	ADP	_	AdpType=Post	12	case	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.6
 # text = Näiden kaltaisten suurien tuottajien viineissä on hyvät ja huonot puolensa.
 1	Näiden	tämä	PRON	_	Case=Gen|Number=Plur|PronType=Dem	2	nmod:poss	_	_
@@ -22476,10 +21867,6 @@
 25	pelkoa	pelko	NOUN	_	Case=Par|Number=Sing	24	nsubj	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.9
 # text = Saatavuus on kuitenkin Guigalin ja Drouhin kaltaisten nimien kohdalla omaa luokkaansa, joten hyvien hintojen osuessa kohdalle näihin tarttuu helposti.
 1	Saatavuus	saatavuus	NOUN	_	Case=Nom|Derivation=Vs|Number=Sing	11	nsubj:cop	_	_
@@ -22504,10 +21891,6 @@
 20	helposti	helposti	ADV	_	Derivation=Sti	19	advmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.10
 # text = Puhdas ja raikas, jopa chablismainen tuoksu on varsin miellyttävä.
 1	Puhdas	puhdas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
@@ -22538,10 +21921,6 @@
 12	vivahteita	vivahde	NOUN	_	Case=Par|Number=Plur	4	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.12
 # text = Paletilla makujen kirjo on erittäin paljon tuoksun kaltainen, joskin huomattavasti hillitympi.
 1	Paletilla	paletti	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
@@ -22605,10 +21984,6 @@
 20	hapokkuus	hapokkuus	NOUN	_	Case=Nom|Derivation=Vs|Number=Sing	11	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.15
 # text = Viini on puhdas ja vailla varsinaisia virheitä, mutta jopa puuduttavan tylsä.
 1	Viini	viini	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
@@ -22692,10 +22067,6 @@
 6	paremmin	hyvin	ADV	_	Degree=Cmp	5	advmod	_	SpaceAfter=No
 7	…	…	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.19
 # text = Eläväinen, runsaan tummanpunainen väri, joka päästää vain hiukan valoa lävitseen.
 1	Eläväinen	eläväinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	5	amod	_	SpaceAfter=No
@@ -22712,10 +22083,6 @@
 12	lävitseen	lävitse	ADV	_	Person[psor]=3	8	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.20
 # text = Kiehtova, tyypillisen savuinen ja lihaisa tuoksu tarjoaa runsaasti luumua, tummaa kirsikkaa ja rautaa, sekä häivähdyksen orvokkia.
 1	Kiehtova	kiehtova	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	SpaceAfter=No
@@ -22765,10 +22132,6 @@
 12	hyvä	hyvä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web11.23
 # text = Suussa maistuu ensimmäiseksi runsaan mehukas tumma marja.
 1	Suussa	suu	NOUN	_	Case=Ine|Number=Sing	2	obl	_	_
@@ -22806,8 +22169,8 @@
 22	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = web11.25
-# text = Jos alun mehukas tumma hedelmä on ehkä toivottua pehmeempää, on happojen hyökättyä kyseessä hyvinkin puhdas ja nautinnollinen aito Syrah.
 # document truncated
+# text = Jos alun mehukas tumma hedelmä on ehkä toivottua pehmeempää, on happojen hyökättyä kyseessä hyvinkin puhdas ja nautinnollinen aito Syrah.
 1	Jos	jos	SCONJ	_	_	9	mark	_	_
 2	alun	alku	NOUN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
 3	mehukas	mehukas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
@@ -22830,31 +22193,18 @@
 20	Syrah	Syrah	PROPN	_	Case=Nom|Number=Sing	14	nsubj:cop	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	14	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="6-231646" length="1k-10k" crawl_date="2015-11-18" url="http://www.rantapallo.fi/pimeaonni/2015/09/17/ei-edes-lihapullia-saanut/?replytocom=365" langdiff="0.18">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web12
 # sent_id = web12.1
 # text = Social Icons
 1	Social	Social	X	_	Foreign=Yes	0	root	_	_
 2	Icons	Icons	X	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web12.2
 # text = Post navigation
 1	Post	Post	X	_	Foreign=Yes	0	root	_	_
 2	navigation	navigation	X	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web12.3
 # text = Ei edes lihapullia saanut
 1	Ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
@@ -22862,10 +22212,6 @@
 3	lihapullia	liha#pulla	NOUN	_	Case=Par|Number=Plur	4	obj	_	_
 4	saanut	saada	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web12.4
 # text = Ikea on ehkä se ulkosuomalaisten pelastaja koti-ikävän kourissa.
 1	Ikea	Ikea	PROPN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
@@ -23098,10 +22444,6 @@
 10	kukkuloita	kukkula	NOUN	_	Case=Par|Number=Plur	7	obl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web12.20
 # text = Oon kaivannu omia tavaroita suomessa.
 1	Oon	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -23175,20 +22517,15 @@
 9	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = web12.25
-# text = Mutta tämä vaatekaappi.
 # document truncated
+# text = Mutta tämä vaatekaappi.
 1	Mutta	mutta	CCONJ	_	_	3	cc	_	_
 2	tämä	tämä	PRON	_	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
 3	vaatekaappi	vaate#kaappi	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="8-840182" length="1k-10k" crawl_date="2016-03-27" url="http://kayhmk.com/blog/2012/01/akvarellimaalausta-ja-kipuilua-vv-2/" langdiff="0.27">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web13
 # sent_id = web13.1
 # text = Akvarellimaalausta ja kipuilua, VV #2
 1	Akvarellimaalausta	akvarelli#maalaus	NOUN	_	Case=Par|Number=Sing	0	root	_	_
@@ -23198,10 +22535,6 @@
 5	VV	VV	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	1	parataxis	_	_
 6	#2	#2	SYM	_	_	5	nummod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.2
 # text = Tämäkin viikko on mennyt jonnekin ties minne.
 1	Tämäkin	tämä	PRON	_	Case=Nom|Clitic=Kin|Number=Sing|PronType=Dem	2	det	_	_
@@ -23250,10 +22583,6 @@
 22	taidetta	taide	NOUN	_	Case=Par|Number=Sing	20	obj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.5
 # text = Päästään kuitenkin asiaan!
 1	Päästään	päästä	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -23261,10 +22590,6 @@
 3	asiaan	asia	NOUN	_	Case=Ill|Number=Sing	1	obl	_	SpaceAfter=No
 4	!	!	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.6
 # text = Tällä viikolla (sunnuntaina) oli ensimmäinen kerta akvarellimaalauskurssia.
 1	Tällä	tämä	PRON	_	Case=Ade|Number=Sing|PronType=Dem	2	det	_	_
@@ -23324,10 +22649,6 @@
 12	jotain	jokin	PRON	_	Case=Par|Number=Sing|PronType=Ind	11	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.9
 # text = Aloitin rohkeasti fasaanin maalauksella.
 1	Aloitin	aloittaa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -23358,10 +22679,6 @@
 18	yrittää	yrittää	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	15	xcomp:ds	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.11
 # text = Mittasuhteethan on ihan ties mitä, mutta laitoin ihan piruuttani, kun teki mieli maalata vain mahaa.
 1	Mittasuhteethan	mitta#suhde	NOUN	_	Case=Nom|Clitic=Han|Number=Plur	4	nsubj:cop	_	_
@@ -23394,10 +22711,6 @@
 7	pelätkö	pelätä	VERB	_	Connegative=Yes|Mood=Imp|VerbForm=Fin	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.13
 # text = No, eipä siitä sen enempää.
 1	No	no	INTJ	_	_	3	discourse	_	SpaceAfter=No
@@ -23454,10 +22767,6 @@
 13	postausta	postaus	NOUN	_	Case=Par|Number=Sing	9	obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web13.17
 # text = Ensi viikolla toivottavasti noita valmiin rajalla roikkuvia töitä sitten isompikin pino valmiissa.
 1	Ensi	ensi	ADJ	_	_	2	amod	_	_
@@ -23474,176 +22783,8 @@
 12	valmiissa	valmis	ADJ	_	Case=Ine|Degree=Pos|Number=Sing	11	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
-# <doc collection="wiki" url="Uusateismi">
-# <p>
-# newdoc
-# newpar
-# sent_id = web13.18
-# text = Uusateismin "neljä ratsumiestä": Richard Dawkins, Christopher Hitchens, Sam Harris and Daniel Dennett.
-1	Uusateismin	uus#ateismi	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
-2	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-3	neljä	neljä	NUM	_	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
-4	ratsumiestä	ratsu#mies	NOUN	_	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
-5	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-6	:	:	PUNCT	_	_	4	punct	_	_
-7	Richard	Richard	PROPN	_	Case=Nom|Number=Sing	4	appos	_	_
-8	Dawkins	Dawkins	PROPN	_	Case=Nom|Number=Sing	7	flat:name	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	Christopher	Christopher	PROPN	_	Case=Nom|Number=Sing	7	conj	_	_
-11	Hitchens	Hitchens	PROPN	_	Case=Nom|Number=Sing	10	flat:name	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	Sam	Sam	PROPN	_	Case=Nom|Number=Sing	7	conj	_	_
-14	Harris	Harris	PROPN	_	Case=Nom|Number=Sing	13	flat:name	_	_
-15	and	and	CCONJ	_	Typo=Yes	16	cc	_	_
-16	Daniel	Daniel	PROPN	_	Case=Nom|Number=Sing	7	conj	_	_
-17	Dennett	Dennett	PROPN	_	Case=Nom|Number=Sing	16	flat:name	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = web13.19
-# text = Uusateismi-sanaa on käytetty viittaamaan 2000-luvun ateistiseen uskontokritiikkiin.
-1	Uusateismi-sanaa	uus#ateismi#sana	NOUN	_	Case=Par|Number=Sing	4	nsubj	_	_
-2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
-3	käytetty	käyttää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-4	viittaamaan	viitata	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
-5	2000-luvun	2000#luku	NOUN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_
-6	ateistiseen	ateistinen	ADJ	_	Case=Ill|Degree=Pos|Derivation=Inen|Number=Sing	7	amod	_	_
-7	uskontokritiikkiin	uskonto#kritiikki	NOUN	_	Case=Ill|Number=Sing	4	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = web13.20
-# text = Sanaa on käytetty viittaamaan tietokirjailijoihin Richard Dawkins, Daniel C. Dennett, Sam Harris, Christopher Hitchens ja Victor J. Stenger.
-1	Sanaa	sana	NOUN	_	Case=Par|Number=Sing	4	nsubj	_	_
-2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
-3	käytetty	käyttää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-4	viittaamaan	viitata	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
-5	tietokirjailijoihin	tieto#kirjailija	NOUN	_	Case=Ill|Derivation=Ja|Number=Plur	4	obl	_	_
-6	Richard	Richard	PROPN	_	Case=Nom|Number=Sing	5	appos	_	_
-7	Dawkins	Dawkins	PROPN	_	Case=Nom|Number=Sing	6	flat:name	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	Daniel	Daniel	PROPN	_	Case=Nom|Number=Sing	6	conj	_	_
-10	C.	C.	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	9	flat:name	_	_
-11	Dennett	Dennett	PROPN	_	Case=Nom|Number=Sing	9	flat:name	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	Sam	Sam	PROPN	_	Case=Nom|Number=Sing	6	conj	_	_
-14	Harris	Harris	PROPN	_	Case=Nom|Number=Sing	13	flat:name	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	16	punct	_	_
-16	Christopher	Christopher	PROPN	_	Case=Nom|Number=Sing	6	conj	_	_
-17	Hitchens	Hitchens	PROPN	_	Case=Nom|Number=Sing	16	flat:name	_	_
-18	ja	ja	CCONJ	_	_	19	cc	_	_
-19	Victor	Victor	PROPN	_	Case=Nom|Number=Sing	6	conj	_	_
-20	J.	J.	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	19	flat:name	_	_
-21	Stenger	Stenger	PROPN	_	Case=Nom|Number=Sing	19	flat:name	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = web13.21
-# text = Matti Kamppisen mukaan uusateismissa uutta on lähinnä se, että samaan aikaan tuli markkinoille useita uskontokriittisiä puheenvuoroja.
-1	Matti	Matti	PROPN	_	Case=Nom|Number=Sing	5	obl	_	_
-2	Kamppisen	Kamppinen	PROPN	_	Case=Gen|Number=Sing	1	flat:name	_	_
-3	mukaan	mukaan	ADP	_	AdpType=Post	1	case	_	_
-4	uusateismissa	uus#ateismi	NOUN	_	Case=Ine|Number=Sing	5	obl	_	_
-5	uutta	uusi	ADJ	_	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
-6	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-7	lähinnä	lähinnä	ADV	_	_	8	advmod	_	_
-8	se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	5	nsubj:cop	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	13	punct	_	_
-10	että	että	SCONJ	_	_	13	mark	_	_
-11	samaan	sama	PRON	_	Case=Ill|Number=Sing|PronType=Ind	12	det	_	_
-12	aikaan	aika	NOUN	_	Case=Ill|Number=Sing	13	obl	_	_
-13	tuli	tulla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
-14	markkinoille	markkinat	NOUN	_	Case=All|Number=Plur	13	obl	_	_
-15	useita	usea	ADJ	_	Case=Par|Degree=Pos|Number=Plur	17	amod	_	_
-16	uskontokriittisiä	uskonto#kriittinen	ADJ	_	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	17	amod	_	_
-17	puheenvuoroja	puheen#vuoro	NOUN	_	Case=Par|Number=Plur	13	nsubj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = web13.22
-# text = Termiä on kritisoinut esimerkiksi Tom Flynn, jonka mukaan "uusateismi" ei ole liike eikä siinä ole mitään uutta, vaan uutta oli se, että suuret kustantamot julkaisivat ateistista materiaalia tunnetuilta henkilöiltä, ja näitä teoksia lukivat miljoonat ihmiset ja ne päätyivät myös Best seller -listoille.
-1	Termiä	termi	NOUN	_	Case=Par|Number=Sing	3	obj	_	_
-2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
-3	kritisoinut	kritisoida	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	esimerkiksi	esimerkiksi	ADV	_	_	5	advmod	_	_
-5	Tom	Tom	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-6	Flynn	Flynn	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	15	punct	_	_
-8	jonka	joka	PRON	_	Case=Gen|Number=Sing|PronType=Rel	15	obl	_	_
-9	mukaan	mukaan	ADP	_	AdpType=Post	8	case	_	_
-10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	uusateismi	uus#ateismi	NOUN	_	Case=Nom|Number=Sing	15	nsubj:cop	_	SpaceAfter=No
-12	"	"	PUNCT	_	_	11	punct	_	_
-13	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	15	aux	_	_
-14	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	_
-15	liike	liike	NOUN	_	Case=Nom|Number=Sing	5	acl:relcl	_	_
-16	eikä	ei	AUX	_	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	17	aux	_	_
-17	siinä	se	PRON	_	Case=Ine|Number=Sing|PronType=Dem	15	conj	_	_
-18	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	_
-19	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	20	det	_	_
-20	uutta	uusi	ADJ	_	Case=Par|Degree=Pos|Number=Sing	17	nsubj:cop	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	23	punct	_	_
-22	vaan	vaan	CCONJ	_	_	23	cc	_	_
-23	uutta	uusi	ADJ	_	Case=Par|Degree=Pos|Number=Sing	15	conj	_	_
-24	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	_
-25	se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	23	nsubj:cop	_	SpaceAfter=No
-26	,	,	PUNCT	_	_	30	punct	_	_
-27	että	että	SCONJ	_	_	30	mark	_	_
-28	suuret	suuri	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	amod	_	_
-29	kustantamot	kustantamo	NOUN	_	Case=Nom|Number=Plur	30	nsubj	_	_
-30	julkaisivat	julkaista	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	ccomp	_	_
-31	ateistista	ateistinen	ADJ	_	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	32	amod	_	_
-32	materiaalia	materiaali	NOUN	_	Case=Par|Number=Sing	30	obj	_	_
-33	tunnetuilta	tunnettu	ADJ	_	Case=Abl|Degree=Pos|Number=Plur	34	amod	_	_
-34	henkilöiltä	henkilö	NOUN	_	Case=Abl|Number=Plur	30	obl	_	SpaceAfter=No
-35	,	,	PUNCT	_	_	39	punct	_	_
-36	ja	ja	CCONJ	_	_	39	cc	_	_
-37	näitä	tämä	PRON	_	Case=Par|Number=Plur|PronType=Dem	38	det	_	_
-38	teoksia	teos	NOUN	_	Case=Par|Number=Plur	39	obj	_	_
-39	lukivat	lukea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	30	conj	_	_
-40	miljoonat	miljoona	NUM	_	Case=Nom|Number=Plur|NumType=Card	41	nummod	_	_
-41	ihmiset	ihminen	NOUN	_	Case=Nom|Number=Plur	39	nsubj	_	_
-42	ja	ja	CCONJ	_	_	44	cc	_	_
-43	ne	se	PRON	_	Case=Nom|Number=Plur|PronType=Dem	44	nsubj	_	_
-44	päätyivät	päätyä	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	conj	_	_
-45	myös	myös	ADV	_	_	48	advmod	_	_
-46	Best	Best	X	_	Foreign=Yes	48	compound:nn	_	_
-47	seller	seller	X	_	Foreign=Yes	46	flat:foreign	_	_
-48	-listoille	lista	NOUN	_	Case=All|Number=Plur	44	obl	_	SpaceAfter=No
-49	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
-
-# </p>
-# <p>
-# newdoc
-# newpar
-# sent_id = web13.23
-# text = Bright-liike Bright (
-1	Bright-liike	Bright#liike	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-2	Bright	Bright	PROPN	_	Case=Nom|Number=Sing	1	appos	_	_
-3	(	(	PUNCT	_	_	1	punct	_	SpacesAfter=\n
-
-# </p>
-# <p>
-# newdoc
-# newpar
-# sent_id = web13.24
-# text = Lähteet
-1	Lähteet	lähde	NOUN	_	Case=Nom|Number=Plur	0	root	_	SpacesAfter=\n
-
-# </p>
-# <p>
-# newdoc
-# newpar
-# sent_id = web13.25
-# document truncated
-# text = Kirjallisuutta
-1	Kirjallisuutta	kirjallisuus	NOUN	_	Case=Par|Derivation=Llinen,Vs|Number=Sing	0	root	_	SpacesAfter=\n
-
-# </p>
-# </doc>
 # <doc id="3-2165644" length="1k-10k" crawl_date="2014-07-30" url="http://www.meidanperhe.fi/keskustelu/945175/ketju/_mika_olisi_mahdollisimman_pieni_helppohoitoinen_j/sivu/3" langdiff="0.26">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web14
 # sent_id = web14.1
 # text = Tuttavallani on tuollainen, enkä ole koskaan kuullut sen haukkuvan, luonnemääritelmäkin sanoo, että rotu ei ole haukkuherkkä.
 1	Tuttavallani	tuttava	NOUN	_	Case=Ade|Number=Sing|Number[psor]=Sing|Person[psor]=1	0	root	_	_
@@ -23699,10 +22840,6 @@
 10	jättää	jättää	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.5
 # text = [quote author="Vierailija" time="05.05.2008 klo 18:29"]
 1	[	[	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -23721,11 +22858,6 @@
 14	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 15	]	]	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.6
 # text = Mutta kyllä koiraa valitessa pitää miettiä eri ominaisuuksia ja sitä, mikä koira perheelle käy.
 1	Mutta	mutta	CCONJ	_	_	6	cc	_	_
@@ -23797,10 +22929,6 @@
 8	haluatte	haluta	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.10
 # text = Mutta siis meidän terrieri kyllä räksyttää ja kaikki ovesta tulijat haukkuu hyviksi ;)
 1	Mutta	mutta	CCONJ	_	_	6	cc	_	_
@@ -23817,10 +22945,6 @@
 12	hyviksi	hyvä	ADJ	_	Case=Tra|Degree=Pos|Number=Plur	11	obl	_	_
 13	;)	;)	SYM	_	_	6	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.11
 # text = [quote author="Vierailija" time="05.05.2008 klo 18:53"]
 1	[	[	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -23839,11 +22963,6 @@
 14	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 15	]	]	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.12
 # text = Se oli todella rauhallinen ja lapsiystävällinen.
 1	Se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj:cop	_	_
@@ -23888,18 +23007,10 @@
 17	päivässä	päivä	NOUN	_	Case=Ine|Number=Sing	16	nmod	_	SpaceAfter=No
 18	!	!	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.15
 # text = ap
 1	ap	ap	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web14.16
 # text = [quote author="Vierailija" time="05.05.2008 klo 20:56"]
 1	[	[	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -23918,15 +23029,8 @@
 14	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 15	]	]	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="3-456564" length="1k-10k" crawl_date="2015-05-15" url="http://sinkkisanko.blogspot.fi/2010/05/inspiraatio.html" langdiff="0.19">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web15
 # sent_id = web15.1
 # text = keskiviikko 19. toukokuuta 2010
 1	keskiviikko	keski#viikko	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -23934,18 +23038,10 @@
 3	toukokuuta	toukokuu	NOUN	_	Case=Par|Number=Sing	1	flat	_	_
 4	2010	2010	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web15.2
 # text = Inspiraatio
 1	Inspiraatio	inspiraatio	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web15.3
 # text = Lähes päivittäin soitamme lapsen kanssa yhdessä kaikkea sellaista, josta hän pitää.
 1	Lähes	lähes	ADV	_	_	2	advmod	_	_
@@ -24003,10 +23099,6 @@
 6	musiikilleni	musiikki	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web15.8
 # text = Tänään sain oman hetken ja soitin sieluni kyllyydestä pitkästä aikaa ihan yksin.
 1	Tänään	tänään	ADV	_	_	2	advmod	_	_
@@ -24115,10 +23207,6 @@
 12	ilmoille	ilma	NOUN	_	Case=All|Number=Plur	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web15.15
 # text = Olen iloinnut siitä, että jalkani on jo selvästi paremmassa kunnossa.
 1	Olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -24193,11 +23281,6 @@
 3	keittiöön	keittiö	NOUN	_	Case=Ill|Number=Sing	1	obl	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web15.20
 # text = Kuulostaa ihanalta, soittamista yhdessä lapsen kanssa.
 1	Kuulostaa	kuulostaa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -24276,10 +23359,6 @@
 13	äänellä	ääni	NOUN	_	Case=Ade|Number=Sing	5	conj	_	_
 14	:)	:)	SYM	_	_	4	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web15.25
 # document truncated
 # text = Mikä ihana lahja lapselle, kun saa musikaalisuuden ja saa jakaa sen rakkaimman ihmisen kanssa.
@@ -24300,15 +23379,8 @@
 15	kanssa	kanssa	ADP	_	AdpType=Post	14	case	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="4-1761427" length="1k-10k" crawl_date="2014-07-22" url="http://valtioneuvosto.fi/ajankohtaista/tiedotteet/tiedote/fi.jsp?oid=308963" langdiff="0.31">
-# <duplicate_text>
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web16
 # sent_id = web16.1
 # text = Kelan nykyisin harkinnanvaraisena korvaama kuntoutuspsykoterapia muuttuu lakisääteiseksi.
 1	Kelan	Kela	PROPN	_	Case=Gen|Number=Sing	4	nsubj	_	_
@@ -24344,10 +23416,6 @@
 4	muutoksenhakuoikeus	muutos#haku#oikeus	NOUN	_	Case=Nom|Derivation=Vs|Number=Sing	3	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web16.4
 # text = Korvaaminen edellyttää kolmen kuukauden pituista asianmukaista hoitosuhdetta sekä psykiatrian erikoislääkärin arviota hakijan diagnoosista ja kuntoutustarpeesta.
 1	Korvaaminen	korvaaminen	NOUN	_	Case=Nom|Derivation=Minen|Number=Sing	2	nsubj	_	_
@@ -24367,10 +23435,6 @@
 15	kuntoutustarpeesta	kuntoutus#tarve	NOUN	_	Case=Ela|Number=Sing	13	conj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web16.5
 # text = Kuntoutuspsykoterapiaa korvataan yhdellä päätöksellä enintään 80 kertaa vuodessa ja kolmessa vuodessa yhteensä enintään 200 kertaa.
 1	Kuntoutuspsykoterapiaa	kuntoutus#psykoterapia	NOUN	_	Case=Par|Number=Sing	2	obj	_	_
@@ -24390,11 +23454,6 @@
 15	kertaa	kerta	NOUN	_	Case=Par|Number=Sing	7	conj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web16.6
 # text = Diagnosoidut mielenterveyden häiriöt ja niistä aiheutuvat sairauspäivärahakaudet ja työkyvyttömyyseläkkeet ovat lisääntyneet Suomessa parin viime vuosikymmenen aikana.
 1	Diagnosoidut	diagnosoida	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
@@ -24447,11 +23506,6 @@
 11	kuntoutujaa	kuntoutuja	NOUN	_	Case=Par|Derivation=Ja|Number=Sing	6	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web16.9
 # text = Hallitus esitti lain vahvistamista tänään torstaina 14. lokakuuta, ja tasavallan presidentin on tarkoitus vahvistaa se perjantaina.
 1	Hallitus	hallitus	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -24483,15 +23537,8 @@
 6	2011	2011	NUM	_	NumType=Card	4	flat	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="8-169773" length="1k-10k" crawl_date="2016-05-10" url="http://resiiniraapaleet.blogspot.fi/2015/06/kirjeita-osa-1.html" langdiff="0.40">
-# <duplicate_text>
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web17
 # sent_id = web17.1
 # text = Nukketapahtumia, kuvauksia, tarinoita, turinoita, pölinää ja kaikkea maasta taivaaseen, kunhan aiheena on ylläpitäjien nukkekatras jollain tavalla.
 1	Nukketapahtumia	nukke#tapahtuma	NOUN	_	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
@@ -24532,19 +23579,10 @@
 11	varautukaa	varautua	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
 12	kaikkeen	kaikki	PRON	_	Case=Ill|Number=Sing|PronType=Ind	11	obl	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web17.3
 # text = Sivut
 1	Sivut	sivu	NOUN	_	Case=Nom|Number=Plur	0	root	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web17.4
 # text = perjantai 26. kesäkuuta 2015
 1	perjantai	perjantai	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -24552,10 +23590,6 @@
 3	kesäkuuta	kesäkuu	NOUN	_	Case=Par|Number=Sing	1	flat	_	_
 4	2015	2015	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web17.5
 # text = Kirjeitä, osa 1
 1	Kirjeitä	kirje	NOUN	_	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
@@ -24563,10 +23597,6 @@
 3	osa	osa	NOUN	_	Case=Nom|Number=Sing	1	parataxis	_	_
 4	1	1	NUM	_	NumType=Card	3	nummod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.6
 # text = Heipähei!
 1	Heipähei	heipähei	INTJ	_	_	0	root	_	SpaceAfter=No
@@ -24640,10 +23670,6 @@
 20	tarinaa	tarina	NOUN	_	Case=Par|Number=Sing	8	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.12
 # text = MUTTA hei, nauttikaa ihmeessä! :3
 1	MUTTA	mutta	CCONJ	_	_	4	cc	_	_
@@ -24654,10 +23680,6 @@
 6	!	!	PUNCT	_	_	4	punct	_	_
 7	:3	:3	SYM	_	_	4	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.13
 # text = Oli kaunis kesäiltapäivä, kun erään kentauriperheen talon pöydälle oli ilmestynyt kauniisti sidottu kirje.
 1	Oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -24676,10 +23698,6 @@
 14	kirje	kirje	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.14
 # text = Ei aikaakaan kun huoneen lattiaa vasten kopisivat keveät askeleet, kun Yulia saapui paikalle tarkistamaan teensä hautumisen.
 1	Ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -24715,10 +23733,6 @@
 10	ilme	ilme	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.16
 # text = Tyttö luki kirjee tekstiä, kurtistellen hieman kulmiaan.
 1	Tyttö	tyttö	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -24748,10 +23762,6 @@
 13	kuullutkaan	kuulla	VERB	_	Case=Nom|Clitic=Kaan|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	6	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.18
 # text = "Kuka on Yukiiiva?"
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -24785,10 +23795,6 @@
 8	vielä	vielä	ADV	_	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web17.21
 # text = "En tiedä.
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -24825,8 +23831,8 @@
 5	..	..	PUNCT	_	_	4	punct	_	_
 
 # sent_id = web17.25
-# text = Pitäisikö minun vastata Neiti Yukiialle", Yulia vilkaisi kohti Gretaa joka oli hypännyt kauemmas .
 # document truncated
+# text = Pitäisikö minun vastata Neiti Yukiialle", Yulia vilkaisi kohti Gretaa joka oli hypännyt kauemmas .
 1	Pitäisikö	pitää	AUX	_	Clitic=Ko|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	aux	_	_
 2	minun	minä	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	vastata	vastata	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
@@ -24844,23 +23850,12 @@
 15	kauemmas	kauemmas	ADV	_	_	14	advmod	_	_
 16	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="6-211052" length="1k-10k" crawl_date="2015-02-25" url="http://corellia.fi/javascript-vuoden-2014-ohjelmointikieli/" langdiff="0.27">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web18
 # sent_id = web18.1
 # text = Blog
 1	Blog	Blog	X	_	Foreign=Yes	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web18.2
 # text = JavaScript – Vuoden 2014 ohjelmointikieli
 1	JavaScript	JavaScript	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -24869,10 +23864,6 @@
 4	2014	2014	NUM	_	NumType=Card	3	nummod	_	_
 5	ohjelmointikieli	ohjelmointi#kieli	NOUN	_	Case=Nom|Number=Sing	1	appos	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web18.3
 # text = JavaScript on valittu vuoden 2014 ohjelmointikieleksi ( TIOBE ).
 1	JavaScript	JavaScript	PROPN	_	Case=Nom|Number=Sing	3	obj	_	_
@@ -24917,11 +23908,6 @@
 10	markkinoilla	markkina	NOUN	_	Case=Ade|Number=Plur	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web18.6
 # text = Suosituin, eniten käytetty vai paras ohjelmointikieli
 1	Suosituin	suosittu	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	7	amod	_	SpaceAfter=No
@@ -24932,10 +23918,6 @@
 6	paras	hyvä	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	1	conj	_	_
 7	ohjelmointikieli	ohjelmointi#kieli	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web18.7
 # text = Mikä sitten on suosituin, eniten käytetty tai parhain ohjelmointikieli?
 1	Mikä	mikä	PRON	_	Case=Nom|Number=Sing|PronType=Int	10	nsubj:cop	_	_
@@ -25059,10 +24041,6 @@
 11	tarkoitukseen	tarkoitus	NOUN	_	Case=Ill|Number=Sing	8	obl	_	SpaceAfter=No
 12	!	!	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web18.17
 # text = JavaScript on muuttunut viime vuosina yhä merkittävämmäksi ohjelmointikieleksi.
 1	JavaScript	JavaScript	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -25117,10 +24095,6 @@
 6	syystäkin	syy	NOUN	_	Case=Ela|Clitic=Kin|Number=Sing	2	conj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web18.21
 # text = Mitä TIOBE tilastoista voi päätellä?
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	5	obj	_	_
@@ -25130,10 +24104,6 @@
 5	päätellä	päätellä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web18.22
 # text = TIOBE tilasto kertoo lähinnä kielen merkityksestä markkinoilla.
 1	TIOBE	TIOBE	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
@@ -25175,8 +24145,8 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = web18.25
-# text = Käyttäisinkin tällaisia tilastoja lähinnä muiden lähteiden tukena.
 # document truncated
+# text = Käyttäisinkin tällaisia tilastoja lähinnä muiden lähteiden tukena.
 1	Käyttäisinkin	käyttää	VERB	_	Clitic=Kin|Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
 2	tällaisia	tällainen	ADJ	_	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	3	amod	_	_
 3	tilastoja	tilasto	NOUN	_	Case=Par|Number=Plur	1	obj	_	_
@@ -25186,14 +24156,8 @@
 7	tukena	tuki	NOUN	_	Case=Ess|Number=Sing	1	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="4-1358719" length="1k-10k" crawl_date="2014-07-14" url="http://www.smackthejack.net/onnigideon/1468" langdiff="0.44">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web19
 # sent_id = web19.1
 # text = Nicholas Sparksin samannimiseen romaaniin perustuva The Notebook – rakkauden sivut kertoo romanttisen tarinansa kahdella eri aikatasolla.
 1	Nicholas	Nicholas	PROPN	_	Case=Nom|Number=Sing	4	nmod:poss	_	_
@@ -25243,10 +24207,6 @@
 25	muistamaan	muistaa	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	23	xcomp:ds	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web19.3
 # text = Suurimmaksi osaksi elokuva kuitenkin sijoittuu 1940-luvulle, jolloin Noah (Ryan Gosling) ja Allie (Rachel McAdams) tutustuivat ja rakastuivat.
 1	Suurimmaksi	suuri	ADJ	_	Case=Tra|Degree=Sup|Number=Sing	2	amod	_	_
@@ -25349,10 +24309,6 @@
 8	valitsisi	valita	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web19.8
 # text = Vaikka The Notebookin tarina on filmattu varmaan satoja kertoja, ei se siitä huonone.
 1	Vaikka	vaikka	SCONJ	_	_	6	mark	_	_
@@ -25496,10 +24452,6 @@
 22	tästäkin	tämä	PRON	_	Case=Ela|Clitic=Kin|Number=Sing|PronType=Dem	21	obl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web19.16
 # text = Veteraaninäyttelijät, Rowlands ja Garner sen sijaan hoitavat homman kotiin silkalla karismallaan.
 1	Veteraaninäyttelijät	veteraani#näyttelijä	NOUN	_	Case=Nom|Derivation=Ja|Number=Plur	8	nsubj	_	SpaceAfter=No
@@ -25541,22 +24493,13 @@
 10	tuokioita	tuokio	NOUN	_	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="0-790442" length="1k-10k" crawl_date="2014-12-22" url="http://keskustelu.suomi24.fi/node/12689519" langdiff="0.23">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web20
 # sent_id = web20.1
 # text = Rikottu identiteetti
 1	Rikottu	rikkoa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
 2	identiteetti	identiteetti	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.2
 # text = Avoin kirje elämästäni herättääkseeni ajatuksia naisissa ja miehissä, tuomitsematta ketään sukupuolen perusteella.
 1	Avoin	avoin	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -25585,10 +24528,6 @@
 7	sukupuolesta	suku#puoli	NOUN	_	Case=Ela|Number=Sing	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.4
 # text = Annoin parhaimman ajan elämästäni miehelle, joka tuhosi identiteettini kokonaisvaltaisesti naisena.
 1	Annoin	antaa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -25640,10 +24579,6 @@
 5	äitihahmo	äiti#hahmo	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.7
 # text = Mikä tekee ihmisestä niin itseensä täynnä olevan, mutta kuitenkin täysin "pihalla" olevan narsistin?
 1	Mikä	mikä	PRON	_	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	_
@@ -25711,10 +24646,6 @@
 26	huumassa	huuma	NOUN	_	Case=Ine|Number=Sing	21	obl	_	SpaceAfter=No
 27	....	....	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.10
 # text = Nyt on kulunut kohta vuosi erosta, mies menee ja porskuttaa ja itse yritän kerätä elämäni sirpaleita.
 1	Nyt	nyt	ADV	_	_	3	advmod	_	_
@@ -25773,10 +24704,6 @@
 19	hetkistä	hetki	NOUN	_	Case=Ela|Number=Plur	14	obl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.13
 # text = Sinua joka ehkä elät samantapaisessa tilanteessa kuin kertomani, haastan miettimään onko elämäsi ja päätöksesi omia vai täytätkö jonkun muun tarpeita?
 1	Sinua	sinä	PRON	_	Case=Par|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
@@ -25821,10 +24748,6 @@
 15	takia	takia	ADP	_	AdpType=Post	14	case	_	SpaceAfter=No
 16	!	!	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.15
 # text = Rakkaus tekee sinisilmäiseksi, toki se myös.
 1	Rakkaus	rakkaus	NOUN	_	Case=Nom|Derivation=Vs|Number=Sing	2	nsubj	_	_
@@ -25907,10 +24830,6 @@
 5	kantensa	kansi	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web20.20
 # text = Normaalisti ihmisen pitäisi kyseenalaistaa ja epäillä.
 1	Normaalisti	normaalisti	ADV	_	Derivation=Sti	4	advmod	_	_
@@ -25963,8 +24882,8 @@
 8	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = web20.25
-# text = Miksi en/miksi joo?
 # document truncated
+# text = Miksi en/miksi joo?
 1	Miksi	miksi	ADV	_	_	2	advmod	_	_
 2	en	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	/	/	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -25972,14 +24891,8 @@
 5	joo	joo	ADV	_	_	4	orphan	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="2-1350450" length="1k-10k" crawl_date="2014-08-20" url="http://www.credita.fi/uutiset/lakiuutiset/2597200" langdiff="0.33">
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web21
 # sent_id = web21.1
 # text = Vihreä eduskuntaryhmä esittää väkevien alkoholijuomien veron kiristämistä
 1	Vihreä	vihreä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -26065,11 +24978,6 @@
 19	kulutus	kulutus	NOUN	_	Case=Nom|Number=Sing	16	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web21.6
 # text = Välittömästi alkoholiveron alennuksen jälkeen viinojen myynti nousi 20 prosenttia.
 1	Välittömästi	välittömästi	ADV	_	Derivation=Sti	7	advmod	_	_
@@ -26126,10 +25034,6 @@
 17	juomiin	juoma	NOUN	_	Case=Ill|Number=Plur	15	obl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web21.9
 # text = Suomi juo itsenä hengiltä?
 1	Suomi	Suomi	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -26138,10 +25042,6 @@
 4	hengiltä	henki	NOUN	_	Case=Abl|Number=Sing	2	obl	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web21.10
 # text = Myös sosiaali- ja terveysalan järjestöt ovat ilmoittaneet, että Suomessa on saavutettu sellainen alkoholihaittojen taso, jota ei voida enää ylittää.
 1	Myös	myös	ADV	_	_	5	advmod	_	_
@@ -26186,10 +25086,6 @@
 15	käyttöön	käyttö	NOUN	_	Case=Ill|Number=Sing	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web21.12
 # text = Järjestöjen mukaan uhkakuvat ovat toteutuneet ja alkoholin veroalen jälkeiset akuutit alkoholihaitat ovat nyt nähtävissä.
 1	Järjestöjen	järjestö	NOUN	_	Case=Gen|Number=Plur	5	obl	_	_
@@ -26208,10 +25104,6 @@
 14	nähtävissä	nähdä	VERB	_	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	5	conj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web21.13
 # text = Alkoholiveron alennuksen vaikutukset ovat olleet varsin tuhoisia päihdeongelmaisille.
 1	Alkoholiveron	alkoholi#vero	NOUN	_	Case=Gen|Number=Sing	2	nmod:gobj	_	_
@@ -26236,10 +25128,6 @@
 8	vaikeampaa	vaikea	ADJ	_	Case=Par|Degree=Cmp|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web21.15
 # text = Stakesin tutkimuksen mukaan vuonna 2004 väkevien alkoholijuomien vähittäismyynti lisääntyi noin 17 prosenttia, väkevien viinien noin 15 prosenttia ja oluen noin kahdeksan prosenttia.
 1	Stakesin	Stakes	PROPN	_	Case=Gen|Number=Sing	2	nmod:gsubj	_	_
@@ -26295,15 +25183,8 @@
 15	prosenttia	prosentti	NOUN	_	Case=Par|Number=Sing	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="4-940400" length="1k-10k" crawl_date="2015-08-30" url="http://librarian-or-cybrarian.blogspot.fi/2014/04/oikkonen-nymfit-2013.html" langdiff="0.27">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web22
 # sent_id = web22.1
 # text = tiistai 1. huhtikuuta 2014
 1	tiistai	tiistai	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -26311,10 +25192,6 @@
 3	huhtikuuta	huhtikuu	NOUN	_	Case=Par|Number=Sing	1	flat	_	_
 4	2014	2014	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web22.2
 # text = Oikkonen: "Nymfit" (2013)
 1	Oikkonen	Oikkonen	PROPN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -26326,10 +25203,6 @@
 7	2013	2013	NUM	_	NumType=Card	4	nmod	_	SpaceAfter=No
 8	)	)	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.3
 # text = " Nymfit " (2013) on suomalainen Fisher King -tuotantoyhtiön tuottama fantasia-draamasarja, jonka esittäminen alkoi MTV3-kanavalla 24. maaliskuuta 2014.
 1	"	"	PUNCT	_	_	2	punct	_	_
@@ -26483,21 +25356,12 @@
 2	Wikipedia	Wikipedia	PROPN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.11
 # text = * * *
 1	*	*	PUNCT	_	_	0	root	_	SpacesAfter=\s\s\s
 2	*	*	PUNCT	_	_	1	punct	_	SpacesAfter=\s\s\s
 3	*	*	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.12
 # text = Viikko sitten alkoi MTV-kanavalta uusi kotimainen 12-osainen sarja " Nymfit " (2013), jota jo etukäteen povattiin uudeksi menestyssarjaksi.
 1	Viikko	viikko	NOUN	_	Case=Nom|Number=Sing	3	obl	_	_
@@ -26571,10 +25435,6 @@
 12	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.15
 # text = Aloin eilen katsoa uteliaisuuttani sarjan 2. osaa, mutta nopeasti huomasin, ettei sarjaan pääse sisään enää tässä vaiheessa.
 1	Aloin	alkaa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -26631,22 +25491,12 @@
 12	kotisivuihin	koti#sivu	NOUN	_	Case=Ill|Number=Plur	7	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.18
 # text = * * *
 1	*	*	PUNCT	_	_	0	root	_	SpacesAfter=\s\s\s
 2	*	*	PUNCT	_	_	1	punct	_	SpacesAfter=\s\s\s
 3	*	*	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.19
 # text = Niin hyvältä kuin sarja vaikuttikin, herätti se myös kriittisiä kysymyksiä.
 1	Niin	niin	ADV	_	_	2	advmod	_	_
@@ -26692,10 +25542,6 @@
 7	haetuilta	hakea	VERB	_	Case=Abl|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web22.22
 # text = Toinen kysymys oli edellistä kriittisempi: on häiritsevää, miten tällä hetkellä tuntuu olevan muotia naisten passiivinen väkivalta miehiä kohtaan.
 1	Toinen	toinen	ADJ	_	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	2	amod	_	_
@@ -26754,8 +25600,8 @@
 10	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = web22.25
-# text = - Toisaalta, jotta asetelma ei olisi liian yksinkertainen, (miespuoliset) satyyrit sarjassa jahtaavat (naispuolisia) nymfejä.
 # document truncated
+# text = - Toisaalta, jotta asetelma ei olisi liian yksinkertainen, (miespuoliset) satyyrit sarjassa jahtaavat (naispuolisia) nymfejä.
 1	-	-	PUNCT	_	_	16	punct	_	_
 2	Toisaalta	toisaalta	ADV	_	_	16	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	_
@@ -26778,13 +25624,8 @@
 20	nymfejä	nymfi	NOUN	_	Case=Par|Number=Plur	16	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="3-1287268" length="1k-10k" crawl_date="2014-07-13" url="http://www.finnmatkat.fi/lomakohde/kreikka/kos/kardamena/akti-palace-hotel/?season=kesa-2014" langdiff="0.46">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web23
 # sent_id = web23.1
 # text = Akti Palace Hotel FFFFF
 1	Akti	Akti	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -26792,10 +25633,6 @@
 3	Hotel	Hotel	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	_
 4	FFFFF	FFFFF	NOUN	_	Case=Nom|Number=Sing	1	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web23.2
 # text = Moderni All Inclusive -hotelli rannalla
 1	Moderni	moderni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
@@ -26804,10 +25641,6 @@
 4	-hotelli	hotelli	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	rannalla	ranta	NOUN	_	Case=Ade|Number=Sing	4	orphan	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.3
 # text = Hinta alk. 900 e 970 e 05.09.2014 Lähtöpaikka Helsinki 8 päivää
 1	Hinta	hinta	NOUN	_	Case=Nom|Number=Sing	4	nsubj:cop	_	_
@@ -26822,10 +25655,6 @@
 10	8	8	NUM	_	NumType=Card	11	nummod	_	_
 11	päivää	päivä	NOUN	_	Case=Par|Number=Sing	4	obl	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.4
 # text = Moderni Akti Palace Hotel Kardamenassa sijaitsee aivan rannalla ja täällä voit uida niin meressä kuin altaassa.
 1	Moderni	moderni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -26865,11 +25694,6 @@
 1	Lue	lukea	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 2	lisää	lisää	ADV	_	_	1	advmod	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.7
 # text = Hotellialue koostuu useista kerrosrakennuksista.
 1	Hotellialue	hotelli#alue	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -26912,10 +25736,6 @@
 3	päiväsi	päivä	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	obj	_	_
 4	aktiviteeteilla	aktiviteetti	NOUN	_	Case=Ade|Number=Plur	2	obl	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.11
 # text = Akti Palace Hotellissa on mm:
 1	Akti	Akti	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -26925,39 +25745,23 @@
 5	mm	mm.	ADV	_	Abbr=Yes	1	advmod	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.12
 # text = Valaistu tenniskenttä
 1	Valaistu	valaista	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
 2	tenniskenttä	tennis#kenttä	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.13
 # text = Pöytätennis ja pöytäjalkapallo
 1	Pöytätennis	pöytä#tennis	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	ja	ja	CCONJ	_	_	3	cc	_	_
 3	pöytäjalkapallo	pöytä#jalka#pallo	NOUN	_	Case=Nom|Number=Sing	1	conj	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.14
 # text = Kanootteja ja polkuveneitä
 1	Kanootteja	kanootti	NOUN	_	Case=Par|Number=Plur	0	root	_	_
 2	ja	ja	CCONJ	_	_	3	cc	_	_
 3	polkuveneitä	polku#vene	NOUN	_	Case=Par|Number=Plur	1	conj	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web23.15
 # text = All Inclusive sisältyy hintaan!
 1	All	All	X	_	Foreign=Yes	3	nsubj	_	_
@@ -27014,13 +25818,8 @@
 16	päällä	päällä	ADP	_	AdpType=Post	15	case	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="1-421851" length="1k-10k" crawl_date="2015-05-14" url="http://ladyblackdog.blogspot.fi/2015/04/mullanvaihdosta-iloa.html" langdiff="0.45">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web24
 # sent_id = web24.1
 # text = tiistai 14. huhtikuuta 2015
 1	tiistai	tiistai	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -27028,19 +25827,11 @@
 3	huhtikuuta	huhtikuu	NOUN	_	Case=Par|Number=Sing	1	flat	_	_
 4	2015	2015	NUM	_	NumType=Card	1	flat	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web24.2
 # text = Mullanvaihdosta iloa
 1	Mullanvaihdosta	mullan#vaihto	NOUN	_	Case=Ela|Number=Sing	2	orphan	_	_
 2	iloa	ilo	NOUN	_	Case=Par|Number=Sing	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web24.3
 # text = Mullanvaihto on aika työlästä ja sotkuista puuhaa, mutta onneksi siitä on myös hyötyä!
 1	Mullanvaihto	mullan#vaihto	NOUN	_	Case=Nom|Number=Sing	7	nsubj:cop	_	_
@@ -27106,10 +25897,6 @@
 5	vuosi	vuosi	NOUN	_	Case=Nom|Number=Sing	2	obl	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web24.7
 # text = Nopeasti uudet lehdet ovat myös kasvaneet; venähtävät pituutta aivan hetkessä.
 1	Nopeasti	nopeasti	ADV	_	Derivation=Sti	6	advmod	_	_
@@ -27202,30 +25989,17 @@
 7	kukkiakin	kukka	NOUN	_	Case=Par|Clitic=Kin|Number=Sing	4	obj	_	SpaceAfter=No
 8	!	!	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web24.12
 # text = Ei kommentteja:
 1	Ei	ei	VERB	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	_
 2	kommentteja	kommentti	NOUN	_	Case=Par|Number=Plur	1	nsubj	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web24.13
 # text = Lähetä kommentti
 1	Lähetä	lähettää	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 2	kommentti	kommentti	NOUN	_	Case=Nom|Number=Sing	1	obj	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web24.14
 # text = - Lady Blackdog -
 1	-	-	PUNCT	_	_	2	punct	_	_
@@ -27233,10 +26007,6 @@
 3	Blackdog	Blackdog	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	_
 4	-	-	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web24.15
 # text = Lady Blackdog kirjoittaa kaikesta siitä mikä inspiroi ja on lähellä ladyn sydäntä mm. kodista ja sen laittamisesta, rockista, makeista herkuista, elokuvista, tv-ohjelmista, lehdistä, neulomisesta, kukista ja tietysti kaikesta kotoilusta.
 1	Lady	Lady	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -27277,15 +26047,8 @@
 36	kotoilusta	kotoilu	NOUN	_	Case=Ela|Derivation=U|Number=Sing	14	conj	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="2-598329" length="1k-10k" crawl_date="2014-11-15" url="http://viidesrooli.wordpress.com/category/kirjallisuus/page/10/" langdiff="0.15">
-# <duplicate_text>
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web25
 # sent_id = web25.1
 # text = Arkisto kategorialle ‘Kirjallisuus’
 1	Arkisto	arkisto	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -27294,10 +26057,6 @@
 4	Kirjallisuus	kirjallisuus	NOUN	_	Case=Nom|Derivation=Llinen,Vs|Number=Sing	2	appos	_	SpaceAfter=No
 5	’	’	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.2
 # text = Uuden Suomen bloggaajiin lukeutuva —&gt; Jukka Relander pui analyyttisesti suurkustantamojen tilaa ja WSOY:n kärkikirjailijoiden siirtymistä Siltalan veljesten tulevaan kustantamoon.
 1	Uuden	uusi	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	2	amod	_	_
@@ -27382,10 +26141,6 @@
 13	tärkeämpiä	tärkeä	ADJ	_	Case=Par|Degree=Cmp|Number=Plur	2	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.6
 # text = Eilen kirjoitettuun merkintään saatiin tänään uutta tietoa: Jari Tervo pysyy WSOY:llä.
 1	Eilen	eilen	ADV	_	_	2	advmod	_	_
@@ -27419,10 +26174,6 @@
 13	WSOY	WSOY	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.8
 # text = Tervo on antanut tilanteen johdosta julkisen kommentin: ” Käsikirjoitusteni ensilukijana kustantamossa on toiminut jo kohta kahdenkymmenen vuoden ajan Harri Haanpää.
 1	Tervo	Tervo	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -27479,10 +26230,6 @@
 13	.	.	PUNCT	_	_	1	punct	_	_
 14	”	”	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.11
 # text = Ritarit ovat asettautumassa riveihin.
 1	Ritarit	ritari	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
@@ -27509,20 +26256,12 @@
 14	kenetkin	kene	NOUN	_	Case=Gen|Clitic=Kin|Number=Sing	9	obj	_	SpaceAfter=No
 15	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.13
 # text = Lisäys klo 17.50
 1	Lisäys	lisäys	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	1	nmod	_	_
 3	17.50	17.50	NUM	_	NumType=Card	2	nummod	_	_
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.14
 # text = Juha Itkonen oikaisee tänään Relanderin blogin kommenttilootassa itseään koskevat väitteet:
 1	Juha	Juha	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -27537,10 +26276,6 @@
 10	väitteet	väite	NOUN	_	Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No
 11	:	:	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.15
 # text = ” Korjaan lyhyesti perättömän väitteen: siirtymiseeni Otavalle ei liittynyt minkäänlaista setelitukkoa, ei paksua eikä ohutta.
 1	”	”	PUNCT	_	_	2	punct	_	_
@@ -27616,11 +26351,6 @@
 13	.	.	PUNCT	_	_	5	punct	_	_
 14	”	”	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.20
 # text = Tällä viikolla vietetään Pohjoismaista kirjastoviikkoa , mikä näkyi myös omassa lähikirjastossani pyrähtäessäni siellä jälleen eilen.
 1	Tällä	tämä	PRON	_	Case=Ade|Number=Sing|PronType=Dem	2	det	_	_
@@ -27692,10 +26422,6 @@
 10	tietokirja	tieto#kirja	NOUN	_	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web25.24
 # text = Itse lankesin toiseen houkutukseen eli ruskeaan voimapaperiin paketoituun yllätykseen.
 1	Itse	itse	ADV	_	_	2	advmod	_	_
@@ -27710,8 +26436,8 @@
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = web25.25
-# text = Käytännössä lainasin sian säkissä, sillä näkyvissä oli vain lainauskoodi.
 # document truncated
+# text = Käytännössä lainasin sian säkissä, sillä näkyvissä oli vain lainauskoodi.
 1	Käytännössä	käytäntö	NOUN	_	Case=Ine|Number=Sing	2	obl	_	_
 2	lainasin	lainata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	sian	sika	NOUN	_	Case=Gen|Number=Sing	2	obj	_	_
@@ -27724,14 +26450,8 @@
 10	lainauskoodi	lainaus#koodi	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="3-68406" length="1k-10k" crawl_date="2014-09-18" url="http://www.seiska.fi/Kayttajien-sisaltoja/Kuuntelu-puhelu-Johanna-Tukiaisen-miesystavanarkastyi-Ma-jarjestan-sulle-kuset-housuihin-/1004780" langdiff="0.38">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web26
 # sent_id = web26.1
 # text = Mitä nyt teen?
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	3	obj	_	_
@@ -27821,11 +26541,6 @@
 4	:	:	PUNCT	_	_	5	punct	_	_
 5	http://www.youtube.com/watch?v=91KgK5I6ts0&feature=youtu.be	http://www.youtube.com/watch?v=91KgK5I6ts0&feature=youtu.be	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web26.8
 # text = Kyllä kiitos!
 1	Kyllä	kyllä	ADV	_	_	2	advmod	_	_
@@ -27880,18 +26595,10 @@
 17	tekstiviestitse	teksti#viestitse	ADV	_	_	2	advmod	_	_
 18	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web26.12
 # text = Kirjaudu
 1	Kirjaudu	kirjautua	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web26.13
 # text = Uusi kasvo?
 1	Uusi	uusi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
@@ -27905,10 +26612,6 @@
 3	käyttäjätili	käyttäjä#tili	NOUN	_	Case=Nom|Number=Sing	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web26.15
 # text = Voit kommentoida, peukuttaa ja jakaa sisältöjä.
 1	Voit	voida	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
@@ -27962,24 +26665,14 @@
 12	seuraajia	seuraaja	NOUN	_	Case=Par|Derivation=Ja|Number=Plur	8	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# </duplicate_text>
-# </doc>
 # <doc id="1-581930" length="0-1k" crawl_date="2014-11-15" url="http://valipala.blogspot.co.at/2011/05/salaattikastikenostalgiaa.html" langdiff="0.50">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web27
 # sent_id = web27.1
 # text = 5 kommenttia:
 1	5	5	NUM	_	NumType=Card	2	nummod	_	_
 2	kommenttia	kommentti	NOUN	_	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web27.2
 # text = Olin ihan totta puhuen anyway jo menossa huomenissa tomantti ostoksille (salaatti ja kurkku jo löytyy), mutta näillä näkymin mukaan saattaa tarttua jotain muutakin..
 1	Olin	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
@@ -28036,13 +26729,8 @@
 16	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
 17	)	)	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="2-543866" length="1k-10k" crawl_date="2014-07-04" url="http://www.sue.fi/livearviot/page/66/" langdiff="0.26">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web28
 # sent_id = web28.1
 # text = 21.11.2005 Tavastia, Helsinki
 1	21.11.2005	21.11.2005	NUM	_	_	2	nmod	_	_
@@ -28050,10 +26738,6 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	Helsinki	Helsinki	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web28.2
 # text = Oliko se 1996?
 1	Oliko	olla	AUX	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
@@ -28123,10 +26807,6 @@
 2	loppuun	loppu	NOUN	_	Case=Ill|Derivation=U|Number=Sing	1	obl	_	_
 3	→	→	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web28.8
 # text = 20.11.2005 Tavastia, Helsinki
 1	20.11.2005	20.11.2005	NUM	_	_	2	nmod	_	_
@@ -28134,10 +26814,6 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	Helsinki	Helsinki	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web28.9
 # text = HorrorPops oli houkutellut keikalleen paljon mielenkiintoista väkeä.
 1	HorrorPops	HorrorPops	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -28202,10 +26878,6 @@
 2	loppuun	loppu	NOUN	_	Case=Ill|Derivation=U|Number=Sing	1	obl	_	_
 3	→	→	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web28.14
 # text = 17.11.2005 Tavastia, Helsinki
 1	17.11.2005	17.11.2005	NUM	_	_	2	nmod	_	_
@@ -28213,10 +26885,6 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	Helsinki	Helsinki	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web28.15
 # text = Torstai-iltana Tavastialla pieni pala taivasta laskeutui maan päälle kalifornialaistuneen britin, Antony Hegartyn, ja yhtyeensä The Johnsonsin muodossa.
 1	Torstai-iltana	torstai#ilta	NOUN	_	Case=Ess|Number=Sing	6	obl	_	_
@@ -28276,10 +26944,6 @@
 2	loppuun	loppu	NOUN	_	Case=Ill|Derivation=U|Number=Sing	1	obl	_	_
 3	→	→	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web28.18
 # text = 04.11.2005 Kåren, Turku
 1	04.11.2005	04.11.2005	NUM	_	_	2	nmod	_	_
@@ -28287,10 +26951,6 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	Turku	Turku	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web28.19
 # text = Kodinkoneet eivät ole mitään verrattuna Kotiteollisuuteen, joten perjantai-iltana oli syytä jättää ylenmääräiset medialaitteet käynnistämättä ja suunnistaa sen sijaan Hämeenkadulle kohti Kårenia ja toista KT:n vuoden viimeisistä konserteista.
 1	Kodinkoneet	kodin#kone	NOUN	_	Case=Nom|Number=Plur	4	nsubj:cop	_	_
@@ -28347,10 +27007,6 @@
 2	loppuun	loppu	NOUN	_	Case=Ill|Derivation=U|Number=Sing	1	obl	_	_
 3	→	→	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
-# </p>
-# <p heading="1">
-# newdoc
-# newpar
 # sent_id = web28.22
 # text = 04.11.2005 Klubi, Turku
 1	04.11.2005	04.11.2005	NUM	_	_	2	nmod	_	_
@@ -28358,10 +27014,6 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	Turku	Turku	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web28.23
 # text = Absoluuttinen nollapiste kiertää maata uuden albuminsa tiimoilta.
 1	Absoluuttinen	absoluuttinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	2	amod	_	note=check
@@ -28393,8 +27045,8 @@
 16	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = web28.25
-# text = En oikein itsekään käsitä, miksi pidän Absoluuttisesta nollapisteestä.
 # document truncated
+# text = En oikein itsekään käsitä, miksi pidän Absoluuttisesta nollapisteestä.
 1	En	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
 2	oikein	oikein	ADV	_	_	4	advmod	_	_
 3	itsekään	itse	ADV	_	Clitic=Kaan	4	advmod	_	_
@@ -28406,13 +27058,8 @@
 9	nollapisteestä	nolla#piste	NOUN	_	Case=Ela|Number=Sing	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
-# </p>
-# </doc>
 # <doc id="1-125127" length="1k-10k" crawl_date="2014-11-05" url="http://www.ess.fi/urheilu/urheilu-uutiset/2014/02/03/suomi-ja-usa-arvottiin-samaan-lohkoon-mm-koripallossa" langdiff="0.24">
-# <p>
-# <p heading="1">
-# newdoc
-# newpar
+# newdoc id = web29
 # sent_id = web29.1
 # text = Suomi ja USA arvottiin samaan lohkoon MM-koripallossa
 1	Suomi	Suomi	PROPN	_	Case=Nom|Number=Sing	4	obj	_	_
@@ -28423,10 +27070,6 @@
 6	lohkoon	lohko	NOUN	_	Case=Ill|Number=Sing	4	obl	_	_
 7	MM-koripallossa	MM#kori#pallo	NOUN	_	Case=Ine|Number=Sing	4	obl	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.2
 # text = Urheilu-uutiset 3.2.2014, klo 21:13.
 1	Urheilu-uutiset	urheilu#uutinen	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
@@ -28436,10 +27079,6 @@
 5	21:13	21:13	NUM	_	NumType=Card	4	nummod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.3
 # text = Susijengi kohtaa Yhdysvallat alkulohkossa.
 1	Susijengi	Susijengi	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	note=check
@@ -28457,10 +27096,6 @@
 5	Heikki	Heikki	PROPN	_	Case=Nom|Number=Sing	3	conj	_	_
 6	Saukkomaa	Saukkomaa	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.5
 # text = Suomalaisille koripallofaneille tarjotaan syksyllä todellista herkkua, sillä Suomi on arvottu koripallon MM-kisoissa samaan lohkoon lajin mahtimaan Yhdysvaltojen kanssa.
 1	Suomalaisille	suomalainen	ADJ	_	Case=All|Degree=Pos|Derivation=Lainen|Number=Plur	2	amod	_	_
@@ -28492,10 +27127,6 @@
 4	Barcelonassa	Barcelona	PROPN	_	Case=Ine|Number=Sing	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.7
 # text = Suomen ja USA:n lisäksi C-lohkossa pelaavat Uusi-Seelanti (maailmanrankingin 19:s), Ukraina (45:s), Dominikaaninen tasavalta (26:s) ja Turkki (7:s).
 1	Suomen	Suomi	PROPN	_	Case=Gen|Number=Sing	6	obl	_	_
@@ -28537,10 +27168,6 @@
 6	neljännesvälieriin	neljännes#väli#erä	NOUN	_	Case=Ill|Number=Plur	5	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.9
 # text = NBA-pelaajien tähdittämä USA on lajin hallitseva maailmanmestari.
 1	NBA-pelaajien	NBA#pelaaja	NOUN	_	Case=Gen|Derivation=Ja|Number=Plur	2	nsubj	_	_
@@ -28573,10 +27200,6 @@
 17	maata	maa	NOUN	_	Case=Par|Number=Sing	11	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.11
 # text = MM-turnaus järjestetään Espanjassa.
 1	MM-turnaus	MM#turnaus	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
@@ -28605,10 +27228,6 @@
 5	Bilbaossa	Bilbao	PROPN	_	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web29.14
 # text = Suomi on mukana MM-lopputurnauksessa ensimmäistä kertaa.
 1	Suomi	Suomi	PROPN	_	Case=Nom|Number=Sing	4	nsubj:cop	_	_
@@ -28632,13 +27251,8 @@
 9	kortin	kortti	NOUN	_	Case=Gen|Number=Sing	2	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
-# </p>
-# </doc>
 # <doc id="0-81498" length="1k-10k" crawl_date="2016-04-02" url="http://www.ankkurilehti.fi/Uutiset/?news_id=6102&start=20" langdiff="0.38">
-# <p>
-# <p heading="0">
-# newdoc
-# newpar
+# newdoc id = web30
 # sent_id = web30.1
 # text = Kasvulle löytyy useampia syitä.
 1	Kasvulle	kasvu	NOUN	_	Case=All|Derivation=U|Number=Sing	2	obl	_	_
@@ -28718,10 +27332,6 @@
 11	sanoo	sanoa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web30.7
 # text = Ankkurin ja PK:n sivumäärä on selvässä kasvussa.
 1	Ankkurin	Ankkuri	PROPN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
@@ -28822,11 +27432,6 @@
 4	kappaletta	kappale	NOUN	_	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# </p>
-# <duplicate_text>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web30.15
 # text = Mediakorttiin on tiivistetty kaikki ilmoitusasiakkaan tarvitsema tieto seikkaperäisesti.
 1	Mediakorttiin	media#kortti	NOUN	_	Case=Ill|Number=Sing	3	obl	_	_
@@ -28862,10 +27467,6 @@
 7	pdf-ohjelman	pdf#ohjelma	NOUN	_	Case=Gen|Number=Sing	5	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
-# </p>
-# <p heading="0">
-# newdoc
-# newpar
 # sent_id = web30.18
 # text = Voit lähettää kaupunkilehteemme mielipiteen tai rivi-ilmoituksen tekstiviestinä.
 1	Voit	voida	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
