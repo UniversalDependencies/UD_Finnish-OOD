@@ -37,7 +37,7 @@
     <feat name="AdpType" value="Post" upos="ADP">219</feat><!-- kanssa, jälkeen, mukaan, vuoksi, takia, päälle, saakka, asti, päällä, sijaan -->
     <feat name="AdpType" value="Prep" upos="ADP">64</feat><!-- ad, ilman, päälle, alle, ennen, yli, keskellä, Luo, kohti, per -->
     <feat name="Case" value="Abe" upos="NOUN,VERB">18</feat><!-- Saavuttamatta, aiheuttamatta, antamatta, asettamatta, ihailematta, juomatta, korostamatta, käynnistämättä, ongelmitta, puhumattakaan -->
-    <feat name="Case" value="Abl" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">65</feat><!-- jokaiselta, Oy:ltä, hotellilta, potilaalta, y​h​t​e​i​s​t​y​ö​k​u​m​p​p​a​n​e​i​l​t​a, Ensimetreiltä, KANNALTA, Kansainväliseltä, Katalonialta, Kelalta -->
+    <feat name="Case" value="Abl" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">65</feat><!-- jokaiselta, Oy:ltä, hotellilta, potilaalta, yhteistyökumppaneilta, Ensimetreiltä, KANNALTA, Kansainväliseltä, Katalonialta, Kelalta -->
     <feat name="Case" value="Acc" upos="PRON">8</feat><!-- hänet, Meidät, heidät, itsesi, minut -->
     <feat name="Case" value="Ade" upos="ADJ,ADV,NOUN,NUM,PRON,PROPN,VERB">448</feat><!-- tällä, aamulla, illalla, jolla, sillä, viikolla, iltapäivällä, avulla, hetkellä, furesiksella -->
     <feat name="Case" value="All" upos="ADJ,NOUN,PRON,PROPN,VERB">193</feat><!-- hänelle, kaikille, minulle, sinulle, Bipap:lle, kenellekään, niille, CPAP:lle, Malmille, Tymppikselle -->
@@ -65,11 +65,11 @@
     <feat name="Degree" value="Sup" upos="ADJ,ADV">45</feat><!-- paras, parasta, suosituin, Parhaat, suurimman, Halutuimpia, Naurettavinta, Suurimmaksi, TURVALLISINTA, alin -->
     <feat name="Derivation" value="Inen" upos="ADJ,NOUN,PRON">266</feat><!-- toinen, ensimmäinen, limainen, viimeisen, Sentraalisen, ensimmäistä, punainen, aikuinen, entistä, erityisen -->
     <feat name="Derivation" value="Inen,Vs" upos="NOUN">15</feat><!-- limaisuutta, Hiljaisuuden, Tulevaisuuden, hiljaisuus, kokonaisuudessaan, kokonaisuuteen, mausteisuus, musikaalisuuden, ominaisuuksia, salaisuus -->
-    <feat name="Derivation" value="Ja" upos="NOUN">109</feat><!-- Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N, NBA-pelaajien, Osallistujat -->
+    <feat name="Derivation" value="Ja" upos="NOUN">109</feat><!-- Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, NAISKAMPAAMOTYÖNTEKIJÄIN, NBA-pelaajien, Osallistujat -->
     <feat name="Derivation" value="Lainen" upos="ADJ,NOUN,PROPN">73</feat><!-- tuollainen, jonkinlainen, sellainen, sellaisen, sellaista, suomalaisia, tietynlainen, tällaisia, @Lukiolaiset, Eteläafrikkalaiset -->
     <feat name="Derivation" value="Llinen" upos="ADJ">90</feat><!-- rauhallinen, asiallinen, kiitollinen, lapsiystävällinen, mahd., mahdollisen, pakolliset, rauhallista, surullista, Asillainen -->
-    <feat name="Derivation" value="Llinen,Vs" upos="NOUN">15</feat><!-- l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​t​a, mahdollisuus, v​o​i​t​t​o​m​a​h​d​o​l​l​i​s​u​u​k​s​i​s​t​a, Kirjallisuus, laadullisuus, l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​e​e​n, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden -->
-    <feat name="Derivation" value="Minen" upos="NOUN">88</feat><!-- #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, K​u​s​t​a​n​n​u​s​t​o​i​m​i​t​t​a​m​i​n​e​n -->
+    <feat name="Derivation" value="Llinen,Vs" upos="NOUN">15</feat><!-- liikenneturvallisuutta, mahdollisuus, voittomahdollisuuksista, Kirjallisuus, laadullisuus, liikenneturvallisuuteen, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden -->
+    <feat name="Derivation" value="Minen" upos="NOUN">88</feat><!-- #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, Kustannustoimittaminen -->
     <feat name="Derivation" value="Sti" upos="ADV">181</feat><!-- runsaasti, nopeasti, helposti, tietysti, välittömästi, asiallisesti, kohtalaisesti, Hemodynaamisesti, huomattavasti, huonosti -->
     <feat name="Derivation" value="Ton" upos="ADJ">30</feat><!-- mahdoton, tuntemattomien, Asunnottomista, Kiireetön, Sanattomaan, Uskomatonta, Välitön, armoton, asumatonta, elämättömän -->
     <feat name="Derivation" value="Ton,Vs" upos="NOUN">1</feat><!-- hoitamattomuus -->
@@ -108,7 +108,7 @@
     <feat name="PronType" value="Rcp" upos="ADJ,PRON">10</feat><!-- toinen, toisensa, toisemme, toisen, toisenkin, toisiamme, toisiinsa, toista -->
     <feat name="PronType" value="Rel" upos="PRON">143</feat><!-- joka, jolla, jonka, jossa, jotka, josta, mitä, jota, mikä, joilla -->
     <feat name="Reflex" value="Yes" upos="ADV,PRON">22</feat><!-- itsensä, itse, itseni, itselleen, itsestään, itelläni, itseensä, itsellä, itselläkin, itsemme -->
-    <feat name="Style" value="Arch" upos="NOUN">1</feat><!-- N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N -->
+    <feat name="Style" value="Arch" upos="NOUN">1</feat><!-- NAISKAMPAAMOTYÖNTEKIJÄIN -->
     <feat name="Style" value="Coll" upos="ADJ,ADP,ADV,AUX,CCONJ,INTJ,NOUN,PRON,PROPN,SCONJ,VERB">221</feat><!-- ok, ku, mut, mä, et, oon, sit, tää, mua, mulla -->
     <feat name="Tense" value="Past" upos="AUX,VERB">520</feat><!-- oli, sai, alkoi, laski, näin, tuli, nousi, meni, sain, kertoi -->
     <feat name="Tense" value="Pres" upos="AUX,NOUN,VERB">1356</feat><!-- on, ole, ovat, voi, saa, tulee, olen, hapettuu, löytyy, pitää -->
