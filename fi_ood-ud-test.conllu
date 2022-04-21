@@ -100,8 +100,8 @@
 1	K	K	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj	_	Gen=Kalium
 2	korjautuu	korjautua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	myös	myös	ADV	_	_	2	advmod	_	_
-4	K	K	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	6	compound	_	Gen=kalium
-5	cl	Cl	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	4	goeswith	_	Gen=kloridi
+4	K	K	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	6	compound:nn	_	Gen=kalium
+5	cl	Cl	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	6	compound:nn	_	Gen=kloridi
 6	lisällä	lisä	NOUN	_	Case=Ade|Number=Sing	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -174,7 +174,7 @@
 5	jonka	joka	PRON	_	Case=Gen|Number=Sing|PronType=Rel	6	nmod:poss	_	_
 6	aikana	aika	NOUN	_	Case=Ess|Number=Sing	10	obl	_	_
 7	potilaan	potilas	NOUN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
-8	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	9	compound	_	Gen=verenpaine
+8	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	9	compound:nn	_	Gen=verenpaine
 9	taso	taso	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 10	laskenut	laskea	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	acl:relcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
@@ -222,7 +222,7 @@
 1	Vasemmalle	vasen	ADJ	_	Case=All|Degree=Pos|Number=Sing	2	amod	_	_
 2	nivuseen	nivunen	NOUN	_	Case=Ill|Number=Sing	3	obl	_	_
 3	laitettu	laittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-4	arteria	arteria	NOUN	_	Case=Nom|Number=Sing	5	compound	_	Gen=valtimo
+4	arteria	arteria	NOUN	_	Case=Nom|Number=Sing	5	compound:nn	_	Gen=valtimo
 5	kanyyli	kanyyli	NOUN	_	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -244,7 +244,7 @@
 # text = RR taso matala aloitettu abbodop ja noradrenaliini.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.23
-1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound	_	Gen=Verenpaine
+1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	Gen=Verenpaine
 2	taso	taso	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
 3	matala	matala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 4	aloitettu	aloittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	parataxis	_	_
@@ -266,7 +266,7 @@
 # text = Thorax kirurgi käynyt ja laittanut pleuradreenin oikealle josta heti vanhaa verta runsaasti.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.25
-1	Thorax	thorax	NOUN	_	Case=Nom|Number=Sing	2	compound	_	Gen=Rintakehä
+1	Thorax	thorax	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	Gen=Rintakehä
 2	kirurgi	kirurgi	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	käynyt	käydä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	ja	ja	CCONJ	_	_	5	cc	_	_
@@ -309,7 +309,7 @@
 2	lähteä	lähteä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
 3	angioon	angio	NOUN	_	Case=Ill|Number=Sing	2	obl	_	Gen=varjoainetutkimukseen
 4	kun	kun	SCONJ	_	_	7	mark	_	_
-5	labra	labra	NOUN	_	Case=Nom|Number=Sing	6	compound	_	Gen=laboratorio
+5	labra	labra	NOUN	_	Case=Nom|Number=Sing	6	compound:nn	_	Gen=laboratorio
 6	vastaukset	vastaus	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
 7	tulleet	tulla	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	2	advcl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
@@ -433,7 +433,7 @@
 1	minimaalista	minimaalinen	ADJ	_	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	aloitettu	aloittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	1	parataxis	_	_
-4	Furesis	Furesis	PROPN	_	Case=Nom|Number=Sing	5	compound	_	Gen_desc=lääke
+4	Furesis	Furesis	PROPN	_	Case=Nom|Number=Sing	5	compound:nn	_	Gen_desc=lääke
 5	sp-infuusio	sp#infuusio	NOUN	_	Case=Nom|Number=Sing	3	obj	_	Gen_desc=lääke|Gen=sp-tiputus|SpaceAfter=No
 6	,	,	PUNCT	_	_	12	punct	_	_
 7	jolla	joka	PRON	_	Case=Ade|Number=Sing|PronType=Rel	12	acl	_	_
@@ -736,8 +736,8 @@
 7	noususuuntainen	nousu#suuntainen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	conj	_	SpaceAfter=No
 8	--	--	PUNCT	_	_	9	punct	_	_
 9	aloitettu	aloittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	4	parataxis	_	_
-10	Actrpid-	Actrapid	PROPN	_	Case=Nom|Number=Sing|Typo=Yes	9	obj	_	Gen_desc=lääke
-11	infuusio	infuusio	NOUN	_	Case=Nom|Number=Sing	10	goeswith	_	Gen=tiputus|SpaceAfter=No
+10	Actrpid-	Actrapid	PROPN	_	Case=Nom|Number=Sing|Typo=Yes	11	compound:nn	_	Gen_desc=lääke
+11	infuusio	infuusio	NOUN	_	Case=Nom|Number=Sing	9	obj	_	Gen=tiputus|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
 # text = -
@@ -846,7 +846,7 @@
 # text = Noradrenaliina inf. päästy hieman laskemaan.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.85
-1	Noradrenaliina	Noradrenalina	PROPN	_	Case=Nom|Number=Sing|Typo=Yes	2	compound	_	Gen_desc=lääke
+1	Noradrenaliina	Noradrenalina	PROPN	_	Case=Nom|Number=Sing|Typo=Yes	2	compound:nn	_	Gen_desc=lääke
 2	inf.	inf.	NOUN	_	Abbr=Yes|Case=Par|Number=Sing	5	obj	_	Gen=tiputusta
 3	päästy	päästä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	hieman	hieman	ADV	_	_	5	advmod	_	_
@@ -1230,7 +1230,7 @@
 # text = Furesis sp. annosta ensin puolitettu ja tämän jälkeen edelleen puolitettu, koska virtsamäärät runsaat.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.128
-1	Furesis	Furesis	PROPN	_	Case=Nom|Number=Sing	3	compound	_	Gen_desc=lääke
+1	Furesis	Furesis	PROPN	_	Case=Nom|Number=Sing	3	compound:nn	_	Gen_desc=lääke
 2	sp.	sp.	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	Gen_desc=lääke
 3	annosta	annos	NOUN	_	Case=Par|Number=Sing	5	obj	_	_
 4	ensin	ensin	ADV	_	_	5	advmod	_	_
@@ -1406,7 +1406,7 @@
 4	päästy	päästä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
 5	laskemaan	laskea	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	4	xcomp	_	_
 6	edell.	edell.	ADV	_	Abbr=Yes	5	advmod	_	Gen_desc=edelleen
-7	noradr.	noradr.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	8	compound	_	Gen_desc=vaikuttava-aine
+7	noradr.	noradr.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	8	compound:nn	_	Gen_desc=vaikuttava-aine
 8	infuusiota	infuusio	NOUN	_	Case=Par|Number=Sing	5	obj	_	Gen=tiputusta|SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -2118,7 +2118,7 @@
 # doc_id =  cl001.d.xml
 # sent_id = cl001.227
 1	Ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	_
-2	Furesis	Furesis	PROPN	_	Case=Nom|Number=Sing	3	compound	_	Gen_desc=lääke
+2	Furesis	Furesis	PROPN	_	Case=Nom|Number=Sing	3	compound:nn	_	Gen_desc=lääke
 3	tarvetta	tarve	NOUN	_	Case=Par|Number=Sing	1	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -2353,7 +2353,7 @@
 1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj:cop	_	Gen=Verenpaine
 2	korkea	korkea	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
-4	SR	SR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	5	compound	_	Gen=sinusrytmi|Gen_desc=normaali
+4	SR	SR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	5	compound:nn	_	Gen=sinusrytmi|Gen_desc=normaali
 5	pulssi	pulssi	NOUN	_	Case=Nom|Number=Sing	7	nsubj:cop	_	_
 6	lähemmäs	lähemmäs	ADP	_	AdpType=Prep	7	case	_	_
 7	100	100	NUM	_	NumType=Card	2	parataxis	_	SpaceAfter=No
@@ -2886,7 +2886,7 @@
 6	hapetus	hapetus	NOUN	_	Case=Nom|Derivation=U|Number=Sing	7	nsubj	_	_
 7	nousi	nousta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	-	-	PUNCT	_	_	12	punct	_	_
-9	astrup	astrup	NOUN	_	Case=Nom|Number=Sing	10	compound	_	Gen=valtimoverinäyte
+9	astrup	astrup	NOUN	_	Case=Nom|Number=Sing	10	compound:nn	_	Gen=valtimoverinäyte
 10	happi	happi	NOUN	_	Case=Nom|Number=Sing	12	nsubj:cop	_	_
 11	jopa	jopa	ADV	_	_	12	advmod	_	_
 12	12	12	NUM	_	NumType=Card	7	parataxis	_	SpaceAfter=No
@@ -3341,7 +3341,7 @@
 # doc_id =  cl001.d.xml
 # sent_id = cl001.369
 1	Korkeista	korkea	ADJ	_	Case=Ela|Degree=Pos|Number=Plur	3	amod	_	_
-2	CO2	CO2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	compound	_	Gen=hiilidioksidi
+2	CO2	CO2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	compound:nn	_	Gen=hiilidioksidi
 3	arvoista	arvo	NOUN	_	Case=Ela|Number=Plur	5	obl	_	_
 4	huolimatta	huolimatta	ADP	_	AdpType=Post	3	case	_	_
 5	vastailee	vastailla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -3387,8 +3387,8 @@
 # text = aamu vuoro
 # doc_id =  cl001.d.xml
 # sent_id = cl001.374
-1	aamu	aamu	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-2	vuoro	vuoro	NOUN	_	Case=Nom|Number=Sing	1	goeswith	_	_
+1	aamu	aamu#vuoro	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	0	root	_	_
+2	vuoro	_	X	_	_	1	goeswith	_	_
 
 # text = Aamulla bipapilla, hapettunut kohtalaisesti.
 # doc_id =  cl001.d.xml
@@ -3440,7 +3440,7 @@
 2	ok	ok	ADV	_	Style=Coll	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	korkeista	korkea	ADJ	_	Case=Ela|Degree=Pos|Number=Plur	6	amod	_	_
-5	Co2	CO2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	6	compound	_	Gen=hiilidioksidi
+5	Co2	CO2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	6	compound:nn	_	Gen=hiilidioksidi
 6	arvoista	arvo	NOUN	_	Case=Ela|Number=Plur	2	obl	_	_
 7	huolimatta	huolimatta	ADP	_	AdpType=Post	6	case	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
@@ -3612,7 +3612,7 @@
 2	vähennelty	vähennellä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 3	ja	ja	CCONJ	_	_	4	cc	_	_
 4	vieroiteltu	vieroitella	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
-5	CPAP:lle	CPAP	NOUN	_	Abbr=Yes|Case=All|Number=Sing	4	obl	_	Gen_desc=hengityskoneen_ohjelmalle|Gen=ohjelmalle|SpaceAfter=No
+5	CPAP:lle	cpap	NOUN	_	Abbr=Yes|Case=All|Number=Sing	4	obl	_	Gen_desc=hengityskoneen_ohjelmalle|Gen=ohjelmalle|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 # text = Ei limaisuutta.
@@ -3844,7 +3844,7 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	annettu	antaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	_
 5	1	1	NUM	_	NumType=Card	6	nummod	_	_
-6	yks	yks	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	7	compound	_	_
+6	yks	yks	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	7	compound:nn	_	_
 7	PS	PS	NOUN	_	Abbr=Yes|Case=Par|Number=Sing	4	obj	_	Gen=pussia
 
 # text = Vatsa toiminut runsaasti.
@@ -4026,7 +4026,7 @@
 # doc_id =  cl001.d.xml
 # sent_id = cl001.450
 1	Aloitetaan	aloittaa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	heng.	heng.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	compound	_	_
+2	heng.	heng.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	compound:nn	_	_
 3	harj.	harj.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	1	obj	_	_
 4	Bennetillä	Bennet	PROPN	_	Case=Ade|Number=Sing	1	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
@@ -4155,7 +4155,7 @@
 3	jaksa	jaksaa	VERB	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	nostetaan	nostaa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-6	insp	insp	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	7	compound	_	Gen=sisäänhengitys
+6	insp	insp	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	7	compound:nn	_	Gen=sisäänhengitys
 7	painetta	paine	NOUN	_	Case=Par|Number=Sing	5	obj	_	_
 8	2	2	NUM	_	NumType=Card	9	nummod	_	_
 9	cmH2O	cmH2O	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	5	obl	_	_
@@ -4232,7 +4232,7 @@
 # text = o2 -lisä laitettu laitettu kiinni
 # doc_id =  cl001.d.xml
 # sent_id = cl001.471
-1	o2	O2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound	_	Gen=Happi
+1	o2	O2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	Gen=Happi
 2	-lisä	lisä	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
 3	laitettu	laittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	laitettu	laittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
@@ -4241,17 +4241,17 @@
 # text = Bennetin kanssa heng. harj.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.472
-1	Bennetin	Bennet	PROPN	_	Case=Gen|Number=Sing	3	orphan	_	_
+1	Bennetin	Bennet	PROPN	_	Case=Gen|Number=Sing	4	orphan	_	_
 2	kanssa	kanssa	ADP	_	AdpType=Post	1	case	_	_
-3	heng.	heng.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	_
-4	harj.	harj.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	goeswith	_	_
+3	heng.	heng.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	4	compound:nn	_	_
+4	harj.	harj.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	_
 
 # text = Oma sis. heng. impulssi kovin voimaton.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.473
 1	Oma	oma	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 2	sis.	sis.	ADJ	_	Abbr=Yes|Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Gen=sisäinen
-3	heng.	heng.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	4	compound	_	_
+3	heng.	heng.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	4	compound:nn	_	_
 4	impulssi	impulssi	NOUN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
 5	kovin	kovin	ADV	_	_	6	advmod	_	_
 6	voimaton	voimaton	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
@@ -4304,12 +4304,12 @@
 # text = Hiilidioksidi retention vuoksi jouduttu laittamaan CPAP:lle.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.480
-1	Hiilidioksidi	hiili#dioksidi	NOUN	_	Case=Nom|Number=Sing	2	compound	_	_
+1	Hiilidioksidi	hiili#dioksidi	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
 2	retention	retentio	NOUN	_	Case=Gen|Number=Sing	5	obl	_	Gen=kertymisen
 3	vuoksi	vuoksi	ADP	_	AdpType=Post	2	case	_	_
 4	jouduttu	joutua	AUX	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	5	aux	_	_
 5	laittamaan	laittaa	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
-6	CPAP:lle	CPAP	NOUN	_	Abbr=Yes|Case=All|Number=Sing	5	obl	_	Gen_desc=hengityskoneen_ohjelma|Gen=ohjelmalle|SpaceAfter=No
+6	CPAP:lle	cpap	NOUN	_	Abbr=Yes|Case=All|Number=Sing	5	obl	_	Gen_desc=hengityskoneen_ohjelma|Gen=ohjelmalle|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # text = Ei ole limainen.
@@ -4399,8 +4399,8 @@
 1	pCO2	pCO2	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj	_	Gen=Hiilidioksidiosapaine
 2	laskee	laskea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SENSE=0
 3	ja	ja	CCONJ	_	_	6	cc	_	_
-4	astrup	astrup	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	Gen=valtimoverinäyte
-5	happi	happi	NOUN	_	Case=Nom|Number=Sing	4	goeswith	_	_
+4	astrup	astrup	NOUN	_	Case=Nom|Number=Sing	5	compound:nn	_	Gen=valtimoverinäyte
+5	happi	happi	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 6	nousee	nousta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SENSE=0
 7	10.	10.	NUM	_	NumType=Card	8	nmod:poss	_	_
 8	pintaan	pinta	NOUN	_	Case=Ill|Number=Sing	6	obl	_	SpaceAfter=No
@@ -4737,8 +4737,8 @@
 # text = Astrup happi reilusti päälle 10.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.42
-1	Astrup	astrup	NOUN	_	Case=Nom|Number=Sing	5	nsubj:cop	_	Gen=Valtimoverinäyte
-2	happi	happi	NOUN	_	Case=Nom|Number=Sing	1	goeswith	_	_
+1	Astrup	astrup	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	Gen=Valtimoverinäyte
+2	happi	happi	NOUN	_	Case=Nom|Number=Sing	5	nsubj:cop	_	_
 3	reilusti	reilusti	ADV	_	Derivation=Sti	5	advmod	_	_
 4	päälle	päälle	ADP	_	AdpType=Prep	5	case	_	_
 5	10	10	NUM	_	NumType=Card	0	root	_	SpaceAfter=No
@@ -5197,8 +5197,8 @@
 # text = C pap -maskilla koko yön.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.82.1
-1	C	C	NOUN	_	Case=Nom|Number=Sing	3	compound:nn	_	Gen=Hengitys
-2	pap	pap	NOUN	_	Case=Nom|Number=Sing	1	goeswith	_	Gen_desc=hengityskoneen_ohjelma|Gen=kone
+1	C	cpap	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	3	compound:nn	_	Gen=Hengitys
+2	pap	_	X	_	_	1	goeswith	_	Gen_desc=hengityskoneen_ohjelma|Gen=kone
 3	-maskilla	maski	NOUN	_	Case=Ade|Number=Sing	0	root	_	_
 4	koko	koko	ADJ	_	_	5	amod	_	_
 5	yön	yö	NOUN	_	Case=Gen|Number=Sing	3	obl	_	SpaceAfter=No
@@ -5278,8 +5278,8 @@
 # text = Pallopumppu kohtauksen aikana 1:1, -Sini kävi laskemassa sen kuitenkin melko pian 1:2.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.87
-1	Pallopumppu	pallo#pumppu	NOUN	_	Case=Nom|Number=Sing	3	nmod:poss	_	_
-2	kohtauksen	kohtaus	NOUN	_	Case=Gen|Number=Sing	1	goeswith	_	_
+1	Pallopumppu	pallo#pumppu#kohtaus	NOUN	_	Case=Gen|Number=Sing|Typo=Yes	3	nmod:poss	_	_
+2	kohtauksen	_	X	_	_	1	goeswith	_	_
 3	aikana	aika	NOUN	_	Case=Ess|Number=Sing	4	orphan	_	_
 4	1:1	1:1	NUM	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
@@ -5301,8 +5301,8 @@
 2	90	90	NUM	_	NumType=Card	3	nmod:poss	_	_
 3	pintaan	pinta	NOUN	_	Case=Ill|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	haara-	haara	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
-6	katkokset	katkos	NOUN	_	Case=Nom|Number=Plur	5	goeswith	_	_
+5	haara-	haara	NOUN	_	Case=Nom|Number=Sing	6	compound:nn	_	_
+6	katkokset	katkos	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
 7	vähentyneet	vähentyä	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	3	parataxis	_	_
 8	yön	yö	NOUN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
 9	aikana	aika	NOUN	_	Case=Ess|Number=Sing	7	obl	_	SpaceAfter=No
@@ -5679,8 +5679,8 @@
 # doc_id =  cl002.d.xml
 # sent_id = cl002.124
 1	Pienin	pieni	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
-2	konesuorite	kone#suorite	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
-3	muutoksin	muutos	NOUN	_	Case=Ins|Number=Plur	2	goeswith	_	_
+2	konesuorite	kone#suorite#muutos	NOUN	_	Case=Ins|Number=Plur|Typo=Yes	5	obl	_	_
+3	muutoksin	_	X	_	_	2	goeswith	_	_
 4	hapettuminen	hapettuminen	NOUN	_	Case=Nom|Derivation=Minen|Number=Sing	5	nsubj:cop	_	_
 5	riittävää	riittävä	ADJ	_	Case=Par|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -5782,7 +5782,7 @@
 # text = Pallopumppu suhdeluku hetkellisesti 1:1 painetason notkahdettua --> muutettu takaisin 1:2.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.135
-1	Pallopumppu	pallo#pumppu	NOUN	_	Case=Nom|Number=Sing	2	compound	_	_
+1	Pallopumppu	pallo#pumppu	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
 2	suhdeluku	suhde#luku	NOUN	_	Case=Nom|Number=Sing	4	nsubj:cop	_	_
 3	hetkellisesti	hetkellisesti	ADV	_	Derivation=Sti	4	advmod	_	_
 4	1:1	1:1	NUM	_	_	0	root	_	_
@@ -5814,7 +5814,7 @@
 # doc_id =  cl002.d.xml
 # sent_id = cl002.138
 1	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	BIPAP	bipap	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	compound	_	Gen_desc=hengityskoneen_ohjelma|Gen=Hengityskone
+2	BIPAP	bipap	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	compound:nn	_	Gen_desc=hengityskoneen_ohjelma|Gen=Hengityskone
 3	säädöt	säätö	NOUN	_	Case=Nom|Number=Plur	4	nsubj:cop	_	_
 4	ennallaan	ennallaan	ADV	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
@@ -6065,7 +6065,7 @@
 9	vaihdettu	vaihtaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	conj	_	SENSE=0
 10	takaisin	takaisin	ADV	_	_	12	advmod	_	_
 11	60	60	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
-12	%:een	%	SYM	_	_	9	obl	_	note=check|SpaceAfter=No
+12	%:een	%	NOUN	_	Case=Ill|Number=Sing	9	obl	_	note=check|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
 # text = Valittaa myös pahoinvointia.
@@ -6227,10 +6227,10 @@
 17	katsotaan	katsoa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	_	SENSE=0|SpaceAfter=No
 18	/	/	PUNCT	_	_	19	punct	_	SpaceAfter=No
 19	arvioidaan	arvioida	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	17	conj	_	SENSE=0
-20	mahd.	mahd.	ADJ	_	Abbr=Yes|Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	22	amod	_	_
-21	läpän	läppä	NOUN	_	Case=Gen|Number=Sing	22	nmod:gobj	_	_
-22	korjaus-	korjaus	NOUN	_	Case=Nom|Number=Sing	17	obj	_	_
-23	leikkausta	leikkaus	NOUN	_	Case=Par|Number=Sing	22	goeswith	_	_
+20	mahd.	mahd.	ADJ	_	Abbr=Yes|Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	23	amod	_	_
+21	läpän	läppä	NOUN	_	Case=Gen|Number=Sing	23	nmod:gobj	_	_
+22	korjaus-	korjaus	NOUN	_	Case=Nom|Number=Sing	23	compound:nn	_	_
+23	leikkausta	leikkaus	NOUN	_	Case=Par|Number=Sing	17	obj	_	_
 24	huomenna	huomenna	ADV	_	_	17	advmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -6414,7 +6414,7 @@
 # text = Puolilta öin intuboitu ja laitettu hengitykoneeseen.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.192
-1	Puolilta	puoli	NOUN	_	Case=Abl|Number=Plur	2	compound	_	_
+1	Puolilta	puoli	NOUN	_	Case=Abl|Number=Plur	2	compound:nn	_	_
 2	öin	yö	NOUN	_	Case=Ins|Number=Plur	3	obl	_	_
 3	intuboitu	intuboida	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	ja	ja	CCONJ	_	_	5	cc	_	_
@@ -6537,8 +6537,8 @@
 # text = Dreeni sivulla ei näy, mutta sydänkir. Kiertosivulla kylläkin.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.206
-1	Dreeni	dreeni	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
-2	sivulla	sivu	NOUN	_	Case=Ade|Number=Sing	1	goeswith	_	_
+1	Dreeni	dreeni	NOUN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	sivulla	sivu	NOUN	_	Case=Ade|Number=Sing	4	obl	_	_
 3	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	näy	näkyä	VERB	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SENSE=0|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
@@ -6793,8 +6793,8 @@
 # doc_id =  cl002.d.xml
 # sent_id = cl002.235
 1	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	pulssi	pulssi	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-3	taso	taso	NOUN	_	Case=Nom|Number=Sing	2	goeswith	_	_
+2	pulssi	pulssi#taso	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	4	nsubj	_	_
+3	taso	_	X	_	_	2	goeswith	_	_
 4	noussut	nousta	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SENSE=0
 5	ajoittain	ajoittain	ADV	_	_	4	conj	_	_
 6	arymiaa	arymia	NOUN	_	Case=Par|Number=Sing	5	nsubj:cop	_	_
@@ -7682,8 +7682,8 @@
 # text = Puhallusrengas harjoituksia ei jaksa vielä tehdä.
 # doc_id =  cl002.d.xml
 # sent_id = cl002.324
-1	Puhallusrengas	puhallus#rengas	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
-2	harjoituksia	harjoitus	NOUN	_	Case=Par|Number=Plur	1	goeswith	_	_
+1	Puhallusrengas	puhallus#rengas#harjoitus	NOUN	_	Case=Par|Number=Plur|Typo=Yes	6	obj	_	_
+2	harjoituksia	_	X	_	_	1	goeswith	_	_
 3	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	jaksa	jaksaa	VERB	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SENSE=0
 5	vielä	vielä	ADV	_	_	6	advmod	_	_
@@ -8113,7 +8113,7 @@
 5	koko	koko	ADJ	_	_	6	amod	_	_
 6	yön	yö	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
 7	60	60	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
-8	%:lla	%	SYM	_	_	9	nmod:poss	_	_
+8	%:lla	%	NOUN	_	Case=Ade|Number=Sing	9	nmod:poss	_	_
 9	ventimaskilla	venti#maski	NOUN	_	Case=Ade|Number=Plur	4	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -9667,7 +9667,7 @@
 # Mon Feb 12 16:51:52 +0000 2018
 # sent_id = tweet25.2
 # text = Msp käyttäjä: Tikru 987 https://t.co/CAYwlRH5Mp
-1	Msp	Msp	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound	_	Note=MovieStarPlanet
+1	Msp	Msp	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	Note=MovieStarPlanet
 2	käyttäjä	käyttäjä	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	4	punct	_	_
 4	Tikru	Tikru	PROPN	_	Case=Nom|Number=Sing	2	appos	_	_
@@ -9945,9 +9945,9 @@
 7	että	että	SCONJ	_	_	15	mark	_	_
 8	ehkä	ehkä	ADV	_	_	15	advmod	_	_
 9	tällaisia	tällainen	ADJ	_	Case=Par|Degree=Pos|Derivation=Lainen|Number=Plur	14	amod	_	_
-10	Latvia	Latvia	PROPN	_	Case=Par|Number=Plur	12	compound	_	SpaceAfter=No
+10	Latvia	Latvia	PROPN	_	Case=Par|Number=Plur	12	compound:nn	_	SpaceAfter=No
 11	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
-12	Venäjä	Venäjä	PROPN	_	Case=Par|Number=Plur	13	compound	_	_
+12	Venäjä	Venäjä	PROPN	_	Case=Par|Number=Plur	13	compound:nn	_	_
 13	-tyyppisiä	tyyppinen	ADJ	_	Case=Par|Degree=Pos|Derivation=Inen|Number=Plur	14	amod	_	_
 14	pelejä	peli	NOUN	_	Case=Par|Number=Plur	15	obj	_	_
 15	kaipaisi	kaivata	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	ccomp	_	_
@@ -10719,8 +10719,8 @@
 3	mullakaan	mulla	ADV	_	Clitic=Kaan	0	root	_	_
 4	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop:own	_	_
 5	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	6	det	_	_
-6	numero	numero	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
-7	tietoa	tieto	NOUN	_	Case=Par|Number=Sing	6	goeswith	_	_
+6	numero	numero#tieto	NOUN	_	Case=Par|Number=Sing|Typo=Yes	3	nsubj:cop	_	_
+7	tietoa	_	X	_	_	6	goeswith	_	_
 8	heittää	heittää	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
 9	tähän	tämä	PRON	_	Case=Ill|Number=Sing|PronType=Dem	8	obl	_	_
 10	enkä	ei	AUX	_	Clitic=Ka|Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	13	aux	_	_
@@ -10819,8 +10819,8 @@
 2	käytöstäkin	käyttö	NOUN	_	Case=Ela|Clitic=Kin|Number=Sing	3	obl	_	_
 3	löytyy	löytyä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	tietoa	tieto	NOUN	_	Case=Par|Number=Sing	3	nsubj	_	_
-5	@SuomenPankki	@SuomenPankki	PROPN	_	Case=Nom|Number=Sing	7	nmod:poss	_	Note=embedded
-6	’n	’n	NOUN	_	Case=Gen|Number=Sing	5	goeswith	_	Note=check|Note=embedded
+5	@SuomenPankki	@SuomenPankki	PROPN	_	Case=Gen|Number=Sing|Typo=Yes	7	nmod:poss	_	Note=embedded
+6	’n	_	X	_	_	5	goeswith	_	Note=embedded
 7	#maksuliiketilastot	#maksu#liike#tilasto	NOUN	_	Case=Nom|Number=Plur	4	appos	_	Note=embedded
 8	–	–	PUNCT	_	_	9	punct	_	_
 9	Euro	euro	NOUN	_	Case=Nom|Number=Sing	7	parataxis	_	_
@@ -11640,8 +11640,8 @@
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	jonglöörausta	jonglööraus	NOUN	_	Case=Par|Number=Sing	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	tarzan	tarzan	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
-9	liaania	liaani	NOUN	_	Case=Par|Number=Sing	8	goeswith	_	SpaceAfter=No
+8	tarzan	tarzan#liaani	NOUN	_	Case=Par|Number=Sing|Typo=Yes	4	conj	_	_
+9	liaania	_	X	_	_	8	goeswith	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	temppu-trampoliinia	temppu#trampoliini	NOUN	_	Case=Par|Number=Sing	4	conj	_	_
 12	yms	yms.	ADV	_	_	4	advmod	_	SpaceAfter=No
@@ -11663,7 +11663,7 @@
 9	nousevan	nousta	VERB	_	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	6	xcomp:ds	_	_
 10	yli	yli	ADV	_	_	11	advmod	_	_
 11	72	72	NUM	_	NumType=Card	12	nummod	_	_
-12	%:n	%	SYM	_	Case=Gen|Number=Sing	9	obl	_	_
+12	%:n	%	NOUN	_	Case=Gen|Number=Sing	9	obl	_	_
 13	https://t.co/F9RPttpJl1	https://t.co/F9RPttpJl1	SYM	_	_	2	discourse	_	SpacesAfter=\n\n
 
 # HeikkilLaura
@@ -14844,9 +14844,9 @@
 34	Mäntäkone	Mäntäkone	PROPN	_	Case=Nom|Number=Sing	15	conj	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	36	punct	_	_
 36	Tökköuatra	Tökköuatra	PROPN	_	Case=Nom|Number=Sing	15	conj	_	SpaceAfter=No
-37	,	,	PUNCT	_	_	38	punct	_	_
-38	Ylil	Ylil	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	15	conj	_	_
-39	evp	evp	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	38	compound	_	_
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	Ylil	Ylil	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	39	compound:nn	_	_
+39	evp	evp	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	15	conj	_	_
 40	ja	ja	CCONJ	_	_	42	cc	_	_
 41	Oikea	Oikea	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	note=check
 42	sotilas	sotilas	NOUN	_	Case=Nom|Number=Sing	15	conj	_	_
@@ -15549,8 +15549,8 @@
 11	taas	taas	ADV	_	_	14	advmod	_	_
 12	punainen	punainen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	13	amod	_	_
 13	terrorismi	terrorismi	NOUN	_	Case=Nom|Number=Sing	14	nsubj:cop	_	_
-14	länsi	länsi	NOUN	_	Case=Nom|Number=Sing	7	conj	_	_
-15	euroopassa	Eurooppa	PROPN	_	Case=Ine|Number=Sing	14	goeswith	_	_
+14	länsi	Länsi-Eurooppa	NOUN	_	Case=Ine|Number=Sing|Typo=Yes	7	conj	_	_
+15	euroopassa	_	X	_	_	14	goeswith	_	_
 16	1970	1970	NUM	_	NumType=Card	17	nummod	_	_
 17	luvulla	luku	NOUN	_	Case=Ade|Number=Sing	14	obl	_	_
 18	Bader	Bader	PROPN	_	Case=Nom|Number=Sing	13	appos	_	_
@@ -15765,8 +15765,8 @@
 12	kaverit	kaveri	NOUN	_	Case=Nom|Number=Plur	14	nsubj	_	_
 13	edes	edes	ADV	_	_	14	advmod	_	_
 14	kiinnostu	kiinnostua	VERB	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
-15	lapsi	lapsi	NOUN	_	Case=Nom|Number=Sing	17	amod	_	_
-16	aiheisista	aiheinen	ADJ	_	Case=Ela|Degree=Pos|Derivation=Inen|Number=Plur	15	goeswith	_	_
+15	lapsi	lapsi#aiheinen	ADJ	_	Case=Ela|Degree=Pos|Derivation=Inen|Number=Plur|Typo=Yes	17	amod	_	_
+16	aiheisista	_	X	_	_	15	goeswith	_	_
 17	puheista	puhe	NOUN	_	Case=Ela|Number=Plur	14	obl	_	_
 18	vaan	vaan	CCONJ	_	_	20	cc	_	_
 19	hekin	he	PRON	_	Case=Nom|Clitic=Kin|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
@@ -20013,7 +20013,7 @@
 6	ja	ja	CCONJ	_	_	7	cc	_	_
 7	aiheuttamatta	aiheuttaa	VERB	_	Case=Abe|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	4	conj	_	_
 8	kalalle	kala	NOUN	_	Case=All|Number=Sing	7	obl	_	_
-9	lisä	lisä	NOUN	_	Case=Nom|Number=Sing	10	compound	_	_
+9	lisä	lisä	NOUN	_	Case=Nom|Number=Sing	10	compound:nn	_	_
 10	haittoja	haitta	NOUN	_	Case=Par|Number=Plur	7	obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	merkkauksessahan	merkkaus	NOUN	_	Case=Ine|Clitic=Han|Number=Sing	13	obl	_	_
@@ -20078,8 +20078,8 @@
 3	parikertaa	pari#kerta	NOUN	_	Case=Par|Number=Sing|Style=Coll	2	obl	_	_
 4	läpi	läpi	ADV	_	_	2	advmod	_	_
 5	tuon	tuo	PRON	_	Case=Gen|Number=Sing|PronType=Dem	9	det	_	_
-6	ahven.net	ahven.net	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
-7	stä	stä	NOUN	_	Case=Ela|Number=Sing|Typo=Yes	6	goeswith	_	note=check
+6	ahven.net	ahven.net	NOUN	_	Case=Ela|Number=Sing|Typo=Yes	8	obl	_	_
+7	stä	_	X	_	_	6	goeswith	_	_
 8	löytyvän	löytyä	VERB	_	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
 9	aineiston	aineisto	NOUN	_	Case=Gen|Number=Sing	2	obj	_	_
 10	ja	ja	CCONJ	_	_	11	cc	_	_
@@ -21821,7 +21821,7 @@
 13	vastaan	vastaan	ADV	_	_	12	compound:prt	_	_
 14	yleensä	yleensä	ADV	_	_	12	advmod	_	_
 15	täysin	täysin	ADV	_	_	17	advmod	_	_
-16	kuraa	kura	NOUN	_	Case=Par|Number=Sing	17	compound	_	note=check
+16	kuraa	kura	NOUN	_	Case=Par|Number=Sing	17	compound:nn	_	note=check
 17	tavaraa	tavara	NOUN	_	Case=Par|Number=Sing	12	nsubj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	24	punct	_	_
 19	mutta	mutta	CCONJ	_	_	24	cc	_	_
@@ -23571,7 +23571,7 @@
 3	sisältää	sisältää	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ties	ties	ADV	_	_	7	advmod	_	_
 5	mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Rel	4	fixed	_	_
-6	vinkuvonku	vinku#vonku	NOUN	_	Case=Nom|Number=Sing	7	compound	_	_
+6	vinkuvonku	vinku#vonku	NOUN	_	Case=Nom|Number=Sing	7	compound:nn	_	_
 7	ihkutusta	ihkutus	NOUN	_	Case=Par|Number=Sing	3	obj	_	_
 8	parhaimmillaan	parhaimmillaan	ADV	_	_	3	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
@@ -23750,7 +23750,7 @@
 1	Kirje	kirje	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	kertoi	kertoa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	terveisiä	terveiset	NOUN	_	Case=Par|Number=Plur	2	obj	_	_
-4	Yukiia	Yukiia	PROPN	_	Case=Nom|Number=Sing	5	compound	_	_
+4	Yukiia	Yukiia	PROPN	_	Case=Nom|Number=Sing	5	compound:nn	_	_
 5	nimiseltä	niminen	ADJ	_	Case=Abl|Degree=Pos|Number=Sing	6	amod	_	_
 6	kentaurilta	kentauri	NOUN	_	Case=Abl|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	_
@@ -23826,7 +23826,7 @@
 # text = Oivoi, lapsi rassukka..
 1	Oivoi	oivoi	INTJ	_	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	lapsi	lapsi	NOUN	_	Case=Nom|Number=Sing	4	compound	_	_
+3	lapsi	lapsi	NOUN	_	Case=Nom|Number=Sing	4	compound:nn	_	_
 4	rassukka	rassukka	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	..	..	PUNCT	_	_	4	punct	_	_
 
@@ -24098,7 +24098,7 @@
 # sent_id = web18.21
 # text = Mitä TIOBE tilastoista voi päätellä?
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	5	obj	_	_
-2	TIOBE	TIOBE	PROPN	_	Case=Nom|Number=Sing	3	compound	_	_
+2	TIOBE	TIOBE	PROPN	_	Case=Nom|Number=Sing	3	compound:nn	_	_
 3	tilastoista	tilasto	NOUN	_	Case=Ela|Number=Plur	5	obl	_	_
 4	voi	voida	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	päätellä	päätellä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
@@ -24106,7 +24106,7 @@
 
 # sent_id = web18.22
 # text = TIOBE tilasto kertoo lähinnä kielen merkityksestä markkinoilla.
-1	TIOBE	TIOBE	PROPN	_	Case=Nom|Number=Sing	2	compound	_	_
+1	TIOBE	TIOBE	PROPN	_	Case=Nom|Number=Sing	2	compound:nn	_	_
 2	tilasto	tilasto	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	kertoo	kertoa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	lähinnä	lähinnä	ADV	_	_	6	advmod	_	_
@@ -26683,7 +26683,7 @@
 6	jo	jo	ADV	_	_	7	advmod	_	_
 7	menossa	mennä	VERB	_	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
 8	huomenissa	huomenissa	ADV	_	_	7	obl	_	_
-9	tomantti	tomaatti	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	10	compound	_	_
+9	tomantti	tomaatti	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	10	compound:nn	_	_
 10	ostoksille	ostos	NOUN	_	Case=All|Number=Plur	7	obl	_	_
 11	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
 12	salaatti	salaatti	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	_
