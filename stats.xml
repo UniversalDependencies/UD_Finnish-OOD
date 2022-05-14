@@ -10,26 +10,26 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>2122</sentences><tokens>19363</tokens><words>19382</words><fused>19</fused></test>
   </size>
-  <lemmas unique="5223" /><!-- ., ,, olla, ja, ei, :, se, joka, tämä, että, saada, mutta, ", kun, hän -->
+  <lemmas unique="5218" /><!-- ., ,, olla, ja, ei, :, se, joka, tämä, että, saada, mutta, ", kun, hän -->
   <forms unique="8213" /><!-- ., ,, ja, on, ei, :, että, mutta, ", kun, oli, se, -, ole, ? -->
   <fusions unique="7" /><!-- ettei, jollei, muttei, etteikö, vaikkei, Eiku, mikseivät -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADJ">1352</tag><!-- hyvä, oma, pieni, pitkä, suuri, uusi, koko, korkea, rauhallinen, huono -->
+    <tag name="ADJ">1356</tag><!-- hyvä, oma, pieni, pitkä, suuri, uusi, koko, korkea, rauhallinen, huono -->
     <tag name="ADP">287</tag><!-- kanssa, jälkeen, ad, mukaan, päälle, vuoksi, ilman, takia, alle, saakka -->
     <tag name="ADV">1976</tag><!-- hyvin, myös, niin, nyt, ok, kuitenkin, jo, vain, sitten, paljon -->
     <tag name="AUX">1091</tag><!-- olla, ei, voida, pitää, joutua, taitaa, saattaa, tarvita, täytyä, mahtaa -->
     <tag name="CCONJ">730</tag><!-- ja, mutta, tai, sekä, vaan, eli, vai, että, ja/tai, kuin -->
     <tag name="INTJ">41</tag><!-- no, voi, hei, hoh, Hmm, että, hahaa, heipähei, helvettiä, hitto -->
-    <tag name="NOUN">5048</tag><!-- aika, diureesi, hapetus, hemo#dynamiikka, hengitys, vuosi, yö, tajunta, päivä, lapsi -->
+    <tag name="NOUN">5047</tag><!-- aika, diureesi, hapetus, hemo#dynamiikka, hengitys, vuosi, yö, tajunta, päivä, lapsi -->
     <tag name="NUM">381</tag><!-- yksi, 2, 40, 20, kaksi, kolme, 100, 5, 10, 60 -->
     <tag name="PRON">1050</tag><!-- se, joka, tämä, hän, minä, mikä, kaikki, muu, jokin, tuo -->
-    <tag name="PROPN">967</tag><!-- Furesis, Tymppis, Esko, Suomi, Noradrenalina, the, sp., Allie, Ikea, Nooa -->
+    <tag name="PROPN">966</tag><!-- Furesis, Tymppis, Esko, Suomi, Noradrenalina, the, sp., Allie, Ikea, Nooa -->
     <tag name="PUNCT">3194</tag><!-- ., ,, :, ", -, ?, !, (, ), ... -->
     <tag name="SCONJ">365</tag><!-- että, kun, kuin, jos, koska, vaikka, sillä, jotta, mikäli, kunnes -->
-    <tag name="SYM">199</tag><!-- %, ->, –>, :), +, ;), :D, →, =, ~ -->
-    <tag name="VERB">2615</tag><!-- saada, tulla, tehdä, käydä, laskea, mennä, katsoa, laittaa, päästä, nähdä -->
-    <tag name="X">86</tag><!-- LIST, All, Inclusive, author, baimbai, quote, time, #cmoref1, #nature, Nix -->
+    <tag name="SYM">196</tag><!-- %, ->, –>, :), +, ;), :D, →, =, ~ -->
+    <tag name="VERB">2613</tag><!-- saada, tulla, tehdä, käydä, laskea, mennä, katsoa, laittaa, päästä, nähdä -->
+    <tag name="X">89</tag><!-- LIST, All, Inclusive, _, author, baimbai, quote, time, #cmoref1, #nature -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="85">
@@ -39,16 +39,16 @@
     <feat name="Case" value="Abe" upos="NOUN,VERB">18</feat><!-- Saavuttamatta, aiheuttamatta, antamatta, asettamatta, ihailematta, juomatta, korostamatta, käynnistämättä, ongelmitta, puhumattakaan -->
     <feat name="Case" value="Abl" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">65</feat><!-- jokaiselta, Oy:ltä, hotellilta, potilaalta, yhteistyökumppaneilta, Ensimetreiltä, KANNALTA, Kansainväliseltä, Katalonialta, Kelalta -->
     <feat name="Case" value="Acc" upos="PRON">8</feat><!-- hänet, Meidät, heidät, itsesi, minut -->
-    <feat name="Case" value="Ade" upos="ADJ,ADV,NOUN,NUM,PRON,PROPN,VERB">448</feat><!-- tällä, aamulla, illalla, jolla, sillä, viikolla, iltapäivällä, avulla, hetkellä, furesiksella -->
+    <feat name="Case" value="Ade" upos="ADJ,ADV,NOUN,NUM,PRON,PROPN,VERB">449</feat><!-- tällä, aamulla, illalla, jolla, sillä, viikolla, iltapäivällä, avulla, hetkellä, furesiksella -->
     <feat name="Case" value="All" upos="ADJ,NOUN,PRON,PROPN,VERB">193</feat><!-- hänelle, kaikille, minulle, sinulle, Bipap:lle, kenellekään, niille, CPAP:lle, Malmille, Tymppikselle -->
     <feat name="Case" value="Com" upos="NOUN,PRON">5</feat><!-- eläimineen, fiftarimekkoineen, huulipunineen, höysteineen, kaikkine -->
     <feat name="Case" value="Ela" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">336</feat><!-- siitä, josta, tästä, putkesta, asioista, jostain, mielestä, näistä, sydämestä, Joulumaasta -->
     <feat name="Case" value="Ess" upos="ADJ,NOUN,NUM,PRON,VERB">133</feat><!-- aikana, tänä, vuonna, seurauksena, tarkoituksena, verrattuna, katsottuna, kesänä, päivänä, sunnuntaina -->
-    <feat name="Case" value="Gen" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,SYM,VERB">1469</feat><!-- sen, tämän, yön, vuoden, jonka, Tymppiksen, hänen, meidän, minun, potilaan -->
-    <feat name="Case" value="Ill" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">460</feat><!-- laskemaan, siihen, aikaan, loppuun, käymään, olemaan, tähän, kotiin, pintaan, tekemään -->
+    <feat name="Case" value="Gen" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">1469</feat><!-- sen, tämän, yön, vuoden, jonka, Tymppiksen, hänen, meidän, minun, potilaan -->
+    <feat name="Case" value="Ill" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">461</feat><!-- laskemaan, siihen, aikaan, loppuun, käymään, olemaan, tähän, kotiin, pintaan, tekemään -->
     <feat name="Case" value="Ine" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">458</feat><!-- jossa, siinä, tässä, katsomassa, suomessa, missä, nukkuessa, vaiheessa, yhteydessä, kyseessä -->
     <feat name="Case" value="Ins" upos="ADJ,ADV,NOUN,PRON,VERB">47</feat><!-- molemmin, puolin, istuen, monin, tavoin, turvin, Ojennetuin, Pienin, Viitaten, epävakain -->
-    <feat name="Case" value="Nom" upos="ADJ,ADV,AUX,INTJ,NOUN,NUM,PRON,PROPN,VERB,X">4130</feat><!-- se, diureesi, hemodynamiikka, hapetus, hengitys, ollut, joka, hän, kaikki, pulssi -->
+    <feat name="Case" value="Nom" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB,X">4126</feat><!-- se, diureesi, hemodynamiikka, hapetus, hengitys, ollut, joka, hän, kaikki, pulssi -->
     <feat name="Case" value="Par" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">1584</feat><!-- mitä, sitä, muuta, niitä, jotain, mitään, aikaa, kertaa, hyvää, mg -->
     <feat name="Case" value="Tra" upos="ADJ,NOUN,VERB">96</feat><!-- ajaksi, hetkeksi, huonoksi, muistaakseni, ohjelmointikieleksi, sinisilmäiseksi, työläämmäksi, Eturuoaksi, Suurimmaksi, Sääliksi -->
     <feat name="Clitic" value="Han" upos="ADV,AUX,NOUN,PRON,PROPN,SCONJ,VERB">22</feat><!-- Inflaatiohan, Itehän, Minullahan, Missähän, Mittasuhteethan, Niinhän, Onhan, Tuleehan, erohan, ikeastahan -->
@@ -61,9 +61,9 @@
     <feat name="Clitic" value="S" upos="PRON">2</feat><!-- Mitäs, kukas -->
     <feat name="Connegative" value="Yes" upos="AUX,VERB">207</feat><!-- ole, tule, voi, halua, jaksa, saa, kestä, pysty, tiedä, kiinnosta -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">79</feat><!-- paremmin, huonommin, lämmin, matalampaa, matalampi, suurempi, työläämmäksi, tärkeämpiä, useampia, Alempi -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV,AUX,INTJ,NOUN,PRON,VERB">1958</feat><!-- ollut, hyvä, saanut, aloitettu, laitettu, pitkä, rauhallinen, päästy, vaihdettu, käynyt -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">1138</feat><!-- hyvä, pitkä, rauhallinen, korkea, oma, vanha, hyvää, huono, omat, uuden -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">45</feat><!-- paras, parasta, suosituin, Parhaat, suurimman, Halutuimpia, Naurettavinta, Suurimmaksi, TURVALLISINTA, alin -->
-    <feat name="Derivation" value="Inen" upos="ADJ,NOUN,PRON">266</feat><!-- toinen, ensimmäinen, limainen, viimeisen, Sentraalisen, ensimmäistä, punainen, aikuinen, entistä, erityisen -->
+    <feat name="Derivation" value="Inen" upos="ADJ,PRON">263</feat><!-- toinen, ensimmäinen, limainen, viimeisen, Sentraalisen, ensimmäistä, punainen, entistä, erityisen, hirmuisen -->
     <feat name="Derivation" value="Inen,Vs" upos="NOUN">15</feat><!-- limaisuutta, Hiljaisuuden, Tulevaisuuden, hiljaisuus, kokonaisuudessaan, kokonaisuuteen, mausteisuus, musikaalisuuden, ominaisuuksia, salaisuus -->
     <feat name="Derivation" value="Ja" upos="NOUN">109</feat><!-- Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, NAISKAMPAAMOTYÖNTEKIJÄIN, NBA-pelaajien, Osallistujat -->
     <feat name="Derivation" value="Lainen" upos="ADJ,NOUN,PROPN">73</feat><!-- tuollainen, jonkinlainen, sellainen, sellaisen, sellaista, suomalaisia, tietynlainen, tällaisia, @Lukiolaiset, Eteläafrikkalaiset -->
@@ -85,13 +85,13 @@
     <feat name="Mood" value="Ind" upos="AUX,NOUN,VERB">1879</feat><!-- on, oli, ole, ovat, voi, saa, tulee, olen, hapettuu, sai -->
     <feat name="Mood" value="Pot" upos="AUX,VERB">5</feat><!-- lienee, kertonee, käynee, voinee -->
     <feat name="Number" value="Plur" upos="ADJ,ADP,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">1937</feat><!-- ovat, omaiset, ne, niitä, eivät, jotka, paineet, he, meidän, nuorten -->
-    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,INTJ,NOUN,NUM,PRON,PROPN,SYM,VERB,X">9857</feat><!-- on, ei, oli, se, diureesi, en, hemodynamiikka, sen, hapetus, hengitys -->
+    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB,X">9855</feat><!-- on, ei, oli, se, diureesi, en, hemodynamiikka, sen, hapetus, hengitys -->
     <feat name="Number[psor]" value="Plur" upos="NOUN,PRON,VERB">27</feat><!-- Hommanamme, epäpuhtautemme, hotellissamme, itsemme, kaupunkilehteemme, koirastamme, kotiovellemme, kropassa, maahamme, merkkaamamme -->
     <feat name="Number[psor]" value="Sing" upos="ADJ,ADP,ADV,NOUN,PRON,VERB">127</feat><!-- elämäni, poikani, itseni, elämäsi, elämästäni, jättämäni, mielestäni, mieltäni, muistaakseni, poikaani -->
     <feat name="NumType" value="Card" upos="NUM">339</feat><!-- 2, 40, yksi, 20, 5, 10, 100, 60, 90, kaksi -->
     <feat name="NumType" value="Ord" upos="ADJ,PRON">63</feat><!-- toinen, 1., ensimmäinen, 2., 14., 3., ensimmäistä, 4., 5., 9. -->
     <feat name="PartForm" value="Agt" upos="VERB">28</feat><!-- jättämäni, kirjoittama, tarvitsema, viemää, esittämä, harjoittama, ideoima, itsetekemä, jättämät, kertomani -->
-    <feat name="PartForm" value="Past" upos="AUX,VERB">661</feat><!-- ollut, saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu -->
+    <feat name="PartForm" value="Past" upos="AUX,VERB">660</feat><!-- ollut, saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu -->
     <feat name="PartForm" value="Pres" upos="ADJ,AUX,VERB">112</feat><!-- olevan, olevansa, edistäviin, koskevat, liittyvistä, näkyvissä, oltava, tapahtuvaa, ymmärtävän, aiheutuvat -->
     <feat name="Person" value="0" upos="AUX,VERB">72</feat><!-- saa, on, voi, pitää, pääsee, hengittelee, käy, oli, tulee, tuntuu -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">361</feat><!-- en, olen, meidän, minun, näin, me, minä, enkä, meillä, minulle -->
@@ -112,20 +112,20 @@
     <feat name="Style" value="Coll" upos="ADJ,ADP,ADV,AUX,CCONJ,INTJ,NOUN,PRON,PROPN,SCONJ,VERB">221</feat><!-- ok, ku, mut, mä, et, oon, sit, tää, mua, mulla -->
     <feat name="Tense" value="Past" upos="AUX,VERB">520</feat><!-- oli, sai, alkoi, laski, näin, tuli, nousi, meni, sain, kertoi -->
     <feat name="Tense" value="Pres" upos="AUX,NOUN,VERB">1356</feat><!-- on, ole, ovat, voi, saa, tulee, olen, hapettuu, löytyy, pitää -->
-    <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,NOUN,NUM,PRON,PROPN,PUNCT,VERB">79</feat><!-- 100.n, 2-luumen, 8, 800eur/kk, Actrpid-, Antauden, Asillainen, Asilliallinen, Bipaille, Diureesii -->
+    <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,NOUN,NUM,PRON,PROPN,PUNCT,VERB">81</feat><!-- 100.n, 2-luumen, 8, 800eur/kk, @SuomenPankki, Actrpid-, Antauden, Asillainen, Asilliallinen, Bipaille -->
     <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">2374</feat><!-- on, ei, oli, ole, en, ovat, voi, saa, eikä, tulee -->
     <feat name="VerbForm" value="Inf" upos="AUX,NOUN,VERB">528</feat><!-- olla, saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, pitää, käymään, olemaan -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">801</feat><!-- ollut, saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu -->
-    <feat name="Voice" value="Act" upos="ADJ,AUX,NOUN,VERB">3055</feat><!-- on, ei, oli, en, ollut, ovat, olla, tulee, eikä, saanut -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">800</feat><!-- ollut, saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,NOUN,VERB">3054</feat><!-- on, ei, oli, en, ollut, ovat, olla, tulee, eikä, saanut -->
     <feat name="Voice" value="Pass" upos="AUX,VERB">452</feat><!-- aloitettu, laitettu, päästy, vaihdettu, lopetettu, nostettu, tehty, jouduttu, käytetty, vähennetty -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="45">
-    <dep name="acl">140</dep>
+    <dep name="acl">142</dep>
     <dep name="acl:relcl">164</dep>
     <dep name="advcl">341</dep>
     <dep name="advmod">1746</dep>
-    <dep name="amod">844</dep>
+    <dep name="amod">842</dep>
     <dep name="appos">88</dep>
     <dep name="aux">543</dep>
     <dep name="aux:pass">41</dep>
@@ -133,8 +133,8 @@
     <dep name="cc">733</dep>
     <dep name="cc:preconj">6</dep>
     <dep name="ccomp">135</dep>
-    <dep name="compound">36</dep>
-    <dep name="compound:nn">67</dep>
+    <dep name="compound">1</dep>
+    <dep name="compound:nn">119</dep>
     <dep name="compound:prt">16</dep>
     <dep name="conj">1046</dep>
     <dep name="cop">403</dep>
@@ -142,13 +142,13 @@
     <dep name="csubj">2</dep>
     <dep name="csubj:cop">21</dep>
     <dep name="dep">1</dep>
-    <dep name="det">285</dep>
+    <dep name="det">284</dep>
     <dep name="discourse">264</dep>
     <dep name="fixed">37</dep>
     <dep name="flat">35</dep>
     <dep name="flat:foreign">34</dep>
     <dep name="flat:name">158</dep>
-    <dep name="goeswith">20</dep>
+    <dep name="goeswith">3</dep>
     <dep name="mark">367</dep>
     <dep name="nmod">242</dep>
     <dep name="nmod:gobj">74</dep>
@@ -157,7 +157,7 @@
     <dep name="nsubj">977</dep>
     <dep name="nsubj:cop">631</dep>
     <dep name="nummod">218</dep>
-    <dep name="obj">999</dep>
+    <dep name="obj">1000</dep>
     <dep name="obl">1581</dep>
     <dep name="orphan">123</dep>
     <dep name="parataxis">350</dep>
