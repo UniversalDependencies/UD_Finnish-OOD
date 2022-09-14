@@ -20045,7 +20045,7 @@
 6	peliin	peli	NOUN	_	Case=Ill|Number=Sing	5	obl	_	_
 7	ja	ja	CCONJ	_	_	11	cc	_	_
 8	olisihan	olla	AUX	_	Clitic=Han|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-9	se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	11	nsubj:cop	_	_
+9	se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	11	obl	_	_
 10	silloin	silloin	ADV	_	_	11	advmod	_	_
 11	kiva	kiva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	conj	_	_
 12	nähdä	nähdä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	11	csubj:cop	_	_
