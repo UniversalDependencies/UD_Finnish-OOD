@@ -18292,7 +18292,7 @@
 14	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	ccomp	_	_
 15	kai	kai	ADV	_	_	17	advmod	_	_
 16	lähinnä	lähinnä	ADV	_	_	17	advmod	_	_
-17	koomaa	kooma	NOUN	_	Case=Par|Number=Sing	14	nsubj:cop	_	_
+17	koomaa	kooma	NOUN	_	Case=Par|Number=Sing	14	dislocated	_	_
 18	ja	ja	CCONJ	_	_	19	cc	_	_
 19	muuta	muu	PRON	_	Case=Par|Number=Sing|PronType=Ind	17	conj	_	_
 20	hakkaatte	hakata	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
@@ -22010,9 +22010,9 @@
 6	lämpimän	lämmin	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
 7	päivän	päivä	NOUN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
 8	janojuomana	jano#juoma	NOUN	_	Case=Ess|Number=Sing	5	obl	_	_
-9	siinä	se	PRON	_	Case=Ine|Number=Sing|PronType=Dem	11	cc	_	_
-10	missä	mikä	PRON	_	Case=Ine|Number=Sing|PronType=Rel	9	fixed	_	_
-11	Vinho	Vinho	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+9	siinä	siinä	ADV	_	_	11	mark	_	_
+10	missä	missä	ADV	_	_	9	fixed	_	_
+11	Vinho	Vinho	PROPN	_	Case=Nom|Number=Sing	5	advcl	_	_
 12	verde	verde	PROPN	_	Case=Nom|Number=Sing	11	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	19	punct	_	_
 14	mutta	mutta	CCONJ	_	_	19	cc	_	_
