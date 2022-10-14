@@ -20966,7 +20966,7 @@
 3	ainoastaan	ainoastaan	ADV	_	_	1	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
 5	että	että	SCONJ	_	_	10	mark	_	_
-6	projektin	projekti	NOUN	_	Case=Gen|Number=Sing	10	nsubj:cop	_	_
+6	projektin	projekti	NOUN	_	Case=Gen|Number=Sing	10	nsubj:outer	_	_
 7	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 8	oltava	olla	AUX	_	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	10	cop	_	_
 9	nuorten	nuori	NOUN	_	Case=Gen|Number=Plur	10	nsubj	_	_
