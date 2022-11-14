@@ -18292,7 +18292,7 @@
 14	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	ccomp	_	_
 15	kai	kai	ADV	_	_	17	advmod	_	_
 16	lähinnä	lähinnä	ADV	_	_	17	advmod	_	_
-17	koomaa	kooma	NOUN	_	Case=Par|Number=Sing	14	nsubj:cop	_	_
+17	koomaa	kooma	NOUN	_	Case=Par|Number=Sing	14	dislocated	_	_
 18	ja	ja	CCONJ	_	_	19	cc	_	_
 19	muuta	muu	PRON	_	Case=Par|Number=Sing|PronType=Ind	17	conj	_	_
 20	hakkaatte	hakata	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
@@ -20045,7 +20045,7 @@
 6	peliin	peli	NOUN	_	Case=Ill|Number=Sing	5	obl	_	_
 7	ja	ja	CCONJ	_	_	11	cc	_	_
 8	olisihan	olla	AUX	_	Clitic=Han|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-9	se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	11	nsubj:cop	_	_
+9	se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	11	obl	_	_
 10	silloin	silloin	ADV	_	_	11	advmod	_	_
 11	kiva	kiva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	conj	_	_
 12	nähdä	nähdä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	11	csubj:cop	_	_
@@ -20966,7 +20966,7 @@
 3	ainoastaan	ainoastaan	ADV	_	_	1	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
 5	että	että	SCONJ	_	_	10	mark	_	_
-6	projektin	projekti	NOUN	_	Case=Gen|Number=Sing	10	nsubj:cop	_	_
+6	projektin	projekti	NOUN	_	Case=Gen|Number=Sing	10	nsubj:outer	_	_
 7	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 8	oltava	olla	AUX	_	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	10	cop	_	_
 9	nuorten	nuori	NOUN	_	Case=Gen|Number=Plur	10	nsubj	_	_
@@ -22010,9 +22010,9 @@
 6	lämpimän	lämmin	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
 7	päivän	päivä	NOUN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
 8	janojuomana	jano#juoma	NOUN	_	Case=Ess|Number=Sing	5	obl	_	_
-9	siinä	se	PRON	_	Case=Ine|Number=Sing|PronType=Dem	11	cc	_	_
-10	missä	mikä	PRON	_	Case=Ine|Number=Sing|PronType=Rel	9	fixed	_	_
-11	Vinho	Vinho	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+9	siinä	siinä	ADV	_	_	11	mark	_	_
+10	missä	missä	ADV	_	_	9	fixed	_	_
+11	Vinho	Vinho	PROPN	_	Case=Nom|Number=Sing	5	advcl	_	_
 12	verde	verde	PROPN	_	Case=Nom|Number=Sing	11	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	19	punct	_	_
 14	mutta	mutta	CCONJ	_	_	19	cc	_	_
