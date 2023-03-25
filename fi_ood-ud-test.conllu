@@ -9661,7 +9661,7 @@
 5	sitten	sitten	ADV	_	_	6	advmod	_	_
 6	juttelee	jutella	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 7	😉	😉	SYM	_	_	1	discourse	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=\s\s
+8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\s\s
 
 # LpsRaita
 # Mon Feb 12 16:51:52 +0000 2018
@@ -10657,7 +10657,7 @@
 3	JA	ja	CCONJ	_	_	4	cc	_	_
 4	NAISKAMPAAMOTYÖNTEKIJÄIN	nais#kampaamo#työntekijä	NOUN	_	Case=Gen|Derivation=Ja|Number=Plur|Style=Arch	2	conj	_	_
 5	LIITTO	liitto	NOUN	_	Case=Nom|Number=Sing	6	compound:nn	_	_
-6	R.Y.	r.y.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	SpaceAfter=\n\n
+6	R.Y.	r.y.	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n\n
 
 # Rayhapetteri
 # Sat Mar 31 13:09:42 +0000 2018
@@ -11645,7 +11645,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	temppu-trampoliinia	temppu#trampoliini	NOUN	_	Case=Par|Number=Sing	4	conj	_	_
 12	yms	yms.	ADV	_	_	4	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=\n\n
+13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # jaskaalanne36
 # Tue May 22 19:56:55 +0000 2018
@@ -12709,14 +12709,14 @@
 12	koskaan	koskaan	ADV	_	_	13	advmod	_	_
 13	ajatellut	ajatella	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	8	acl:relcl	_	_
 14	saavani	saada	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|PartForm=Pres|Person[psor]=1|VerbForm=Part|Voice=Act	13	xcomp	_	SpaceAfter=No
-15	!!	!!	PUNCT	_	_	3	punct	_	SpaceAfter=\n
+15	!!	!!	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = thread7.7
 # text = Mitä voisi tarkoittaa??
 1	Mitä	mikä	PRON	_	Case=Par|Number=Sing|PronType=Int	3	obj	_	_
 2	voisi	voida	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	tarkoittaa	tarkoittaa	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
-4	??	??	PUNCT	_	_	3	punct	_	SpaceAfter=\n
+4	??	??	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # thread_id = 6840048
 # comment_id = 35898998
@@ -16130,7 +16130,7 @@
 2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	mahdoton	mahdoton	ADJ	_	Case=Nom|Degree=Pos|Derivation=Ton|Number=Sing	0	root	_	SpaceAfter=No
 4	....	....	PUNCT	_	_	3	punct	_	SpaceAfter=No
-5	))))))	))))))	PUNCT	_	_	3	punct	_	SpaceAfter=\n
+5	))))))	))))))	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # thread_id = 12294925
 # comment_id = 68216232
@@ -16273,7 +16273,7 @@
 2	kaipaus	kaipaus	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	rinnassa	rinta	NOUN	_	Case=Ine|Number=Sing	4	obl	_	_
 4	pallaa	palaa	VERB	_	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	!!!	!!!	PUNCT	_	_	4	punct	_	SpaceAfter=\n
+5	!!!	!!!	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # thread_id = 6558935
 # comment_id = 34393571
@@ -16282,7 +16282,7 @@
 # text = kiitos kovasti:)
 1	kiitos	kiitos	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	kovasti	kovasti	ADV	_	Derivation=Sti	1	advmod	_	SpaceAfter=No
-3	:)	:)	SYM	_	_	1	discourse	_	SpaceAfter=\n
+3	:)	:)	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
 # thread_id = 11782123
 # comment_id = 66096219
