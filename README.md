@@ -26,7 +26,16 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 
 ## References
 
-* (citation)
+```
+@inproceedings{kanerva-2022-ood,
+    title = "Out-of-Domain Evaluation of Finnish Dependency Parsing",
+    author = {Kanerva, Jenna and Ginter, Filip},
+    booktitle = "Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC'22)",
+    year = "2022",
+    pages = "1114‑-1124",
+    url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
+}
+```
 
 
 # Changelog
