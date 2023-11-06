@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Finnish-OOD:
-commit 71a469492609b9ca8ed66ba4edb14614d3777f21
-Merge: e8f835a b451e25
+commit 3db9efbae3eeb6c7ef585b74700115d331651336
+Merge: f5af20f 2b093ed
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 19382 of 19382 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.92868960062472.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        441
-Udapi: found 441 bugs.
+               TOTAL        440
+Udapi: found 440 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 19382 words.
 Genres: found 4 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fi --max-err=10 UD_Finnish-OOD/fi_ood-ud-test.conllu
@@ -33,8 +33,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.429132863078085) = 0.110034067455919
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.772469301413683) = 0.237682861973441
+(weight=0.307692307692308) * (score{udapi}=0.772985244040863) = 0.237841613551035
 (weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.671499897918211) * (availability=1) * (validity=1) = 0.671499897918211
+(TOTAL score=0.671658649495805) * (availability=1) * (validity=1) = 0.671658649495805
 STARS = 3.5
-UD_Finnish-OOD	0.671499897918211	3.5
+UD_Finnish-OOD	0.671658649495805	3.5
