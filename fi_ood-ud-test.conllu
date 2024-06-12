@@ -5467,7 +5467,7 @@
 # sent_id = cl002.101
 1	Kyennyt	kyetä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	olemaan	olla	AUX	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	cop	_	SENSE=0
-3	Bipap-maskilla	bipap#maski	NOUN	_	Case=Ade|Number=Sing	1	xcomp	_	Gen_desc=hengityskoneen_ohjelma_maski|hengityskone-maskilla
+3	Bipap-maskilla	bipap#maski	NOUN	_	Case=Ade|Number=Sing	1	xcomp	_	Gen_desc=hengityskoneen_ohjelma_maski|Gen=hengityskone-maskilla
 4	helpommin	helposti	ADV	_	Degree=Cmp|Derivation=Sti	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	välillä	välillä	ADV	_	_	7	advmod	_	_
