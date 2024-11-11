@@ -5467,7 +5467,7 @@
 # sent_id = cl002.101
 1	Kyennyt	kyetä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	olemaan	olla	AUX	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	cop	_	SENSE=0
-3	Bipap-maskilla	bipap#maski	NOUN	_	Case=Ade|Number=Sing	1	xcomp	_	Gen_desc=hengityskoneen_ohjelma_maski|hengityskone-maskilla
+3	Bipap-maskilla	bipap#maski	NOUN	_	Case=Ade|Number=Sing	1	xcomp	_	Gen_desc=hengityskoneen_ohjelma_maski|Gen=hengityskone-maskilla
 4	helpommin	helposti	ADV	_	Degree=Cmp|Derivation=Sti	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	välillä	välillä	ADV	_	_	7	advmod	_	_
@@ -21471,7 +21471,7 @@
 
 # sent_id = web10.4
 # text = – Meidän piti alun perin olla perillä puolenyön aikaan, mutta lentokone oli liian pieni, eivätkä varusteet mahtuneet ruumaan.
-1	–	–	PUNCT	_	_	7	punct	_	SpacesAfter=
+1	–	–	PUNCT	_	_	7	punct	_	_
 2	Meidän	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nsubj:cop	_	_
 3	piti	pitää	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
 4	alun	alun	ADV	_	_	7	advmod	_	_
@@ -21520,7 +21520,7 @@
 
 # sent_id = web10.6
 # text = – Lopulta osa tavaroista otettiin koneen sisälle käytäville ja pääsimme matkaan.
-1	–	–	PUNCT	_	_	5	punct	_	SpacesAfter=
+1	–	–	PUNCT	_	_	5	punct	_	_
 2	Lopulta	lopulta	ADV	_	_	5	advmod	_	_
 3	osa	osa	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 4	tavaroista	tavara	NOUN	_	Case=Ela|Number=Plur	3	nmod	_	_
@@ -21554,7 +21554,7 @@
 
 # sent_id = web10.8
 # text = – Olimme selvästi huonompia kuin Sibir.
-1	–	–	PUNCT	_	_	4	punct	_	SpacesAfter=
+1	–	–	PUNCT	_	_	4	punct	_	_
 2	Olimme	olla	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
 3	selvästi	selvästi	ADV	_	Derivation=Sti	4	advmod	_	_
 4	huonompia	huono	ADJ	_	Case=Par|Degree=Cmp|Number=Plur	0	root	_	_
@@ -21595,7 +21595,7 @@
 
 # sent_id = web10.11
 # text = – Meidän ruotsalaispelaajiamme sen sijaan ei edes huomaa kentällä.
-1	–	–	PUNCT	_	_	8	punct	_	SpacesAfter=
+1	–	–	PUNCT	_	_	8	punct	_	_
 2	Meidän	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod:poss	_	_
 3	ruotsalaispelaajiamme	ruotsalais#pelaaja	NOUN	_	Case=Par|Derivation=Ja|Number=Plur|Number[psor]=Plur|Person[psor]=1	8	obj	_	_
 4	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	obl	_	_
@@ -21668,7 +21668,7 @@
 
 # sent_id = web10.16
 # text = – Paljon on meillä vielä tekemistä.
-1	–	–	PUNCT	_	_	4	punct	_	SpacesAfter=
+1	–	–	PUNCT	_	_	4	punct	_	_
 2	Paljon	paljon	ADV	_	_	4	advmod	_	_
 3	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop:own	_	_
 4	meillä	minä	PRON	_	Case=Ade|Number=Plur|Person=1|PronType=Prs	0	root	_	_
@@ -21686,7 +21686,7 @@
 
 # sent_id = web10.18
 # text = – Pelaajat saivat varusteet päivää ennen ensimmäistä peliä.
-1	–	–	PUNCT	_	_	3	punct	_	SpacesAfter=
+1	–	–	PUNCT	_	_	3	punct	_	_
 2	Pelaajat	pelaaja	NOUN	_	Case=Nom|Derivation=Ja|Number=Plur	3	nsubj	_	_
 3	saivat	saada	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	varusteet	varuste	NOUN	_	Case=Nom|Number=Plur	3	obj	_	_
