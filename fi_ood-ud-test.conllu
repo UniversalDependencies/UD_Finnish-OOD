@@ -1819,8 +1819,8 @@
 # text = Jonkin verran nukkunut, pitkiä toveja pitää silmiään auki.
 # doc_id =  cl001.d.xml
 # sent_id = cl001.194
-1	Jonkin	jokin	PRON	_	Case=Gen|Number=Sing|PronType=Ind	3	advmod	_	_
-2	verran	verran	ADV	_	_	1	fixed	_	_
+1	Jonkin	jokin	PRON	_	Case=Gen|Number=Sing|PronType=Ind	2	nmod:poss	_	_
+2	verran	verran	ADV	_	_	3	advmod	_	_
 3	nukkunut	nukkua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	pitkiä	pitkä	ADJ	_	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
@@ -2035,8 +2035,8 @@
 1	Retentoi	retentoida	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gen=Kertyy
 2	edelleen	edelleen	ADV	_	_	1	advmod	_	_
 3	hiilidioksidia	hiili#dioksidi	NOUN	_	Case=Par|Number=Sing	1	obj	_	_
-4	jonkin	jokin	PRON	_	Case=Gen|Number=Sing|PronType=Ind	1	advmod	_	_
-5	verran	verran	ADV	_	_	4	fixed	_	SpaceAfter=No
+4	jonkin	jokin	PRON	_	Case=Gen|Number=Sing|PronType=Ind	5	nmod:poss	_	_
+5	verran	verran	ADV	_	_	1	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # text = Saturaatio 92-96.
@@ -15757,8 +15757,8 @@
 4	olemaan	olla	AUX	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	cop:own	_	_
 5	muitakin	muu	PRON	_	Case=Par|Clitic=Kin|Number=Plur|PronType=Ind	6	det	_	_
 6	puheenaiheita	puheen#aihe	NOUN	_	Case=Par|Number=Plur	1	nsubj:cop	_	_
-7	ku	kun	SCONJ	_	Style=Coll	8	mark	_	_
-8	lapset	lapsi	NOUN	_	Case=Nom|Number=Plur	5	advcl	_	SpaceAfter=No
+7	ku	kuin	SCONJ	_	Style=Coll	8	mark	_	_
+8	lapset	lapsi	NOUN	_	Case=Nom|Number=Plur	6	advcl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	14	punct	_	SpaceAfter=No
 10	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	14	aux	_	_
 11	lapsettomat	lapseton	ADJ	_	Case=Nom|Degree=Pos|Derivation=Ton|Number=Plur	12	amod	_	_
@@ -15776,7 +15776,7 @@
 23	,	,	PUNCT	_	_	25	punct	_	SpaceAfter=No
 24	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	25	aux	_	_
 25	lässytä	lässyttää	VERB	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	20	conj	_	_
-26	ku	kun	SCONJ	_	Style=Coll	27	mark	_	_
+26	ku	kuin	SCONJ	_	Style=Coll	27	mark	_	_
 27	vauvalle	vauva	NOUN	_	Case=All|Number=Sing	25	advcl	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -19796,8 +19796,8 @@
 4	jaksanutkin	jaksaa	VERB	_	Case=Nom|Clitic=Kin|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	mutta	mutta	CCONJ	_	_	11	cc	_	_
-7	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	11	advmod	_	_
-8	verran	verran	ADV	_	_	7	fixed	_	_
+7	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	nmod:poss	_	_
+8	verran	verran	ADV	_	_	11	advmod	_	_
 9	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
 10	elämä	elämä	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
 11	opettanut	opettaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	conj	_	SpaceAfter=No
@@ -24687,8 +24687,8 @@
 2	hetkellä	hetki	NOUN	_	Case=Ade|Number=Sing	4	obl	_	_
 3	olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	löytänyt	löytää	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	advmod	_	_
-6	verran	verran	ADV	_	_	5	fixed	_	_
+5	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	6	nmod:poss	_	_
+6	verran	verran	ADV	_	_	8	advmod	_	_
 7	tasaista	tasainen	ADJ	_	Case=Par|Degree=Pos|Derivation=Inen|Number=Sing	8	amod	_	_
 8	maata	maa	NOUN	_	Case=Par|Number=Sing	4	obj	_	_
 9	jalkojeni	jalka	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	obl	_	_
@@ -25166,7 +25166,7 @@
 
 # sent_id = web21.17
 # text = Kaiken kaikkiaan vähittäismyynti lisääntyi sadan prosentin alkoholiksi muunnettuna 8,8 prosenttia ja anniskelumyynti väheni 3,8 prosenttia.
-1	Kaiken	kaikki	PRON	_	Case=Gen|Number=Sing|PronType=Ind	4	advmod	_	_
+1	Kaiken	kaiken	ADV	_	_	4	advmod	_	_
 2	kaikkiaan	kaikkiaan	ADV	_	_	1	fixed	_	_
 3	vähittäismyynti	vähittäis#myynti	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 4	lisääntyi	lisääntyä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -27290,7 +27290,7 @@
 7	kuin	kuin	SCONJ	_	_	10	mark	_	_
 8	esimerkiksi	esimerkiksi	ADV	_	_	10	advmod	_	_
 9	Helsingin	Helsinki	PROPN	_	Case=Gen|Number=Sing	10	nmod:poss	_	_
-10	Uutiset	uutinen	NOUN	_	Case=Nom|Number=Plur	5	advcl	_	_
+10	Uutiset	uutinen	NOUN	_	Case=Nom|Number=Plur	6	advcl	_	_
 11	ja	ja	CCONJ	_	_	12	cc	_	_
 12	Tamperelainen	Tamperelainen	PROPN	_	Case=Nom|Number=Sing	10	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
