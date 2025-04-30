@@ -3878,7 +3878,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.431
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Vieroiteltu aamulla kendall-kostukselle, jossa pärjännyt pari tuntia.
 # doc_id =  cl001.d.xml
@@ -3928,7 +3928,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.436
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Hemodynaamisesti stabiili.
 # doc_id =  cl001.d.xml
@@ -3940,7 +3940,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.438
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Tajunta ok, täysin ko-operoiva.
 # doc_id =  cl001.d.xml
@@ -3955,7 +3955,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.440
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Diureesi hieman niukkaa.
 # doc_id =  cl001.d.xml
@@ -3968,7 +3968,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.442
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Vatsa toiminut runsaasti X2.
 # doc_id =  cl001.d.xml
@@ -3982,7 +3982,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.444
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Sisko käynyt
 # doc_id =  cl001.d.xml
@@ -4281,7 +4281,7 @@
 # text = LIST
 # doc_id =  cl001.d.xml
 # sent_id = cl001.478
-1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko
+1	LIST	LIST	X	_	Foreign=Yes	0	root	_	Gen_desc=puuttuva_otsikko|OrigLang=en
 
 # text = Yritetty aamulla kendall-kostukselle, jaksanut taas n. 2 tuntia jonka jälkeen hengitys pinnallisemmaksi.
 # doc_id =  cl001.d.xml
@@ -5178,7 +5178,7 @@
 1	Yöksi	yö	NOUN	_	Case=Tra|Number=Sing	3	orphan	_	_
 2	30	30	NUM	_	NumType=Card	3	nummod	_	_
 3	mg	mg	NOUN	_	Abbr=Yes|Case=Par|Number=Sing	0	root	_	Gen=milligrammaa
-4	Opamoxia	Opamox	PROPN	_	Foreign=Yes	3	nmod	_	Gen=lääkettä
+4	Opamoxia	Opamox	PROPN	_	Case=Par|Number=Sing	3	nmod	_	Gen=lääkettä
 5	po.	po.	ADV	_	Abbr=Yes	3	orphan	_	Gen=oraalisesti|Gen_desc=suun_kautta
 
 # text = Pitkä yövuoro/
@@ -9151,9 +9151,9 @@
 2	metsämaisema	metsä#maisema	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 4	#luontokuva	#luonto#kuva	NOUN	_	Case=Nom|Number=Sing	2	discourse	_	_
-5	#photography	#photography	X	_	Foreign=Yes	2	discourse	_	_
+5	#photography	#photography	X	_	Foreign=Yes	2	discourse	_	OrigLang=en
 6	#luonto	#luonto	NOUN	_	Case=Nom|Number=Sing	2	discourse	_	_
-7	#nature	#nature	X	_	Foreign=Yes	2	discourse	_	_
+7	#nature	#nature	X	_	Foreign=Yes	2	discourse	_	OrigLang=en
 8	#luontotwiitti	#luonto#twiitti	NOUN	_	Case=Nom|Number=Sing	2	discourse	_	_
 9	#kuvakulma	#kuva#kulma	NOUN	_	Case=Nom|Number=Sing	2	discourse	_	_
 10	#metsä	#metsä	NOUN	_	Case=Nom|Number=Sing	2	discourse	_	_
@@ -9195,7 +9195,7 @@
 # text = - Veri good
 1	-	-	PUNCT	_	_	2	punct	_	_
 2	Veri	veri	NOUN	_	Case=Nom|Number=Sing	0	root	_	Note=check
-3	good	good	X	_	Foreign=Yes	2	flat:foreign	_	SpacesAfter=\n\n
+3	good	good	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpacesAfter=\n\n
 
 # VFXVBS
 # Wed Jan 17 15:07:15 +0000 2018
@@ -9205,8 +9205,8 @@
 1	Tykkäsin	tykätä	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	@YouTube-videosta	@YouTube#video	NOUN	_	Case=Ela|Number=Sing	1	obl	_	Note=embedded
 3	https://t.co/rL8wRHoYdJ	https://t.co/rL8wRHoYdJ	SYM	_	_	2	appos	_	_
-4	Avail	Avail	X	_	Foreign=Yes	2	appos	_	_
-5	Cams	Cams	X	_	Foreign=Yes	4	flat:foreign	_	_
+4	Avail	Avail	X	_	Foreign=Yes	2	appos	_	OrigLang=en
+5	Cams	Cams	X	_	Foreign=Yes	4	flat:foreign	_	OrigLang=en
 6	#1	#1	NUM	_	NumType=Card	4	flat:foreign	_	SpacesAfter=\n\n
 
 # loimutyopaikat
@@ -9603,7 +9603,7 @@
 11	ennen	ennen	ADP	_	AdpType=Prep	12	case	_	_
 12	maaliskuuta	maaliskuu	NOUN	_	Case=Par|Number=Sing	6	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
-14	#passion	#passion	X	_	Foreign=Yes	6	discourse	_	_
+14	#passion	#passion	X	_	Foreign=Yes	6	discourse	_	OrigLang=en
 15	https://t.co/52KvCFwEqu	https://t.co/52KvCFwEqu	SYM	_	_	6	discourse	_	SpacesAfter=\n\n
 
 # StarckTii
@@ -9769,16 +9769,16 @@
 1	Antti	Antti	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 2	pitkospuilla	pitkos#puut	NOUN	_	Case=Ade|Number=Plur	1	orphan	_	_
 3	#suomenlapinkoira	#suomen#lapin#koira	NOUN	_	Case=Nom|Number=Sing	1	discourse	_	_
-4	#finnishlapphund	#finnishlapphund	X	_	Foreign=Yes	1	discourse	_	_
+4	#finnishlapphund	#finnishlapphund	X	_	Foreign=Yes	1	discourse	_	OrigLang=en
 5	#koira	#koira	NOUN	_	Case=Nom|Number=Sing	1	discourse	_	_
-6	#dog	#dog	X	_	Foreign=Yes	1	discourse	_	_
+6	#dog	#dog	X	_	Foreign=Yes	1	discourse	_	OrigLang=en
 7	#pitkospuut	#pitkos#puut	NOUN	_	Case=Nom|Number=Plur	1	discourse	_	_
 8	#luontopolku	#luonto#polku	NOUN	_	Case=Nom|Derivation=U|Number=Sing	1	discourse	_	_
 9	#metsä	#metsä	NOUN	_	Case=Nom|Number=Sing	1	discourse	_	_
-10	#forest	#forest	X	_	Foreign=Yes	1	discourse	_	_
-11	#nature	#nature	X	_	Foreign=Yes	1	discourse	_	_
+10	#forest	#forest	X	_	Foreign=Yes	1	discourse	_	OrigLang=en
+11	#nature	#nature	X	_	Foreign=Yes	1	discourse	_	OrigLang=en
 12	#suomi100	#suomi100	PROPN	_	Case=Nom|Number=Sing	1	discourse	_	Note=check
-13	#finland100	#finland100	X	_	Foreign=Yes	1	discourse	_	_
+13	#finland100	#finland100	X	_	Foreign=Yes	1	discourse	_	OrigLang=en
 14	https://t.co/D8Utzcs66V	https://t.co/D8Utzcs66V	SYM	_	_	1	discourse	_	SpacesAfter=\n\n
 
 # Rakettitiede
@@ -9910,8 +9910,8 @@
 23	tää	tämä	PRON	_	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	26	nsubj:cop	_	_
 24	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	_
 25	kyl	kyllä	ADV	_	Style=Coll	26	advmod	_	_
-26	next	next	X	_	Foreign=Yes	2	parataxis	_	_
-27	level	level	X	_	Foreign=Yes	26	flat:foreign	_	SpacesAfter=\n\n
+26	next	next	X	_	Foreign=Yes	2	parataxis	_	OrigLang=en
+27	level	level	X	_	Foreign=Yes	26	flat:foreign	_	OrigLang=en|SpacesAfter=\n\n
 
 # valtteritervala
 # Thu Feb 16 08:34:17 +0000 2017
@@ -10100,8 +10100,8 @@
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	niimpäniin	niimpäniin	PROPN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 3	"	"	PUNCT	_	_	2	punct	_	_
-4	was	was	X	_	Foreign=Yes	2	parataxis	_	_
-5	banned	banned	X	_	Foreign=Yes	4	flat:foreign	_	_
+4	was	was	X	_	Foreign=Yes	2	parataxis	_	OrigLang=en
+5	banned	banned	X	_	Foreign=Yes	4	flat:foreign	_	OrigLang=en
 6	-	-	PUNCT	_	_	2	punct	_	_
 7	https://t.co/wVS8KW805n	https://t.co/wVS8KW805n	SYM	_	_	2	discourse	_	SpacesAfter=\n\n
 
@@ -10169,7 +10169,7 @@
 5	naisen	nainen	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
 6	unelma	unelma	NOUN	_	Case=Nom|Number=Sing	2	appos	_	_
 7	https://t.co/zxCJPunKol	https://t.co/zxCJPunKol	SYM	_	_	2	discourse	_	_
-8	on	on	X	_	Foreign=Yes	9	dep	_	Note=check
+8	on	on	X	_	Foreign=Yes	9	dep	_	Note=check|OrigLang=en
 9	@bloglovin	@bloglovin	PROPN	_	Case=Nom|Number=Sing	2	discourse	_	SpacesAfter=\n\n
 
 # kallewiik
@@ -10527,7 +10527,7 @@
 25	...	...	PUNCT	_	_	24	punct	_	_
 26	poro	poro	X	_	Case=Nom|Number=Sing	13	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
-28	#nevöföget	#nevöföget	X	_	Foreign=Yes	2	discourse	_	SpacesAfter=\n\n
+28	#nevöföget	#nevöföget	X	_	_	2	discourse	_	SpacesAfter=\n\n
 
 # Kulttuurisi
 # Sun Jul 30 05:29:26 +0000 2017
@@ -10876,8 +10876,8 @@
 11	olisi	olla	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	13	aux	_	_
 12	voinut	voida	AUX	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	13	aux	_	_
 13	tehdä	tehdä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	conj	_	_
-14	Control	Control	X	_	Foreign=Yes	15	compound:nn	_	_
-15	mapit	map	NOUN	_	Case=Nom|Number=Plur	13	obj	_	_
+14	Control	Control	X	_	Foreign=Yes	15	compound	_	OrigLang=en
+15	mapit	map	NOUN	_	Case=Nom|Number=Plur	13	obj	_	OrigLang=en
 16	vielä	vielä	ADV	_	_	17	advmod	_	_
 17	helpommiksi	helppo	ADJ	_	Case=Tra|Degree=Cmp|Number=Plur	13	xcomp:ds	_	_
 18	https://t.co/tlIFdmkhYx	https://t.co/tlIFdmkhYx	SYM	_	_	2	discourse	_	SpacesAfter=\n\n
@@ -16312,11 +16312,11 @@
 # newdoc id = thread51
 # sent_id = thread51.1
 # text = Easy CD Creator 5 Platinium http://www.roxio.de/english/products/ecdc5/index.html
-1	Easy	Easy	X	_	Foreign=Yes	0	root	_	_
-2	CD	CD	X	_	Foreign=Yes	1	flat:foreign	_	_
-3	Creator	Creator	X	_	Case=Nom|Number=Sing	1	flat:foreign	_	_
-4	5	5	NUM	_	NumType=Card	1	flat:foreign	_	_
-5	Platinium	Platinium	X	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
+1	Easy	Easy	X	_	Foreign=Yes	0	root	_	OrigLang=en
+2	CD	CD	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en
+3	Creator	Creator	X	_	Case=Nom|Number=Sing	1	flat:foreign	_	OrigLang=en
+4	5	5	NUM	_	NumType=Card	1	nmod	_	_
+5	Platinium	Platinium	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en|SpacesAfter=\n
 6	http://www.roxio.de/english/products/ecdc5/index.html	http://www.roxio.de/english/products/ecdc5/index.html	SYM	_	_	1	discourse	_	SpacesAfter=\n
 
 # doc_id = poem1
@@ -17730,10 +17730,10 @@
 
 # sent_id = poem2.48
 # text = HERAUS! RAUSIM SATAN!
-1	HERAUS	heraus	X	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+1	HERAUS	HERAUS	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	_	_
-3	RAUSIM	rausim	X	_	Foreign=Yes	1	flat:foreign	_	note=pidgin_english_karkottaa
-4	SATAN	satan	X	_	Case=Nom|Number=Sing	1	flat:foreign	_	SpaceAfter=No
+3	RAUSIM	RAUSIM	X	_	Foreign=Yes	1	flat:foreign	_	note=pidgin_english_karkottaa
+4	SATAN	SATAN	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # sent_id = poem2.49
@@ -20518,8 +20518,8 @@
 # text = Jollain vahtikeikalla pro bono -hengessä eräältä juhlijalta löytyi jääpiikit.
 1	Jollain	jokin	PRON	_	Case=Ade|Number=Sing|PronType=Ind	2	det	_	_
 2	vahtikeikalla	vahti#keikka	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
-3	pro	pro	X	_	Foreign=Yes	5	compound:nn	_	_
-4	bono	bono	X	_	Foreign=Yes	3	flat:name	_	_
+3	pro	pro	X	_	Foreign=Yes	5	compound	_	OrigLang=la
+4	bono	bono	X	_	Foreign=Yes	3	flat:foreign	_	OrigLang=la
 5	-hengessä	henki	NOUN	_	Case=Ine|Number=Sing	8	obl	_	_
 6	eräältä	eräs	PRON	_	Case=Abl|Number=Sing|PronType=Ind	7	det	_	_
 7	juhlijalta	juhlija	NOUN	_	Case=Abl|Derivation=Ja|Number=Sing	8	obl	_	_
@@ -22197,13 +22197,13 @@
 # newdoc id = web12
 # sent_id = web12.1
 # text = Social Icons
-1	Social	Social	X	_	Foreign=Yes	0	root	_	_
-2	Icons	Icons	X	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
+1	Social	Social	X	_	Foreign=Yes	0	root	_	OrigLang=en
+2	Icons	Icons	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en|SpacesAfter=\n
 
 # sent_id = web12.2
 # text = Post navigation
-1	Post	Post	X	_	Foreign=Yes	0	root	_	_
-2	navigation	navigation	X	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
+1	Post	Post	X	_	Foreign=Yes	0	root	_	OrigLang=en
+2	navigation	navigation	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en|SpacesAfter=\n
 
 # sent_id = web12.3
 # text = Ei edes lihapullia saanut
@@ -22843,14 +22843,14 @@
 # sent_id = web14.5
 # text = [quote author="Vierailija" time="05.05.2008 klo 18:29"]
 1	[	[	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	quote	quote	X	_	Foreign=Yes	0	root	_	_
-3	author	author	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+2	quote	quote	X	_	Foreign=Yes	0	root	_	OrigLang=en
+3	author	author	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpaceAfter=No
 4	=	=	PUNCT	_	_	2	punct	_	SpaceAfter=No
 5	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 6	Vierailija	vierailija	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	2	obl	_	SpaceAfter=No
 7	"	"	PUNCT	_	_	2	punct	_	_
-8	time	time	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
-9	=	=	SYM	_	_	2	flat:foreign	_	SpaceAfter=No
+8	time	time	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpaceAfter=No
+9	=	=	SYM	_	_	2	obl	_	SpaceAfter=No
 10	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 11	05.05.2008	05.05.2008	NUM	_	_	2	obl	_	_
 12	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	11	nmod	_	_
@@ -22948,14 +22948,14 @@
 # sent_id = web14.11
 # text = [quote author="Vierailija" time="05.05.2008 klo 18:53"]
 1	[	[	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	quote	quote	X	_	Foreign=Yes	0	root	_	_
-3	author	author	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+2	quote	quote	X	_	Foreign=Yes	0	root	_	OrigLang=en
+3	author	author	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpaceAfter=No
 4	=	=	PUNCT	_	_	2	punct	_	SpaceAfter=No
 5	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 6	Vierailija	vierailija	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	2	obl	_	SpaceAfter=No
 7	"	"	PUNCT	_	_	2	punct	_	_
-8	time	time	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
-9	=	=	SYM	_	_	2	flat:foreign	_	SpaceAfter=No
+8	time	time	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpaceAfter=No
+9	=	=	SYM	_	_	2	obl	_	SpaceAfter=No
 10	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 11	05.05.2008	05.05.2008	NUM	_	_	2	obl	_	_
 12	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	11	nmod	_	_
@@ -23014,14 +23014,14 @@
 # sent_id = web14.16
 # text = [quote author="Vierailija" time="05.05.2008 klo 20:56"]
 1	[	[	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	quote	quote	X	_	Foreign=Yes	0	root	_	_
-3	author	author	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+2	quote	quote	X	_	Foreign=Yes	0	root	_	OrigLang=en
+3	author	author	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpaceAfter=No
 4	=	=	PUNCT	_	_	2	punct	_	SpaceAfter=No
 5	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 6	Vierailija	vierailija	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	2	obl	_	SpaceAfter=No
 7	"	"	PUNCT	_	_	2	punct	_	_
-8	time	time	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
-9	=	=	SYM	_	_	2	flat:foreign	_	SpaceAfter=No
+8	time	time	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpaceAfter=No
+9	=	=	SYM	_	_	2	obl	_	SpaceAfter=No
 10	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 11	05.05.2008	05.05.2008	NUM	_	_	2	obl	_	_
 12	klo	klo	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	11	nmod	_	_
@@ -23854,7 +23854,7 @@
 # newdoc id = web18
 # sent_id = web18.1
 # text = Blog
-1	Blog	Blog	X	_	Foreign=Yes	0	root	_	SpacesAfter=\n
+1	Blog	Blog	X	_	Foreign=Yes	0	root	_	OrigLang=en|SpacesAfter=\n
 
 # sent_id = web18.2
 # text = JavaScript – Vuoden 2014 ohjelmointikieli
@@ -25636,8 +25636,8 @@
 # sent_id = web23.2
 # text = Moderni All Inclusive -hotelli rannalla
 1	Moderni	moderni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
-2	All	All	X	_	Foreign=Yes	4	compound:nn	_	_
-3	Inclusive	Inclusive	X	_	Foreign=Yes	2	flat:foreign	_	_
+2	All	All	X	_	Foreign=Yes	4	compound	_	OrigLang=en
+3	Inclusive	Inclusive	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en
 4	-hotelli	hotelli	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	rannalla	ranta	NOUN	_	Case=Ade|Number=Sing	4	orphan	_	SpacesAfter=\n
 
@@ -25677,8 +25677,8 @@
 
 # sent_id = web23.5
 # text = All Inclusive sisältyy hintaan ja hotellilta löytyy aktiviteetteja kaiken ikäisille.
-1	All	All	X	_	Foreign=Yes	3	nsubj	_	_
-2	Inclusive	Inclusive	X	_	Foreign=Yes	1	flat:foreign	_	_
+1	All	All	X	_	Foreign=Yes	3	nsubj	_	OrigLang=en
+2	Inclusive	Inclusive	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en
 3	sisältyy	sisältyä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	hintaan	hinta	NOUN	_	Case=Ill|Number=Sing	3	obl	_	_
 5	ja	ja	CCONJ	_	_	7	cc	_	_
@@ -25764,8 +25764,8 @@
 
 # sent_id = web23.15
 # text = All Inclusive sisältyy hintaan!
-1	All	All	X	_	Foreign=Yes	3	nsubj	_	_
-2	Inclusive	Inclusive	X	_	Foreign=Yes	1	flat:foreign	_	_
+1	All	All	X	_	Foreign=Yes	3	nsubj	_	OrigLang=en
+2	Inclusive	Inclusive	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en
 3	sisältyy	sisältyä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	hintaan	hinta	NOUN	_	Case=Ill|Number=Sing	3	obl	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	3	punct	_	_
@@ -25803,20 +25803,21 @@
 1	Hotellilta	hotelli	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	löytyy	löytyä	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	myös	myös	ADV	_	_	2	advmod	_	_
-4	kreikkalainen	kreikkalainen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Sing	9	amod	_	_
+4	kreikkalainen	kreikkalainen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Sing	10	amod	_	_
 5	ja	ja	CCONJ	_	_	6	cc	_	_
 6	aasialainen	aasialainen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Lainen|Number=Sing	4	conj	_	_
-7	à	à	X	_	Foreign=Yes	9	compound:nn	_	_
-8	la	la	X	_	Foreign=Yes	7	flat:foreign	_	_
-9	carte-ravintola	carte#ravintola	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	joihin	joka	PRON	_	Case=Ill|Number=Plur|PronType=Rel	13	obl	_	_
-12	voit	voida	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
-13	varata	varata	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	9	acl:relcl	_	_
-14	pöydän	pöytä	NOUN	_	Case=Gen|Number=Sing	13	obj	_	_
-15	paikan	paikka	NOUN	_	Case=Gen|Number=Sing	13	obl	_	_
-16	päällä	päällä	ADP	_	AdpType=Post	15	case	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+7	à	à	X	_	Foreign=Yes	10	compound	_	OrigLang=fr
+8	la	la	X	_	Foreign=Yes	7	flat:foreign	_	OrigLang=fr
+9	carte	carte	X	_	Foreign=Yes	7	flat:foreign	_	OrigLang=fr|SpaceAfter=No
+10	-ravintola	ravintola	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	joihin	joka	PRON	_	Case=Ill|Number=Plur|PronType=Rel	14	obl	_	_
+13	voit	voida	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
+14	varata	varata	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	10	acl:relcl	_	_
+15	pöydän	pöytä	NOUN	_	Case=Gen|Number=Sing	14	obj	_	_
+16	paikan	paikka	NOUN	_	Case=Gen|Number=Sing	14	obl	_	_
+17	päällä	päällä	ADP	_	AdpType=Post	16	case	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 # <doc id="1-421851" length="1k-10k" crawl_date="2015-05-14" url="http://ladyblackdog.blogspot.fi/2015/04/mullanvaihdosta-iloa.html" langdiff="0.45">
 # newdoc id = web24
@@ -26679,7 +26680,7 @@
 2	ihan	ihan	ADV	_	_	7	advmod	_	_
 3	totta	totta	ADV	_	_	4	advmod	_	_
 4	puhuen	puhua	VERB	_	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	7	advcl	_	_
-5	anyway	anyway	X	_	Foreign=Yes	7	discourse	_	note=check
+5	anyway	anyway	X	_	Foreign=Yes	7	discourse	_	OrigLang=en|note=check
 6	jo	jo	ADV	_	_	7	advmod	_	_
 7	menossa	mennä	VERB	_	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
 8	huomenissa	huomenissa	ADV	_	_	7	obl	_	_
@@ -26771,8 +26772,8 @@
 11	vuotta	vuosi	NOUN	_	Case=Par|Number=Sing	12	nmod	_	_
 12	nuoremman	nuori	ADJ	_	Case=Gen|Degree=Cmp|Number=Sing	13	amod	_	_
 13	poikasen	poikanen	NOUN	_	Case=Gen|Number=Sing	16	nmod:poss	_	_
-14	top	top	X	_	Foreign=Yes	16	compound:nn	_	_
-15	5	5	NUM	_	NumType=Card	14	flat:foreign	_	_
+14	top	top	X	_	Foreign=Yes	16	compound	_	OrigLang=en
+15	5	5	NUM	_	NumType=Card	14	nummod	_	_
 16	-keikkojen	keikka	NOUN	_	Case=Gen|Number=Plur	17	nmod:poss	_	_
 17	joukkoon	joukko	NOUN	_	Case=Ill|Number=Sing	8	obl	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
