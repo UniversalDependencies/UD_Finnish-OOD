@@ -9195,7 +9195,7 @@
 # text = - Veri good
 1	-	-	PUNCT	_	_	2	punct	_	_
 2	Veri	veri	NOUN	_	Case=Nom|Number=Sing	0	root	_	Note=check
-3	good	good	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en|SpacesAfter=\n\n
+3	good	good	X	_	Foreign=Yes	2	obl	_	OrigLang=en|SpacesAfter=\n\n
 
 # VFXVBS
 # Wed Jan 17 15:07:15 +0000 2018
@@ -9207,7 +9207,7 @@
 3	https://t.co/rL8wRHoYdJ	https://t.co/rL8wRHoYdJ	SYM	_	_	2	appos	_	_
 4	Avail	Avail	X	_	Foreign=Yes	2	appos	_	OrigLang=en
 5	Cams	Cams	X	_	Foreign=Yes	4	flat:foreign	_	OrigLang=en
-6	#1	#1	NUM	_	NumType=Card	4	flat:foreign	_	SpacesAfter=\n\n
+6	#1	#1	NUM	_	NumType=Card	4	nummod	_	SpacesAfter=\n\n
 
 # loimutyopaikat
 # Tue Apr 17 10:37:04 +0000 2018
@@ -16314,7 +16314,7 @@
 # text = Easy CD Creator 5 Platinium http://www.roxio.de/english/products/ecdc5/index.html
 1	Easy	Easy	X	_	Foreign=Yes	0	root	_	OrigLang=en
 2	CD	CD	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en
-3	Creator	Creator	X	_	Case=Nom|Number=Sing	1	flat:foreign	_	OrigLang=en
+3	Creator	Creator	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en
 4	5	5	NUM	_	NumType=Card	1	nmod	_	_
 5	Platinium	Platinium	X	_	Foreign=Yes	1	flat:foreign	_	OrigLang=en|SpacesAfter=\n
 6	http://www.roxio.de/english/products/ecdc5/index.html	http://www.roxio.de/english/products/ecdc5/index.html	SYM	_	_	1	discourse	_	SpacesAfter=\n
