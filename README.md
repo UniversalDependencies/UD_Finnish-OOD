@@ -49,6 +49,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: medical web social poetry
 Lemmas: manual native
 UPOS: manual native
