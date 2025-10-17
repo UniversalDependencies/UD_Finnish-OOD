@@ -11376,7 +11376,7 @@
 3	sanaa	sana	NOUN	_	Case=Par|Number=Sing	0	root	_	_
 4	tubettajista	tubettaja	NOUN	_	Case=Ela|Derivation=Ja|Number=Plur	3	nmod	_	_
 5	ja	ja	CCONJ	_	_	7	cc	_	_
-6	sen	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem|Typo=Yes	7	obj	_	_
+6	sen	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem|Typo=Yes	7	nsubj	_	_
 7	unohti	unohtaa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	koko	koko	ADJ	_	_	9	amod	_	_
 9	asian	asia	NOUN	_	Case=Gen|Number=Sing	7	obj	_	SpaceAfter=No
@@ -12401,7 +12401,7 @@
 9	voisi	voida	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	aux	_	_
 10	tehdä	tehdä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	4	ccomp	_	_
 11	myös	myös	ADV	_	_	10	advmod	_	_
-12	naislääkäri	nais#lääkäri	NOUN	_	Case=Nom|Number=Sing	10	obj	_	SpaceAfter=No
+12	naislääkäri	nais#lääkäri	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # thread_id = 13441708
@@ -18897,7 +18897,7 @@
 14	voinee	voida	AUX	_	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	15	aux	_	_
 15	ottaa	ottaa	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	6	conj	_	_
 16	tuolta	tuolta	ADV	_	_	15	advmod	_	_
-17	välistä	väli	NOUN	_	Case=Ela|Number=Sing	15	obj	_	_
+17	välistä	väli	NOUN	_	Case=Ela|Number=Sing	15	obl	_	_
 18	pois	pois	ADV	_	_	15	advmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
