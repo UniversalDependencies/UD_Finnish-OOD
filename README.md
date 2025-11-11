@@ -40,6 +40,9 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 
 # Changelog
 
+* 2020-10-30 v2.17
+  * Correct three instances of double object marking (rueter)
+  * Add candidate=nsubj:exist attribute-value pair to misc for inspection and release in v2.18 (rueter)
 * 2020-11-15 v2.7
   * Initial release in Universal Dependencies.
 
@@ -49,6 +52,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: medical web social poetry
 Lemmas: manual native
 UPOS: manual native
