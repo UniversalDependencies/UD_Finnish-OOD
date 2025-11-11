@@ -155,12 +155,12 @@
     <dep name="nmod:gobj">74</dep>
     <dep name="nmod:gsubj">26</dep>
     <dep name="nmod:poss">546</dep>
-    <dep name="nsubj">976</dep>
+    <dep name="nsubj">978</dep>
     <dep name="nsubj:cop">628</dep>
     <dep name="nsubj:outer">1</dep>
     <dep name="nummod">220</dep>
-    <dep name="obj">1000</dep>
-    <dep name="obl">1586</dep>
+    <dep name="obj">997</dep>
+    <dep name="obl">1587</dep>
     <dep name="orphan">123</dep>
     <dep name="parataxis">350</dep>
     <dep name="punct">3181</dep>
