@@ -234,7 +234,7 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 5	punasoluja	puna#solu	NOUN	_	Case=Par|Number=Plur	8	nmod	_	_
-6	paineella	paine	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
+6	paineella	paine	NOUN	_	Case=Ade|Number=Sing	4	obl	_	_
 7	8	8	NUM	_	NumType=Card	8	nummod	_	_
 8	pussia	pussi	NOUN	_	Case=Par|Number=Sing	4	obj	_	_
 9	sekä	sekä	CCONJ	_	_	10	cc	_	_
@@ -9219,12 +9219,12 @@
 3	tehtävä	tehtävä	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	Turun	Turku	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
-6	yliopisto	yli#opisto	NOUN	_	Case=Nom|Number=Sing	3	obl	_	SpaceAfter=No
+6	yliopisto	yli#opisto	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	20014	20014	NUM	_	NumType=Card	6	obl	_	_
+9	20014	20014	NUM	_	NumType=Card	6	nmod	_	_
 10	-	-	PUNCT	_	_	9	punct	_	_
-11	Turku	Turku	PROPN	_	Case=Nom|Number=Sing	6	obl	_	_
+11	Turku	Turku	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
 12	https://t.co/IHyxPtTpSS	https://t.co/IHyxPtTpSS	SYM	_	_	3	discourse	_	_
 13	https://t.co/vtmk1NuqcC	https://t.co/vtmk1NuqcC	SYM	_	_	3	discourse	_	SpacesAfter=\n\n
 
@@ -10921,12 +10921,12 @@
 # text = Ravintolatyöntekijä, LounasPatria Oy, 28900 - Pori https://t.co/tSHChyn2NJ
 1	Ravintolatyöntekijä	ravintola#työn#tekijä	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	LounasPatria	LounasPatria	PROPN	_	Case=Nom|Number=Sing	1	obl	_	_
+3	LounasPatria	LounasPatria	PROPN	_	Case=Nom|Number=Sing	1	nmod	_	_
 4	Oy	oy	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	3	flat:name	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
-6	28900	28900	NUM	_	NumType=Card	3	obl	_	_
+6	28900	28900	NUM	_	NumType=Card	3	nmod	_	_
 7	-	-	PUNCT	_	_	8	punct	_	_
-8	Pori	Pori	PROPN	_	Case=Nom|Number=Sing	6	obl	_	_
+8	Pori	Pori	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
 9	https://t.co/tSHChyn2NJ	https://t.co/tSHChyn2NJ	SYM	_	_	1	discourse	_	SpacesAfter=\n\n
 
 # RT finanssiala
@@ -27273,7 +27273,7 @@
 7	yhteistyössä	yhteis#työ	NOUN	_	Case=Ine|Number=Sing	4	obl	_	_
 8	Suomen	Suomi	PROPN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
 9	suurimman	suuri	ADJ	_	Case=Gen|Degree=Sup|Number=Sing	10	amod	_	_
-10	kaupunkilehtikustantajan	kaupunki#lehti#kustantaja	NOUN	_	Case=Gen|Derivation=Ja|Number=Sing	7	obl	_	_
+10	kaupunkilehtikustantajan	kaupunki#lehti#kustantaja	NOUN	_	Case=Gen|Derivation=Ja|Number=Sing	4	obl	_	_
 11	Etelä-Suomen	Etelä-Suomi	PROPN	_	Case=Gen|Number=Sing	12	nmod:poss	_	_
 12	Median	media	NOUN	_	Case=Gen|Number=Sing	10	appos	_	note=check
 13	kanssa	kanssa	ADP	_	AdpType=Post	10	case	_	SpaceAfter=No
