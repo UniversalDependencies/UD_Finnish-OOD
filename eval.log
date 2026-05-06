@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Finnish-OOD:
-commit 459ea89e4a438e5b729c24c83a8431378e0bf40a
-Merge: e370472 d60bfd7
+commit 7de1434b76354cb5c586b422b35d0f03c89bacc8
+Merge: 11f60a9 cf6318d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fi_ood'
@@ -25,18 +25,29 @@ Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fi --max-err=10 UD_Finnish-OOD/fi_ood-ud-test.conllu
-[Line 237 Sent cl001.22]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'pussia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 420 Sent cl001.37]: [L3 Warning verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
-[Line 440 Sent cl001.39]: [L3 Warning verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
-[Line 459 Sent cl001.40]: [L3 Warning verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
-[Line 552 Sent cl001.52]: [L3 Warning fixed-without-extpos] Fixed expression 'jnk verran' does not have the 'ExtPos' feature
-[Line 559 Sent cl001.53]: [L3 Warning verbform-fin-without-mood] Finite verb 'Ei' lacks the 'Mood' feature
-[Line 593 Sent cl001.57]: [L3 Warning fixed-without-extpos] Fixed expression 'jnk verran' does not have the 'ExtPos' feature
-[Line 659 Sent cl001.64]: [L3 Warning verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
-[Line 752 Sent cl001.75]: [L3 Warning verbform-fin-without-mood] Finite verb 'eii' lacks the 'Mood' feature
-[Line 768 Sent cl001.77]: [L3 Warning verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
-Warnings: 405
+[Line 420 Sent cl001.37]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+[Line 440 Sent cl001.39]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+[Line 459 Sent cl001.40]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+[Line 552 Sent cl001.52]: [L3 WARNING fixed-without-extpos] Fixed expression 'jnk verran' does not have the 'ExtPos' feature
+[Line 559 Sent cl001.53]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Ei' lacks the 'Mood' feature
+[Line 593 Sent cl001.57]: [L3 WARNING fixed-without-extpos] Fixed expression 'jnk verran' does not have the 'ExtPos' feature
+[Line 659 Sent cl001.64]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+[Line 752 Sent cl001.75]: [L3 WARNING verbform-fin-without-mood] Finite verb 'eii' lacks the 'Mood' feature
+[Line 768 Sent cl001.77]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+[Line 813 Sent cl001.81]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Ei' lacks the 'Mood' feature
+[Line 877 Sent cl001.88]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+[Line 927 Sent cl001.94]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ei' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 2699 Sent cl001.302]: [L3 WARNING fixed-without-extpos] Fixed expression 'nippa nappa' does not have the 'ExtPos' feature
+[Line 11721 Sent tweet109.2]: [L3 WARNING fixed-without-extpos] Fixed expression 'Onneksi olkoon' does not have the 'ExtPos' feature
+[Line 13552 Sent thread20.1]: [L3 WARNING fixed-without-extpos] Fixed expression 'hoh hoh hooo' does not have the 'ExtPos' feature
+[Line 14043 Sent thread23.30]: [L3 WARNING fixed-without-extpos] Fixed expression 'sanalla sanoen' does not have the 'ExtPos' feature
+[Line 14185 Sent thread23.42]: [L3 WARNING fixed-without-extpos] Fixed expression 'Totta kai' does not have the 'ExtPos' feature
+[Line 14224 Sent thread24.1]: [L3 WARNING fixed-without-extpos] Fixed expression 'Totta tosiaan' does not have the 'ExtPos' feature
+[Line 14573 Sent thread26.10]: [L3 WARNING fixed-without-extpos] Fixed expression 'ja niin edelleen' does not have the 'ExtPos' feature
+[Line 14981 Sent thread30.8]: [L3 WARNING fixed-without-extpos] Fixed expression 'hitto soikoot' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 400
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
