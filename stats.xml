@@ -151,7 +151,7 @@
     <dep name="flat:name">157</dep>
     <dep name="goeswith">3</dep>
     <dep name="mark">368</dep>
-    <dep name="nmod">243</dep>
+    <dep name="nmod">249</dep>
     <dep name="nmod:gobj">74</dep>
     <dep name="nmod:gsubj">26</dep>
     <dep name="nmod:poss">546</dep>
@@ -160,7 +160,7 @@
     <dep name="nsubj:outer">1</dep>
     <dep name="nummod">220</dep>
     <dep name="obj">997</dep>
-    <dep name="obl">1587</dep>
+    <dep name="obl">1581</dep>
     <dep name="orphan">123</dep>
     <dep name="parataxis">350</dep>
     <dep name="punct">3181</dep>
