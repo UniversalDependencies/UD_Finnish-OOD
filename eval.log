@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Finnish-OOD:
-commit 7de1434b76354cb5c586b422b35d0f03c89bacc8
-Merge: 11f60a9 cf6318d
+commit c7d3a6e9cecee7547bbd4437a0b8c19a47197171
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 12:42:23 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fi_ood'
 Language code (from CoNLL-U file name) = 'fi'
